@@ -1,5 +1,3 @@
-# reinforcement-learning-finance-research
-
 # Reinforcement Learning in Finance Research
 
 Predicting Bank Failures and Bankruptcy with Machine Learning and Reinforcement Learning
