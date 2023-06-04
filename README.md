@@ -1,3 +1,5 @@
+<img src="logo.png" alt="Logo" width="800" height="600">
+
 # Reinforcement Learning in Finance Research
 
 Predicting Bank Failures and Bankruptcy with Machine Learning and Reinforcement Learning
@@ -13,7 +15,7 @@ Predicting Bank Failures and Bankruptcy with Machine Learning and Reinforcement 
 
 ## Introduction
 
-This research project, by Jorge Velez and Sean Nam from the Department of Computer Science and Statistics, aims to harness the power of machine learning and reinforcement learning to analyze and predict bank failures and bankruptcy. The study is structured around several key steps, including data collection and preprocessing, feature engineering, supervised learning for classification, reinforcement learning setup, agent training, evaluation and validation, and refinement and iteration. By leveraging these techniques and iteratively refining our models, we aim to develop a robust and accurate system for predicting bank failures and minimizing their impact through strategic actions.
+This research project, by Jorge Velez and Sean Nam from the Department of Computer Science and Statistics at UIUC, aims to harness the power of machine learning and reinforcement learning to analyze and predict bank failures and bankruptcy. The study is structured around several key steps, including data collection and preprocessing, feature engineering, supervised learning for classification, reinforcement learning setup, agent training, evaluation and validation, and refinement and iteration. By leveraging these techniques and iteratively refining our models, we aim to develop a robust and accurate system for predicting bank failures and minimizing their impact through strategic actions.
 
 ## Approach
 
