@@ -1,0 +1,379 @@
+<DOCUMENT>
+<TYPE>EX-3.2
+<SEQUENCE>2
+<FILENAME>v69729ex3-2.txt
+<DESCRIPTION>EXHIBIT 3.2
+<TEXT>
+
+<PAGE>   1
+                                                                     Exhibit 3.2
+
+                              ARTICLES OF AMENDMENT
+
+                                     TO THE
+
+                       RESTATED ARTICLES OF INCORPORATION
+
+                                       OF
+
+                             WASHINGTON MUTUAL, INC.
+
+        Pursuant to the provisions of RCW 23B.10 of the Washington Business
+Corporation Act, Washington Mutual, Inc., a Washington corporation (the
+"Corporation") hereby adopts the following articles of amendment to its restated
+articles of incorporation.
+
+        FIRST:  The name of the Corporation is Washington Mutual, Inc.
+
+        SECOND: The Corporation hereby creates, from the 10,000,000 shares of
+preferred stock, no par value per share, authorized pursuant to Article II of
+the restated articles of incorporation of the Corporation, a series of preferred
+stock and hereby fixes the designation, powers, preferences, limitations, and
+relative rights of the shares of such series as follows:
+
+        Section 1. DESIGNATION, PAR VALUE AND AMOUNT. The shares of such series
+shall be designated as "Series RP Preferred Stock" (hereinafter referred to as
+"SERIES RP PREFERRED STOCK"), the shares of such series shall be with par value
+of $.01 per share, and the number of shares constituting such series shall be
+700,000; PROVIDED, HOWEVER, that, if more than a total of 700,000 shares of
+Series RP Preferred Stock shall be issuable upon the exercise of Rights (the
+"Rights") issued pursuant to the Rights Agreement, dated as of December 20,
+2000, between the Corporation and Mellon Investor Services, L.L.C., as Rights
+Agent (as amended from time to time, the "RIGHTS AGREEMENT"), the Board of
+Directors of the Corporation shall direct by resolution or resolutions that a
+certificate be properly executed, acknowledged and filed providing for the total
+number of shares of Series RP Preferred Stock authorized to be issued to be
+increased (to the extent that the Articles of Incorporation then permits) to the
+largest number of whole shares (rounded up to the nearest whole number) issuable
+upon exercise of the Rights.
+
+        Section 2. DIVIDENDS AND DISTRIBUTIONS.
+
+               2.1 Subject to the prior and superior rights of the holders of
+any shares of any series of Preferred Stock ranking prior and superior to the
+shares of Series RP Preferred Stock with respect to dividends, the holders of
+shares of Series RP Preferred Stock shall be entitled to receive, when, as and
+if declared by the Board of Directors out of assets legally available for the
+purpose, quarterly dividends payable in cash on the first business day of March,
+June, September and December in each year (each such date being referred to
+herein as a "QUARTERLY DIVIDEND PAYMENT DATE"), commencing on the first
+Quarterly Dividend Payment Date after the first issuance of a share or fraction
+of a share of Series RP Preferred Stock, in an amount per share (rounded to the
+nearest cent) equal to the greater of (a) $1.00 or (b) subject to the provision
+
+
+
+                                       1
+<PAGE>   2
+for adjustment set forth in Section 6.1, 1,000 times the aggregate per share
+amount of all cash dividends, and 1,000 times the aggregate per share amount
+(payable in kind) of all non-cash dividends or other distributions other than a
+dividend payable in shares of Common Stock, par value $.01 per share, of the
+Corporation (the "COMMON STOCK") or a subdivision of the outstanding shares of
+Common Stock (by reclassification or otherwise), declared on the Common Stock
+since the immediately preceding Quarterly Dividend Payment Date, or, with
+respect to the first Quarterly Dividend Payment Date, since the first issuance
+of any share or fraction of a share of Series RP Preferred Stock.
+
+               2.2 The Corporation shall declare a dividend or distribution on
+the Series RP Preferred Stock as provided in Section 2.1 above immediately after
+it declares a dividend or distribution on the Common Stock (other than a
+dividend payable in shares of Common Stock); PROVIDED THAT, in the event no
+dividend or distribution shall have been declared on the Common Stock during the
+period between any Quarterly Dividend Payment Date and the next subsequent
+Quarterly Dividend Payment Date, a dividend of $1.00 per share on the Series RP
+Preferred Stock shall nevertheless be payable on such subsequent Quarterly
+Dividend Payment Date.
+
+               2.3 Dividends shall begin to accrue and be cumulative on
+outstanding shares of Series RP Preferred Stock from the Quarterly Dividend
+Payment Date next preceding the date of issue of such shares of Series RP
+Preferred Stock, unless the date of issue of such shares is prior to the record
+date for the first Quarterly Dividend Payment Date, in which case dividends on
+such shares shall begin to accrue from the date of issue of such shares, or
+unless the date of issue is a Quarterly Dividend Payment Date or is a date after
+the record date for the determination of holders of shares of Series RP
+Preferred Stock entitled to receive a quarterly dividend and before such
+Quarterly Dividend Payment Date, in either of which events such dividends shall
+begin to accrue and be cumulative from such Quarterly Dividend Payment Date.
+Accrued but unpaid dividends shall not bear interest. Dividends paid on the
+shares of Series RP Preferred Stock in an amount less than the total amount of
+such dividends at the time accrued and payable on such shares shall be allocated
+pro rata on a share-by-share basis among all such shares at the time
+outstanding. The Board of Directors may fix a record date for the determination
+of holders of shares of Series RP Preferred Stock entitled to receive payment of
+a dividend or distribution declared thereon, which record date shall be not more
+than 30 days prior to the date fixed for the payment thereof.
+
+        Section 3. VOTING RIGHTS. The holders of shares of Series RP Preferred
+Stock shall have the following voting rights:
+
+
+                3.1 Except as provided in Section 3.3 and subject to the
+provision for adjustment hereinafter set forth, each share of Series RP
+Preferred Stock shall entitle the holder thereof to 1,000 votes on all matters
+submitted to a vote of the stockholders of the Corporation.
+
+                3.2 Except as otherwise provided herein or by law, the holders
+of shares of Series RP Preferred Stock and the holders of shares of Common Stock
+shall vote together as one class on all matters submitted to a vote of
+stockholders of the Corporation.
+
+                                       2
+<PAGE>   3
+
+                3.3 The following additional provisions shall apply with respect
+to the voting of shares of Series RP Preferred Stock:
+
+                    3.3.1 If, on the date used to determine stockholders of
+record for any meeting of stockholders for the election of directors, a default
+in preference dividends (as defined in Section 3.3.5 below) on the Series RP
+Preferred Stock shall exist, the holders of the Series RP Preferred Stock shall
+have the right, voting as a class as described in Section 3.3.2 below, to elect
+two directors (in addition to the directors elected by holders of Common Stock
+of the Corporation). Such right may be exercised (a) at any meeting of
+stockholders for the election of directors or (b) at a meeting of the holders of
+shares of Voting Preferred Stock (as hereinafter defined), called for the
+purpose in accordance with the Bylaws of the Corporation, until all such
+cumulative dividends (referred to above) shall have been paid in full or until
+non-cumulative dividends have been paid regularly for at least one year.
+
+                    3.3.2 The right of the holders of Series RP Preferred
+Stock to elect two directors, as described above, shall be exercised as a class
+concurrently with the rights of holders of any other series of Preferred Stock
+upon which voting rights to elect such directors have been conferred and are
+then exercisable. The Series RP Preferred Stock and any additional series of
+Preferred Stock that the Corporation may issue and that may provide for the
+right to vote with the foregoing series of Preferred Stock are collectively
+referred to herein as "VOTING PREFERRED STOCK."
+
+                    3.3.3 Each director elected by the holders of shares of
+Voting Preferred Stock shall be referred to herein as a "PREFERRED DIRECTOR." A
+Preferred Director shall continue to serve as such for a term of one year,
+except that upon any termination of the right of all holders of Voting Preferred
+Stock to vote as a class for Preferred Directors, the term of office of
+Preferred Directors then serving shall terminate. Any Preferred Director may be
+removed by, and shall not be removed except by, the vote of the holders of
+record of a majority of the outstanding shares of Voting Preferred Stock then
+entitled to vote for the election of directors, present (in person or by proxy)
+and voting together as a single class (a) at a meeting of the stockholders, or
+(b) at a meeting of the holders of shares of such Voting Preferred Stock, called
+for the purpose in accordance with the Bylaws of the Corporation.
+
+                    3.3.4 So long as a default in any preference dividends of
+the Series RP Preferred Stock shall exist or the holders of any other series of
+Voting Preferred Stock shall be entitled to elect Preferred Directors, (a) any
+vacancy in the office of a Preferred Director may be filled (except as provided
+in the following clause (b)) by an instrument in writing signed by the remaining
+Preferred Director and filed with the Corporation and (b) in the case of the
+removal of any Preferred Director, the vacancy may be filled by the vote or
+written consent of the holders of a majority of the outstanding shares of Voting
+Preferred Stock then entitled to vote for the election of directors, present (in
+person or by proxy) and voting together as a single class, at such time as the
+removal shall be effected. Each director appointed as aforesaid by the remaining
+Preferred Director shall be deemed, for all purposes hereof, to be a Preferred
+Director. Whenever (x) no default in preference dividends on the Series RP
+Preferred Stock shall exist and (y) the holders of other series of Voting
+Preferred Stock shall no longer be entitled to elect such Preferred Directors,
+then the number of directors constituting the Board of Directors of the
+Corporation shall be reduced by two.
+
+
+
+                                       3
+<PAGE>   4
+
+                    3.3.5  For purposes hereof, a "DEFAULT IN PREFERENCE
+DIVIDENDS" on the Series RP Preferred Stock shall be deemed to have occurred
+whenever the amount of cumulative and unpaid dividends on the Series RP
+Preferred Stock shall be equivalent to six full quarterly dividends or more
+(whether or not consecutive), and, having so occurred, such default shall be
+deemed to exist thereafter until, but only until, all cumulative dividends on
+all shares of the Series RP Preferred Stock then outstanding shall have been
+paid through the last Quarterly Dividend Payment Date or until, but only until,
+non-cumulative dividends have been paid regularly for at least one year.
+
+                3.4 Except as set forth herein (or as otherwise required by
+applicable law), holders of Series RP Preferred Stock shall have no general or
+special voting rights and their consent shall not be required for taking any
+corporate action.
+
+        Section 4.  CERTAIN RESTRICTIONS.
+
+                4.1 Whenever quarterly dividends or other dividends or
+distributions payable on the Series RP Preferred Stock as provided in Section 2
+are in arrears, thereafter and until all accrued and unpaid dividends and
+distributions, whether or not declared, on shares of Series RP Preferred Stock
+outstanding shall have been paid in full, the Corporation shall not:
+
+                    4.1.1 declare or pay dividends, or make any other
+distributions, on any shares of stock ranking junior (either as to dividends or
+upon liquidation, dissolution or winding up) to the Series RP Preferred Stock;
+
+                    4.1.2  declare or pay dividends, or make any other
+distributions, on any shares of stock ranking on a parity (either as to
+dividends or upon liquidation, dissolution or winding up) with the Series RP
+Preferred Stock, except dividends paid ratably on the Series RP Preferred Stock
+and all such parity stock on which dividends are payable or in arrears in
+proportion to the total amounts to which the holders of all such shares are then
+entitled;
+
+                    4.1.3  redeem or purchase or otherwise acquire for
+consideration (except as provided in Section 4.1.4 below) shares of any stock
+ranking junior (either as to dividends or upon liquidation, dissolution or
+winding up) to the Series RP Preferred Stock, provided that the Corporation may
+at any time redeem, purchase or otherwise acquire shares of any such junior
+stock in exchange for shares of any stock of the Corporation ranking junior
+(either as to dividends or upon dissolution, liquidation or winding up) to the
+Series RP Preferred Stock;
+
+                    4.1.4  redeem or purchase or otherwise acquire for
+consideration any shares of Series RP Preferred Stock, or any shares of stock
+ranking on a parity (either as to dividends or upon liquidation, dissolution or
+winding up) with the Series RP Preferred Stock, except in accordance with a
+purchase offer made in writing or by publication (as determined by the Board of
+Directors) to all holders of such shares upon such terms as the Board of
+Directors, after consideration of the respective annual dividend rates and other
+relative rights and preferences of the respective series and classes, shall
+determine in good faith will result in fair and equitable treatment among the
+respective series or classes.
+
+
+
+                                       4
+<PAGE>   5
+
+                4.2  The Corporation shall not permit any subsidiary of the
+Corporation to purchase or otherwise acquire for consideration any shares of
+stock of the Corporation unless the Corporation could, under Section 4.1,
+purchase or otherwise acquire such shares at such time and in such manner.
+
+        Section 5.  REACQUIRED SHARES. Any shares of Series RP Preferred Stock
+purchased or otherwise acquired by the Corporation in any manner whatsoever
+shall be retired and canceled promptly after the acquisition thereof. All such
+shares shall upon their cancellation become authorized but unissued shares of
+Preferred Stock and may be reissued as part of a new series of Preferred Stock
+subject to the conditions and restrictions on issuance set forth herein, in the
+Certificate of Incorporation, in any other Certificate of Amendment creating a
+series of Preferred Stock or as otherwise required by law.
+
+        Section 6.  LIQUIDATION, DISSOLUTION OR WINDING UP.
+
+                6.1 Subject to the prior and superior rights of holders of any
+shares of any series of Preferred Stock ranking prior and superior to the shares
+of Series RP Preferred Stock with respect to rights upon liquidation,
+dissolution or winding up (voluntary or otherwise), no distribution shall be
+made to the holders of shares of stock ranking junior (either as to dividends or
+upon liquidation, dissolution or winding up) to the Series RP Preferred Stock
+unless, prior thereto, the holders of shares of Series RP Preferred Stock shall
+have received per share an amount equal to the greater of 1,000 times $200.00 or
+1,000 times the payment made per share of Common Stock, plus an amount equal to
+accrued and unpaid dividends and distributions thereon, whether or not declared,
+to the date of such payment (the "SERIES RP LIQUIDATION PREFERENCE"). Following
+the payment of the full amount of the Series RP Liquidation Preference, no
+additional distributions shall be made to the holders of shares of Series RP
+Preferred Stock unless, prior thereto, the holders of shares of Common Stock
+shall have received an amount per share (the "CAPITAL ADJUSTMENT") equal to the
+quotient obtained by dividing (i) the Series RP Liquidation Preference by (ii)
+1,000 (as appropriately adjusted as set forth in Section 6.3 to reflect such
+events as stock splits, stock dividends and recapitalizations with respect to
+the Common Stock) (such number in clause (ii) being hereafter referred to as the
+"ADJUSTMENT NUMBER"). Following the payment of the full amount of the Series RP
+Liquidation Preference and the Capital Adjustment in respect of all outstanding
+shares of Series RP Preferred Stock and Common Stock, respectively, holders of
+Series RP Preferred Stock and holders of Common Stock shall receive their
+ratable and proportionate share of the remaining assets to be distributed in the
+ratio of the Adjustment Number to 1 with respect to such Preferred Stock and
+Common Stock, on a per share basis, respectively.
+
+               6.2 In the event, however, that there are not sufficient assets
+available to permit payment in full of the Series RP Liquidation Preference and
+the liquidation preferences of all other series of preferred stock, if any,
+which rank on a parity with the Series RP Preferred Stock, then such remaining
+assets shall be distributed ratably to the holders of Series RP Preferred Stock
+and the holders of such parity shares in proportion to their respective
+liquidation preferences. In the event, however, that there are not sufficient
+assets available to permit payment in full of the Capital Adjustment, then such
+remaining assets shall be distributed ratably to the holders of Common Stock.
+
+
+                                       5
+<PAGE>   6
+
+                6.3  In the event the Corporation shall (i) declare any dividend
+on Common Stock payable in shares of Common Stock, (ii) subdivide the
+outstanding Common Stock, or (iii) combine the outstanding Common Stock into a
+smaller number of shares, then in each such case the Adjustment Number in effect
+immediately prior to such event shall be adjusted by multiplying such Adjustment
+Number by a fraction the numerator of which is the number of shares of Common
+Stock outstanding immediately after such event and the denominator of which is
+the number of shares of Common Stock that were outstanding immediately prior to
+such event.
+
+        Section 7.  CONSOLIDATION, MERGER, ETC. In case the Corporation shall
+enter into any consolidation, merger, combination or other transaction in which
+the shares of Common Stock are exchanged for or changed into other stock or
+securities, cash and/or any other property, then in any such case the shares of
+Series RP Preferred Stock shall at the same time be similarly exchanged or
+changed in an amount per share equal to the Adjustment Number (as appropriately
+adjusted as set forth in Section 6.3 to reflect such events as stock splits,
+stock dividends and recapitalizations with respect to the Common Stock) times
+the aggregate amount of stock, securities, cash and/or any other property
+(payable in kind), as the case may be, into which or for which each share of
+Common Stock is changed or exchanged.
+
+        Section 8. NO REDEMPTION. The shares of Series RP Preferred Stock shall
+not be redeemable.
+
+        Section 9. RANKING. The Series RP Preferred Stock shall rank junior to
+all other series of the Corporation's Preferred Stock as to the payment of
+dividends and the distribution of assets, unless the terms of any such other
+series shall provide otherwise.
+
+        Section 10. AMENDMENT. The Articles of Incorporation of the Corporation
+shall not be further amended in any manner that would materially alter or change
+the powers, preferences or special rights of the Series RP Preferred Stock so as
+to affect them adversely without the affirmative vote of the holders of a
+majority or more of the outstanding shares of Series RP Preferred Stock, voting
+separately as a class.
+
+        Section 11. FRACTIONAL SHARES. Series RP Preferred Stock may be issued
+in fractions of a share which shall entitle the holder, in proportion to such
+holder's fractional shares, to exercise voting rights, receive dividends,
+participate in distributions and have the benefit of all other rights of holders
+of Series RP Preferred Stock.
+
+        THIRD: These Articles of Amendment were duly adopted on December 19,
+2000.
+
+                                       6
+<PAGE>   7
+        FOURTH:These Articles of Amendment were duly adopted by the Board of
+Directors, pursuant to the provisions of RCW 23B.06.020 at a meeting of the
+Board on December 19, 2000. Shareholder approval is not required.
+
+        [Remainder of page intentionally left blank.]
+
+
+
+
+                                       7
+<PAGE>   8
+        Executed this __ day of ________, 2001.
+
+
+
+                                    WASHINGTON MUTUAL, INC.
+
+
+                                    By:
+                                        --------------------------------
+                                        William Lynch
+                                        Secretary
+
+
+
+                                       8
+
+</TEXT>
+</DOCUMENT>

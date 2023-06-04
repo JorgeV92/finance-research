@@ -1,0 +1,291 @@
+<DOCUMENT>
+<TYPE>EX-10.9.4
+<SEQUENCE>16
+<FILENAME>v69729ex10-9_4.txt
+<DESCRIPTION>EXHIBIT 10.9.4
+<TEXT>
+
+<PAGE>   1
+
+                                                                EXHIBIT 10.9.4
+
+
+
+                                AMENDMENT TO THE
+                             WASHINGTON MUTUAL, INC.
+                     RETIREMENT SAVINGS AND INVESTMENT PLAN
+                AMENDED AND RESTATED EFFECTIVE SEPTEMBER 30, 1998
+
+
+
+        THIS AMENDMENT to the Washington Mutual, Inc. Retirement Savings and
+Investment Plan (the "RSIP") is made by Washington Mutual, Inc. (the "Company")
+on this 21st day of December, 1999.
+
+                                    RECITALS:
+
+        WHEREAS, the Company maintains the RSIP for the benefit of its eligible
+employees;
+
+        WHEREAS, the Company has merged with H. F. Ahmanson & Company
+("Ahmanson");
+
+        WHEREAS, the Ahmanson Advantage Account (the "Ahmanson Plan") has been
+merged into the RSIP;
+
+        WHEREAS, the Company desires to amend the RSIP to provide for (i)
+participation therein of former Ahmanson employees hired by the Company, (ii)
+the preservation of certain features of the Ahmanson Plan, (iii) the
+clarification of the matching contribution provisions, and (iv) other minor
+clarifications or changes to reflect statutory amendments; and
+
+        WHEREAS, the Company may amend the RSIP at any time pursuant to Article
+XVI thereof;
+
+        NOW, THEREFORE, the RSIP is hereby amended as follows:
+
+        1. Section 2.13 is restated in its entirety to read as set forth below:
+
+           2.13 COMPENSATION.
+
+                        (a) SCOPE OF PROVISION. Compensation as defined in this
+                Section 2.13 shall apply for purposes of determining:
+
+                        (1) The identity of Highly Compensated Employees;
+
+                        (2) The limitation on Annual Additions;
+
+                        (3) The Actual Deferral Percentage;
+
+                        (4) The Actual Matching Percentage; and
+
+                        (5) The Top Heavy Plan provisions.
+
+                        (b) INCLUSIONS. A Participant's Compensation consists of
+                the Participant's wages, salaries, fees for personal services,
+
+<PAGE>   2
+
+                commissions, production incentive compensation, bonuses and
+                other amounts received (without regard to whether or not an
+                amount is paid in cash) for personal services actually rendered
+                in the course of employment with an Employer as an Employee and
+                to the extent that the amounts are includible in gross income.
+
+                        (c) EXCLUSIONS. A Participant's Compensation does not
+                include:
+
+                        (1) Severance Pay;
+
+                        (2) Moving expenses;
+
+                        (3) Long-term disability insurance payments;
+
+                        (4) Nonqualified deferred compensation;
+
+                        (5) Compensatory time;
+
+                        (6) Fringe benefits or amounts attributable to any
+                            employee benefit plan which are not already excluded
+                            under (1)-(5) above;
+
+                        (7) Employer contributions (i) to a plan of deferred
+                            compensation to the extent such contributions are
+                            not included in the gross income of the Participant
+                            for the taxable year in which contributed; or (ii)
+                            on behalf of the Participant to a simplified
+                            employee pension plan to the extent such
+                            contributions are deductible under the Code;
+
+                        (8) Any distributions from a plan of deferred
+                            compensation whether or not such distributions are
+                            includible in the gross income of the Participant
+                            when distributed (except for amounts received from
+                            an unfunded, nonqualified plan in the year such
+                            amounts are includible in the Employee's gross
+                            income);
+
+                        (9) Amounts realized from the sale, exchange or other
+                            disposition of stock acquired under a qualified
+                            stock option;
+
+                       (10) Amounts not otherwise described in this section
+                            2.13(c) that receive special tax benefits; and
+
+                       (11) Contributions made by an Employer (whether or not
+                            under a salary reduction agreement) towards the
+                            purchase of a 403(b) annuity contract, regardless of
+                            whether the contributions are excludible from the
+                            gross income of the Participant.
+
+                        (d) ADDITIONAL COMPUTATION RULES REGARDING DETERMINATION
+                OF THE LIMITATION ON ANNUAL ADDITIONS. For purposes of
+                determining the limitations on Annual Additions, (i) amounts
+                realized from the exercise of a nonqualified stock option or
+                when restricted stock (or property) becomes freely transferable
+                or no longer subject to a substantial risk of forfeiture, and
+                (ii) Compensation, as defined herein, taken into account for a
+                Limitation
+
+
+<PAGE>   3
+
+                Year, is the Compensation actually paid or made available to the
+                Participant during such year, as well as amounts not included in
+                taxable income by reason of sections 125 or 402(e)(3) of the
+                Code.
+
+                        (e) ADDITIONAL COMPUTATION RULES REGARDING DETERMINATION
+                OF IDENTITY OF HIGHLY COMPENSATED EMPLOYEES, THE ACTUAL DEFERRAL
+                PERCENTAGE, THE ACTUAL MATCHING PERCENTAGE AND THE TOP HEAVY
+                PROVISIONS. For the purposes of determining the identity of
+                Highly Compensated Employees, the Actual Deferral Percentage,
+                the Actual Matching Percentage and the Top Heavy Plan
+                provisions, Compensation shall also include any amounts excluded
+                from gross income of an Employee under sections 125, 402(e)(3),
+                402(h)(1)(B), or 403(b) of the Code.
+
+                        (f) STATUTORY LIMITS. Effective for Plan Years beginning
+                before January 1, 1994, Compensation for all purposes in excess
+                of $200,000 (as adjusted at the same time and the same manner as
+                under section 415(d) of the Code) shall be disregarded.
+                Effective for Plan Years beginning on or after January 1, 1994,
+                Compensation for all purposes in excess of $150,000 (adjusted as
+                provided in section 401(a)(17)(B) of the Code) shall be
+                disregarded.
+
+        2. Section 2.41 of the RSIP is amended by a new paragraph (27), to read
+as set forth below:
+
+                        (27) Eligible Employees who are credited with Service
+                        for service with H. F. Ahmanson & Company or its
+                        affiliates may first enter the Plan on July 1, 1999.
+
+        3. Section 3.3(a) is amended in its entirety to read as set forth below:
+
+                        (a) If he was a Participant prior to his separation from
+                Service, the Plan Entry Date which is coincident with or which
+                next follows the day on which he performs his first Hour of
+                service as a result of his return to Service, or
+
+        4. Section 4.1(b) is amended by the addition of the following new
+paragraph at the end of the existing provision:
+
+                The foregoing notwithstanding, the Matching Contribution shall
+                be made on behalf of each eligible Participant who is making
+                Salary Deferral Contributions at a rate of less than 3 percent
+                of such Participant's Considered Compensation in the percentage
+                specified by the Employer. The Matching Contribution made on
+                behalf of each eligible Participant who is making Salary
+                Deferral
+
+
+<PAGE>   4
+
+                Contributions at a rate of 3 percent or more of such
+                Participant's Considered Compensation shall be bifurcated as
+                follows:
+
+                        (1) At the time periodic Matching Contributions are made
+                        during the year, such Participant shall receive a
+                        Matching Contribution in the amount specified with
+                        respect to a Salary Deferral Contribution equal to 3
+                        percent of the Participant's Considered Compensation;
+                        and
+
+                        (2) As of the end of the year, any such Participant who
+                        is actively employed as of the last day of the year
+                        shall receive Matching Contributions with respect to his
+                        or her Salary Deferral Contributions in excess of 3
+                        percent of his or her Considered Compensation, in the
+                        percentage specified by the Employer, to the extent such
+                        Matching Contributions do not exceed the applicable
+                        limitation of the Plan and the Code.
+
+        3. Section 7.5 of the Plan is amended by the addition of new paragraph
+(h) to read as set forth below:
+
+                        (h) Each Employee who has an account under the Plan
+                attributable to such Employee's participation in a defined
+                contribution plan maintained by H. F. Ahmanson & Company or its
+                affiliates shall be vested in such account according to the
+                following schedule:
+
+                        (1) Ahmanson Advantage Account - Company Matching
+                        Account:
+
+<TABLE>
+<CAPTION>
+                            Years of Vesting Service                 Percent Vested
+                            ------------------------                 --------------
+<S>                                                                      <C>
+                                        1                                  0%
+                                        2                                 40%
+                                        3                                 60%
+                                        4                                 80%
+                                        5                                100%
+</TABLE>
+
+                        (2) Coast Match Account: 100% Vested
+
+                        (3) HSB/Coast Rollover Account: 100% Vested
+
+                The foregoing notwithstanding, each former employee of H. F.
+                Ahmanson & Company or who terminated employment with H. F.
+                Ahmanson & Company or the Company between March 17, 1998, and
+                March 31, 2000 shall be fully vested in any account maintained
+                on behalf of such former employee under the Plan as a result of
+                the merger of the Ahmanson Advantage Account into the Plan.
+
+
+<PAGE>   5
+
+        4. Effective January 1, 2000, Section 8.1(d) is amended by the addition
+of new subparagraph (6), to read as set forth below:
+
+                        (6) An active Employee who commenced receipt of his or
+                        her Vested Accrued Benefit pursuant to a superseded
+                        definition of Required Commencement Date, but whose
+                        Required Commencement Date pursuant to the version of
+                        Section 2.49 in effect as of January 1, 2000 has not
+                        occurred, may suspend distribution of his or her Vested
+                        Accrued Benefit until a subsequent Required Commencement
+                        Date. Any Employee's election to suspend distribution of
+                        a Vested Accrued Benefit pursuant to this Section
+                        8.1(d)(6) must be made pursuant to a one-time
+                        irrevocable election which is executed and will take
+                        effect during such Employee's active employment with the
+                        Company and satisfies such other rules and procedures as
+                        the Administration Committee shall require.
+
+        5. Article IX is amended by addition of a new Section 9.8, to read as
+set forth below:
+
+        9.8 ACCOUNTS RELATING TO BOWERY SAVINGS PLAN. Amounts maintained in
+        accounts under the Plan attributable to rollover accounts maintained
+        under the Bowery Savings Plan may be withdrawn by Employees in
+        accordance with the provisions with respect to inservice withdrawals of
+        such accounts contained in the Bowery Savings Plan as in effect on
+        December 31, 1998.
+
+        6. Section 1 of Appendix A is amended by removing the word "and" at the
+end of subsection c, by replacing the period at the end of subsection d with
+"; and", and by the addition of a new subsection e, to read as set forth below:
+
+                e. H.F. Ahmanson & Company.
+
+        IN WITNESS WHEREOF, the undersigned, an authorized officer of the
+Company, has executed this amendment on the day and year first written above.
+
+
+                                            WASHINGTON MUTUAL, INC.
+
+
+                                            By:________________________________
+                                            Its:_______________________________
+
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,515 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ O3lU7Nv2cOXcwEaI5Ciw3/7RRRQgSkRlR2f5ey2k2iby9vNVvCJD623b5LyjBJDz
+ oEjVvpOmQQFZR7m2+Nl/ag==
+
+<SEC-DOCUMENT>0000806085-01-000029.txt : 20010312
+<SEC-HEADER>0000806085-01-000029.hdr.sgml : 20010312
+ACCESSION NUMBER:		0000806085-01-000029
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20001130
+FILED AS OF DATE:		20010309
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LEHMAN BROTHERS HOLDINGS INC
+		CENTRAL INDEX KEY:			0000806085
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				133216325
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-09466
+		FILM NUMBER:		1565301
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AMERICAN EXPRESS TWR
+		STREET 2:		3 WORLD FINANCIAL CNTR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10285
+		BUSINESS PHONE:		2125267000
+
+	MAIL ADDRESS:	
+		STREET 1:		AMERICAN EXPRESS TOWER 15TH FL
+		STREET 2:		2 WORLD TRADE CENTER
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10048
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SHEARSON LEHMAN HUTTON HOLDINGS INC
+		DATE OF NAME CHANGE:	19901017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>LEHMAN BROTHERS HOLDINGS INC. FORM 10-K/A
+<TEXT>
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                           --------------------------
+                                   Form 10-K/A
+                                 Amendment No. 1
+                                   (Mark One)
+
+                      |X| Annual Report Pursuant to Section
+                          13 or 15(d) of the Securities
+                       Exchange Act of 1934 For the fiscal
+                          year ended November 30, 2000
+                                       OR
+                  |_| Transition Report Pursuant to Section 13
+                   or 15(d) of the Securities Exchange Act of
+                       1934 For the transition period from
+                           __________ to ____________
+                          Commission File Number 1-9466
+                           ---------------------------
+                          Lehman Brothers Holdings Inc.
+             (Exact Name of Registrant as Specified in its Charter)
+
+               Delaware                                13-3216325
+   (State or other jurisdiction of        (I.R.S. Employer Identification No.)
+   incorporation or organization)
+
+      3 World Financial Center
+         New York, New York                               10285
+ (Address of principal executive offices)               (Zip Code)
+
+   Registrant's telephone number, including area code: (212) 526-7000
+   Securities  registered  pursuant to Section 12(b) of the Act:
+
+<TABLE>
+<CAPTION>
+
+<S>     <C>    <C>    <C>    <C>    <C>    <C>
+                                                                                      Name of each exchange
+Title of each                                                                          on which registered
+class
+Common Stock, $.10 par value                                                           New York Stock Exchange
+                                                                                       Pacific Exchange
+Depositary Shares representing 5.94% Cumulative Preferred Stock, Series C              New York Stock Exchange
+Depositary Shares representing 5.67% Cumulative Preferred Stock, Series D              New York Stock Exchange
+Depositary Shares representing Fixed/Adjustable Rate Cumulative Preferred Stock,
+Series E                                                                               New York Stock Exchange
+8% Trust Preferred Securities, Series I, of Subsidiary Trust (and Registrant's
+guarantee thereof)                                                                     New York Stock Exchange
+7.875% Trust Preferred Securities, Series J, of Subsidiary Trust (and
+Registrant's guarantee thereof)                                                        New York Stock Exchange
+Dow Jones Internet Index Stock Upside Note Securities Due 2004                         American Stock Exchange
+10 Uncommon Values Index Basket Adjusting Structured Equity Securities Notes Due       American Stock Exchange
+2004
+10 Uncommon Values Index Basket Adjusting Structured Equity Securities Notes           American Stock Exchange
+Series B Due 2004
+10 Uncommon Values Index Basket Adjusting Structured Equity Securities Notes Due
+2003                                                                                   American Stock Exchange
+10  Uncommon  Values  Index  Structured  Equity Securities  Notes  Due 2001            American Stock Exchange
+Notes due  November  14,
+2007-Performance  Linked to Marsh & McLennan Companies,  Inc. (MMC) Common Stock       American Stock Exchange
+Notes due November 14, 2007-Performance Linked to Pfizer Inc. (PFE) Common Stock       American Stock Exchange
+8 3/4% Notes Due 2002                                                                  New York Stock Exchange
+8.30% Quarterly Income Capital  Securities Series A, Due December 31, 2035             New York Stock Exchange
+</TABLE>
+
+
+ Securities registered pursuant to Section 12(g) of the Act: None
+
+     Indicate by check mark  whether the  Registrant:  (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the  Securities  Exchange Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+Registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days. Yes |X|: No |_|
+     Indicate by check mark if disclosure of delinquent  filers pursuant to Item
+405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein,
+and will not be contained,  to the best of Registrant's knowledge, in definitive
+proxy or information  statements  incorporated  by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. |X|:
+     The aggregate  market value of the voting and nonvoting  common equity held
+by  non-affiliates  of the  Registrant at February 12, 2001,  was  approximately
+$19,891,400,000.  For purposes of this  information,  the outstanding  shares of
+common stock owned by directors  of the  Registrant  were deemed to be shares of
+common stock held by affiliates.  As of February 12, 2001, 250,170,237 shares of
+the  Registrant's  Common  Stock,  $.10 par value per  share,  were  issued  and
+outstanding.
+
+
+                         DOCUMENTS INCORPORATED BY REFERENCE:
+(1) Lehman Brothers  Holdings Inc.  2000 Annual Report to Stockholders (the
+    "2000 Annual  Report")-Incorporated  in part in Parts I,
+    II and IV.
+(2) Lehman Brothers Holdings Inc. Definitive Proxy Statement for its 2001 Annual
+    Meeting of Stockholders (the "Proxy Statement")-Incorporated in part in Part
+    III.
+
+<PAGE>
+
+
+On February 28, 2001,  Lehman  Brothers  Holdings Inc. filed with the Securities
+and Exchange Commission its Annual Report on Form 10-K for the fiscal year ended
+November 30, 2000 (the "2000 Form 10-K").  This Amendment No. 1 to the 2000 Form
+10-K has been  filed  solely to submit a portion  of  Exhibit  13  inadvertently
+omitted from such 2000 Form 10-K as filed:
+
+         The  following   portion  of  the  Company's   2000  Annual  Report  to
+         Stockholders,   which  is  incorporated  by  reference  herein:  "Other
+         Stockholder Information", page 96.
+
+                                   PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+         (a)       3. Exhibits:
+
+   Exhibit
+     No.
+- --------------
+
+     3.1  Restated  Certificate of Incorporation of the Registrant dated May 27,
+          1994  (incorporated  by reference  to Exhibit 3.1 to the  Registrant's
+          Transition  Report on Form 10-K for the eleven  months ended  November
+          30, 1994)
+     3.2  Certificate of  Designations  with respect to the  Registrant's  5.94%
+          Cumulative  Preferred  Stock,  Series C (incorporated  by reference to
+          Exhibit 4.1 to the Registrant's  Current Report on Form 8-K filed with
+          the Commission on May 13, 1998)
+     3.3  Certificate of  Designations  with respect to the  Registrant's  5.67%
+          Cumulative  Preferred  Stock,  Series D (incorporated  by reference to
+          Exhibit 4.2 to the Registrant's  Current Report on Form 8-K filed with
+          the Commission on July 23, 1998)
+     3.4  Certificate  of   Designations   with  respect  to  the   Registrant's
+          Fixed/Adjustable   Rate   Cumulative   Preferred   Stock,   Series   E
+          (incorporated by reference to Exhibit 4.2 to the Registrant's  Current
+          Report on Form 8-K filed with the Commission on March 30, 2000)
+     3.5  By-Laws of the Registrant,  amended as of March 26, 1997 (incorporated
+          by reference to Exhibit 3 to the Registrant's Quarterly Report on Form
+          10-Q for the quarter ended February 28, 1997)
+     4.1  Standard  multiple  series  indenture  provisions  with respect to the
+          senior and subordinated debt securities  (incorporated by reference to
+          Exhibit 4(a) to  Post-Effective  Amendment  No. 1 to the  Registrant's
+          Registration Statement on Form S-3 (Reg. No. 33-16141))
+     4.2  Indenture with respect to the senior debt securities  (incorporated by
+          reference to Exhibit  4(b) to  Post-Effective  Amendment  No. 1 to the
+          Registrant's Registration Statement on Form S-3 (Reg. No. 33-16141))
+     4.3  First   Supplemental   Indenture  with  respect  to  the  senior  debt
+          securities   (incorporated   by  reference  to  Exhibit  4(m)  to  the
+          Registrant's Registration Statement on Form S-3 (Reg. No. 33-25797))
+     4.4  Second  Supplemental   Indenture  with  respect  to  the  senior  debt
+          securities   (incorporated   by  reference  to  Exhibit  4(e)  to  the
+          Registrant's Registration Statement on Form S-3 (Reg. No. 33-49062))
+     4.5  Third   Supplemental   Indenture  with  respect  to  the  senior  debt
+          securities   (incorporated   by  reference  to  Exhibit  4(f)  to  the
+          Registrant's Registration Statement on Form S-3 (Reg. No. 33-46146))
+     4.6  Fourth  Supplemental   Indenture  with  respect  to  the  senior  debt
+          securities  (incorporated by reference to Exhibit 4(f) to Registrant's
+          Registration  Statement  on Form 8-A filed  with the SEC on October 7,
+          1993)
+     4.7  Fifth   Supplemental   Indenture  with  respect  to  the  senior  debt
+          securities   (incorporated   by   reference   to   Exhibit   4(h)   to
+          Post-Effective  Amendment  No.  1  to  the  Registrant's  Registration
+          Statement on Form S-3 (Reg. No. 33-56615))
+     4.8  Sixth   Supplemental   Indenture  with  respect  to  the  senior  debt
+          securities   (incorporated   by  reference  to  Exhibit  4(h)  to  the
+          Registrant's Registration Statement on Form S-3 (No. 333-38227))
+     4.9  The other instruments  defining the rights of holders of the long-term
+          debt  securities of the  Registrant and its  subsidiaries  are omitted
+          pursuant to section  (b)(4)(iii)(A) of Item 601 of Regulation S-K. The
+          Registrant hereby agrees to furnish copies of these instruments to the
+          Securities and Exchange Commission upon request.
+     10.1 Agreement of  Tenants-In-Common by and among American Express Company,
+          American  Express Bank Ltd.,  American Express Travel Related Services
+          Company,   Inc.,   Shearson  Lehman  Brothers  Inc.,  Shearson  Lehman
+          Government  Securities,  Inc. and  Shearson  Lehman  Commercial  Paper
+          Incorporated  (incorporated  by  reference  to  Exhibit  10.1  to  the
+          Registrant's  Transition  Report  on Form 10-K for the  eleven  months
+          ended November 30, 1994)
+
+                                       2
+<PAGE>
+
+
+
+
+   Exhibit
+     No.
+- --------------
+
+   10.2   Tax Allocation  Agreement  between  Shearson Lehman Brothers  Holdings
+          Inc.  and  American  Express  Company  (incorporated  by  reference to
+          Exhibit 10.2 to the  Registrant's  Transition  Report on Form 10-K for
+          the eleven months ended November 30, 1994)
+   10.3+  Lehman   Brothers   Inc.   Executive   and   Select   Employees   Plan
+          (incorporated  by  reference  to  Exhibit  10.4  to  the  Registrant's
+          Registration Statement on Form S-1 (Reg. No. 33-12976))
+   10.4+  Lehman  Brothers   Holdings  Inc.   Deferred   Compensation  Plan  for
+          Non-Employee Directors  (incorporated by reference to Exhibit 10.11 to
+          the  Registrant's   Registration  Statement  on  Form  S-1  (Reg.  No.
+          33-12976))
+   10.5   Amended and Restated  Agreements  of Limited  Partnership  of Shearson
+          Lehman  Hutton  Capital  Partners II  (incorporated  by  reference  to
+          Exhibit 10.48 to the  Registrant's  Annual Report on Form 10-K for the
+          year ended December 31, 1988)
+   10.6+  Lehman  Brothers   Holdings  Inc.  1994   Management   Ownership  Plan
+          (incorporated  by  reference  to  Exhibit  10.25  to the  Registrant's
+          Registration Statement on Form S-1 (Reg. No. 33-52977))
+   10.7+  Lehman  Brothers   Holdings  Inc.  1996   Management   Ownership  Plan
+          (incorporated  by  reference  to  Exhibit  10.1  to  the  Registrant's
+          Quarterly Report on Form 10-Q for the quarter ended August 31, 1996)
+   10.8+  Lehman Brothers Holdings Inc. Short-Term  Executive  Compensation Plan
+          (incorporated  by  reference  to  Exhibit  10.2  to  the  Registrant's
+          Quarterly Report on Form 10-Q for the quarter ended August 31, 1996)
+   10.9+  Lehman Brothers Holdings Inc. 1996 Short-Term  Executive  Compensation
+          Plan  (incorporated  by reference to Exhibit 10.26 to the Registrant's
+          Registration Statement on Form S-1 (Reg. No. 33-52977))
+   10.10  Option  Agreement,  dated May 27, 1994, by and among American  Express
+          Company,  American Express Bank Ltd.,  American Express Travel Related
+          Services  Company,  Inc.,  Lehman  Brothers  Inc.,  Lehman  Government
+          Securities,    Inc.   and   Lehman   Commercial   Paper   Incorporated
+          (incorporated  by  reference  to  Exhibit  10.31  to the  Registrant's
+          Transition  Report Form 10-K for the Eleven Months ended  November 30,
+          1994)
+   10.11+ Lehman  Brothers  Holdings  Inc. Cash Award Plan.  (incorporated  by
+          reference to Exhibit 10.36 to the  Registrant's  Transition  Report on
+          Form 10-K for the Eleven Months ended November 30, 1994)
+   10.12  Amended  and  Restated  Agreement  of  Limited  Partnership  of Lehman
+          Brothers  Capital  Partners  III, L.P.  (incorporated  by reference to
+          Exhibit 10.27 to the  Registrant's  Annual Report on Form 10-K for the
+          fiscal year ended November 30, 1995)
+   10.13  Agreement of Limited  Partnership of Lehman Brothers  Capital Partners
+          IV,  L.P.   (incorporated   by  reference  to  Exhibit  10.30  to  the
+          Registrant's  Annual  Report on Form 10-K for the  fiscal  year  ended
+          November 30, 1997)
+   10.14  A  description   of  the  Lehman   Brothers   Supplemental   Executive
+          Retirement Plan is contained under the caption  "Pension  Benefits" on
+          page  17  of  the  Proxy  Statement  and  is  incorporated  herein  by
+          reference.
+   12     Computation in support of ratio of earnings to fixed charges, combined
+          fixed charges and preferred dividends (previously filed)
+   13     The  following  portions  of  the  Company's  2000  Annual  Report  to
+          Stockholders, which are incorporated by reference herein:
+                 "Management's   Discussion  and  Analysis  of  Financial
+                  Condition  and  Results  of  Operations", pages 37 -52
+                 (previously filed);
+                 "Consolidated  Financial Statements",  pages 53 -87 (previously
+                 filed);
+                 "Selected Financial Data", page 88 (previously filed);
+                 and "Other Stockholder Information", page 96 (filed herewith)*.
+   21   List of the Registrant's Subsidiaries (previously filed)
+   23   Consent of Ernst & Young LLP (previously filed)
+   24   Powers of Attorney (previously filed)
+- ------------------------------
+
+     *   Filed herewith
+
+     +   Management contract or compensatory plan or arrangement  required to be
+         filed as an exhibit to this Form 10-K pursuant to Item 14(c)
+
+                                       3
+<PAGE>
+
+
+
+                                                             SIGNATURES
+
+         Pursuant to the  requirements  of Section 13 or 15(d) of the Securities
+Exchange Act of 1934,  the  Registrant  has duly caused this Annual Report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                  LEHMAN BROTHERS HOLDINGS INC.
+                                  (Registrant)
+
+ March 9, 2001                    By:             /s/ JEFFREY A. WELIKSON
+                                                      Jeffrey A. Welikson
+                                                        Vice President
+
+         Pursuant to the  requirements  of the Securities  Exchange Act of 1934,
+this  report has been  signed  below by the  following  persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+<TABLE>
+<CAPTION>
+<S>     <C>    <C>    <C>    <C>    <C>    <C>
+
+      Signatures                                           Title                      Date
+
+                   *                    Chief Executive Officer and Chairman of    March 9, 2001
+- --------------------------------------- the Board of Directors (principal
+         Richard S. Fuld, Jr.           executive officer)
+
+
+                   *                    Chief Financial Officer and Senior         March 9, 2001
+- --------------------------------------- Vice President (principal financial and
+            David Goldfarb              accounting officer)
+
+
+                   *                    Director                                   March 9, 2001
+- ---------------------------------------
+          Michael L. Ainslie
+
+                   *                    Director                                   March 9, 2001
+- ---------------------------------------
+             John F. Akers
+
+                   *                    Director                                   March 9, 2001
+- ---------------------------------------
+           Roger S. Berlind
+
+                   *                    Director                                   March 9, 2001
+- ---------------------------------------
+         Thomas H. Cruikshank
+
+                   *                    Director                                   March 9, 2001
+- ---------------------------------------
+             Henry Kaufman
+
+                   *                    Director                                   March 9, 2001
+- ---------------------------------------
+           John D. Macomber
+
+                   *                    Director                                   March 9, 2001
+- ---------------------------------------
+             Dina Merrill
+
+
+  *By:      /s/ JEFFREY A. WELIKSON                                                 March 9, 2001
+        -------------------------------
+              Jeffrey A. Welikson
+              (Attorney-in-Fact)
+
+</TABLE>
+                                       4
+
+
+<PAGE>
+                              EXHIBIT INDEX
+
+   Exhibit
+     No.
+- -------------
+
+     13   The  following   portion  of  the  Company's  2000  Annual  Report  to
+          Stockholders, which is incorporated by reference herein:
+
+            "Other Stockholder Information", page 96
+
+
+
+
+                                      5
+
+<PAGE>
+                                                   EXHIBIT 13 (in part)
+
+
+Other Stockholder Information
+
+
+
+Common Stock
+Ticker Symbol: LEH
+The common  stock of Lehman  Brothers  Holdings  Inc.  is listed on the New York
+Stock Exchange and on the Pacific  Exchange.  As of January 30, 2001, there were
+22,554 holders of record of the Company's common stock. On January 31, 2001, the
+last reported sales price of Lehman Brothers' common stock was $82.28.
+
+Annual Meeting
+Lehman Brothers' annual meeting of stockholders  will be held on Tuesday,  April
+3, 2001 at 10:30 a.m. at 3 World Financial Center, 26th Floor, 200 Vesey Street,
+New York, New York 10285.
+
+Dividends
+Effective January 2001, Lehman Brothers' Board of Directors increased the fiscal
+2001  dividend  rate to $0.28 per common share from an annual  dividend  rate of
+$0.22 per share in fiscal 2000.  The dividend  rate  reflects  Lehman  Brothers'
+two-for-one  stock split on October 20, 2000.  Dividends on the Company's common
+stock are generally payable, following declaration by the Board of Directors, on
+the last business day of February, May, August and November.
+
+Registrar and Transfer Agent for
+Common Stock
+Questions regarding dividends, transfer requirements, lost certificates, changes
+of address,  direct  deposit of  dividends,  the direct  purchase  and  dividend
+reinvestment plan, or other inquiries should be directed to:
+
+The Bank of New York
+Shareholders Services Department
+P.O. Box 11258
+Church Street Station
+New York, New York 10286-1258
+Telephone: (800) 824-5707 (U.S.)
+(610) 312-5303 (non.U.S.)
+E-mail:shareowner-svcs@bankofny.com
+Website: http://www.stockbny.com
+
+Direct Purchase and Dividend
+Reinvestment Plan
+Lehman  Brothers' Direct Purchase and Dividend  Reinvestment  Plan provides both
+existing  stockholders  and first-time  investors  with an alternative  means of
+purchasing  the  Company's  stock.  The  plan  has no  minimum  stock  ownership
+requirements for eligibility and enrollment.  Plan participants may reinvest all
+or a portion of cash  dividends  and/or make  optional  cash  purchases  up to a
+maximum of $175,000 per year without  incurring  commissions or service charges.
+Additional  information and enrollment  forms can be obtained from the Company's
+Transfer Agent listed above.
+
+Annual Report and Form 10-K
+Lehman  Brothers will make  available  upon request copies of this Annual Report
+and the Annual  Report on Form 10-K as filed with the  Securities  and  Exchange
+Commission. Requests may be directed to:
+
+Jeffrey A. Welikson
+Corporate Secretary
+Lehman Brothers Holdings Inc.
+1 World Financial Center, 27th Floor
+New York, New York 10281
+Telephone: (646) 836-2250
+
+Independent Auditors
+Ernst & Young LLP
+787 Seventh Avenue
+New York, New York 10019
+Telephone: (212) 773-3000
+
+Investor Relations
+(212) 526-8381
+
+Media Relations
+(212) 526-4379
+
+Website Address
+http://www.lehman.com
+                                       6
+<PAGE>
+
+<TABLE>
+<CAPTION>
+<S>     <C>    <C>    <C>    <C>    <C>    <C>
+
+PRICE RANGE OF COMMON STOCK
+
+          Three months ended
+          2000                                        1999
+
+          Nov. 30    Aug. 31    May 31     Feb. 29    Nov. 30   Aug. 31    May 31     Feb. 28
+High      $80.0000   $72.5117   $51.7188   $47.5000   $41.9375  $31.2813   $33.7500   $29.9375
+Low       $49.5000   $40.8125   $36.2500   $31.0625   $26.6563  $24.1250   $25.0313   $20.4375
+</TABLE>
+
+96
+
+                                       7
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

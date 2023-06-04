@@ -1,0 +1,121 @@
+<DOCUMENT>
+<TYPE>EX-10.16
+<SEQUENCE>6
+<FILENAME>a2071673zex-10_16.txt
+<DESCRIPTION>EXHIBIT 10.16
+<TEXT>
+<Page>
+
+                                                                   EXHIBIT 10.16
+
+                    AMENDMENT TO PURCHASE AND SALE AGREEMENT
+
+            AMENDMENT TO PURCHASE AND SALE AGREEMENT (this "AGREEMENT") made as
+      of the 19th day of October, 2001 between MSDW 745, LLC, a Delaware limited
+      liability company, having an address at 1633 Broadway, New York, N.Y.
+      10036 ("SELLER") and LB 745 LLC, a Delaware limited liability company,
+      having an address at 101 Hudson Street, Jersey City, New Jersey 07302
+      ("PURCHASER").
+
+                              W I T N E S S E T H :
+                              - - - - - - - - - -
+
+
+      WHEREAS, Purchaser and Seller entered into a Purchase and Sale Agreement
+dated as of October 19, 2001(the "PSA"); and
+
+      WHEREAS, Purchaser and Seller desire to amend the PSA as set for herein.
+
+      NOW, THEREFORE, in consideration of the foregoing and the mutual covenants
+and agreements herein contained, the parties hereto covenant and agree as
+follows:
+
+      Section 4 of the PSA is deleted in its entirety and the following is
+substituted in its place and stead:
+
+            "4.   PURCHASE PRICE AND DEPOSIT.
+
+            The purchase price to be paid by Purchaser to Seller for the
+      Property (the "PURCHASE PRICE") is Seven Hundred Forty Eight Million
+      Dollars ($748,000,000). The Purchase Price shall be allocated between: (a)
+      Ground Leasehold - $458,852,685, (b) Building and Interior Improvements -
+      $153,947,315 and (c) FF&E - $135,200,000. The Purchase Price shall be
+      payable as follows:
+
+                  (a) Simultaneously with the execution of this Agreement by
+      Purchaser, Purchaser is delivering directly to Fried, Frank, Harris,
+      Shriver & Jacobson, as escrow agent ("ESCROW AGENT") by wire transfer the
+      amount of One Hundred Million Dollars ($100,000,000) (the "DEPOSIT"). The
+      Deposit shall be held in an interest bearing escrow account by Escrow
+      Agent in accordance with an escrow agreement between Seller, Purchaser and
+      Escrow Agent, executed simultaneously herewith. The Deposit shall be
+      delivered by Escrow Agent to Seller or Purchaser as hereinafter provided
+      in this Agreement and the Escrow Agreement. All references in this
+      Agreement to the Deposit shall mean the Deposit and all interest accrued
+      thereon.
+
+<Page>
+
+                  (b) At the Closing, Escrow Agent shall deliver the Deposit to
+      Seller (it being understood that any interest on the Deposit shall not be
+      credited to the Purchase Price) and Purchaser shall deliver the balance of
+      the Purchase Price as follows:
+
+                        (i) $619,500,000, subject to adjustment as provided in
+      ARTICLE 7 to Seller; and
+
+                        (ii) $28,500,000 to Escrow Agent, or such other party
+      agreed to by the parties, as escrow agent, to be held and disbursed
+      pursuant to the Agreement as to Post Closing Obligations, attached hereto
+      as EXHIBIT 15 (the "POST CLOSING AGREEMENT").
+
+                  (c) All monies payable by Purchaser under this Agreement,
+      unless otherwise specified in this Agreement, shall be paid by wire
+      transfer of immediately available federal funds for credit to such bank
+      account or accounts specified by Seller, and divided into such amounts as
+      may be required to consummate the transactions contemplated by this
+      Agreement.
+
+                  As used in this Agreement, the term "BUSINESS DAY" shall mean
+      every day other than Saturdays, Sundays, all days observed by the federal
+      or New York State government as legal holidays and all days on which
+      commercial banks in New York State are required by law to be closed.
+
+                  (d) Except as otherwise specified in Sections 6(b), 12(a)(ii),
+      13(a)(ii) and 20(b) of this Agreement, the Deposit shall be
+      non-refundable. The provisions of this Section 4(d) shall survive the
+      termination of this Agreement."
+
+      Except as herein modified, the PSA is in full force and effect.
+
+
+<Page>
+
+
+
+      IN WITNESS WHEREOF, Seller and Purchaser have caused this Agreement to be
+executed as of the day and year first above written.
+
+                              SELLER:
+                              MSDW 745, LLC
+
+                              By:  MS Financing, Inc.
+
+
+                                 By: /s/ Nan Molofsky
+                                    --------------------------
+                                    Name: Nan Molofsky
+                                    Title:  Vice President
+
+
+                              PURCHASER:
+                              LB 745 LLC
+
+                              By: /s/ Mark Marcucci
+                                 -----------------------------
+                                 Mark Marcucci
+                                 Authorized Signatory
+
+
+</TEXT>
+</DOCUMENT>

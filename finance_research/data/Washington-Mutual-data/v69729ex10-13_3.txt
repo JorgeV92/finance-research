@@ -1,0 +1,111 @@
+<DOCUMENT>
+<TYPE>EX-10.13.3
+<SEQUENCE>20
+<FILENAME>v69729ex10-13_3.txt
+<DESCRIPTION>EXHIBIT 10.13.3
+<TEXT>
+
+<PAGE>   1
+                                                                 EXHIBIT 10.13.3
+
+
+                                AMENDMENT TO THE
+                             WASHINGTON MUTUAL, INC.
+                            CASH BALANCE PENSION PLAN
+
+
+        THIS AMENDMENT is made to the Washington Mutual, Inc. Cash
+Balance Pension Plan (the "Plan") by Washington Mutual, Inc. (the
+"Company") on this ______ day of December, 1999.
+
+
+                                    RECITALS:
+
+        WHEREAS, the Company maintains the Plan for the benefit of its eligible
+employees; and
+
+        WHEREAS, the Company has merged with H. F. Ahmanson & Company; and
+
+        WHEREAS, the H. F. Ahmanson Retirement Plan (the "Ahmanson Plan") has
+been merged into the Plan; and
+
+        WHEREAS, the Board of Directors of the Company approved certain enhanced
+credits to the Plan; and
+
+        WHEREAS, the Company desires to amend the Plan to contain the provisions
+required to accommodate the service and benefits resulting from the merger of
+the Ahmanson Plan into the Plan, and to provide for the enhanced credits
+approved by the Board; and
+
+        WHEREAS, the Company may amend the Plan at any time pursuant to Section
+12.1;
+
+        NOW, THEREFORE, the Plan is hereby amended as follows:
+
+        1. Section 2.30(a) is amended by the addition of a new Paragraph (25),
+to read as set forth below:
+
+               (25) Special Plan Entry Dates for Eligible Employees who became
+               Employees in connection with the Company's merger with H. F.
+               Ahmanson & Company are provided in Appendix 1.
+
+        2. Section 2.37(a) is amended by the addition of a new paragraph (22),
+to read as set forth below:
+
+               (22) Additional rules applicable to Service credit for service
+               performed on behalf of H. F. Ahmanson & Company and its
+               affiliates are provided in Appendix 1.
+
+<PAGE>   2
+        3. Article 5 is amended effective January 1, 2000 by the addition of new
+Section 5.1(g) to read as set forth below:
+
+                        (g) Commencing January 1, 2000, the amounts credited in
+                Section 5.1(f) shall be superseded by the following credits.
+                Each Participant who is paid Compensation during a payroll
+                period shall be credited with a percentage of his Compensation
+                for the payroll period as of the Allocation Date, determined by
+                the Participant's Years of Benefit Service, as follows:
+
+<TABLE>
+<CAPTION>
+                       Years of                             Percent of
+                    Benefit Service                        Compensation
+                    ---------------                        ------------
+<S>                                                        <C>
+                  Less than 5                                   2.5%
+                  5, but less than 10                           3.0%
+                  10, but less than 15                          4.0%
+                  15, but less than 20                          5.0%
+                  20 or more                                    6.0%
+</TABLE>
+
+               However, the percentage of Compensation credited under this
+               paragraph for Participants who began participation in the Plan
+               prior to January 1, 1995, and have fewer than five Years of
+               Benefit Service shall be 3.0%. Each Account shall also be
+               credited with daily interest crediting. The amount credited to
+               Accounts each day shall be the Account value as of the preceding
+               day multiplied by a rate equal to the Daily Interest Credit in
+               effect for the Plan Year.
+
+        4. The current Appendix with respect to the Early Retirement factors
+shall be redesignated Appendix 2, and any references to such Appendix in the
+text of the Plan shall be changed to read "Appendix 2".
+
+                        5. The Plan is hereby amended by a new Appendix 1, to
+                read as set forth on the attached Exhibit A-1.
+
+        IN WITNESS WHEREOF, the undersigned, an authorized officer of the
+Company, has executed this amendment on the day and year first written above.
+
+                                            WASHINGTON MUTUAL, INC.
+
+
+
+                                            By:
+                                               ---------------------------------
+                                            Its:
+                                                --------------------------------
+</TEXT>
+</DOCUMENT>

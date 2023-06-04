@@ -1,0 +1,239 @@
+<DOCUMENT>
+<TYPE>EX-10.15
+<SEQUENCE>21
+<FILENAME>v69729ex10-15.txt
+<DESCRIPTION>EXHIBIT 10.15
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.15
+
+                                WASHINGTON MUTUAL
+
+                            BONUS AND INCENTIVE PLAN
+                  FOR EXECUTIVE OFFICERS AND SENIOR MANAGEMENT
+                As Amended and Restated Effective January 1, 1999
+
+        The Directors' Compensation and Stock Option Committee (the
+"Compensation Committee") of Washington Mutual, Inc. ("Washington Mutual")
+hereby adopts this bonus and incentive plan, effective for bonus periods
+beginning on or after January 1, 1999, subject to shareholder approval as
+described in Section 3.
+
+        1.      PURPOSE. The purpose of this plan is to provide
+performance-based incentive compensation in the form of cash bonuses to
+executive officers and senior management of Washington Mutual and its
+affiliates. This plan is intended to qualify as performance-based compensation
+under Section 162(m) of the Internal Revenue Code ("Section 162(m)").
+
+        2.      ADMINISTRATION. This plan has been established by, and shall be
+administered by, the Compensation Committee. The Compensation Committee is
+composed solely of 2 or more outside directors as defined in Section 162(m) and,
+therefore, qualifies as an independent compensation committee under Section
+162(m).
+
+        3.      SHAREHOLDER APPROVAL. This plan shall be effective if, and only
+if, Washington Mutual's shareholders, by a majority of the votes cast, approve
+the material terms of the performance goals in this plan, specifically, the
+employees eligible to receive bonuses under this plan; the business criteria on
+which the performance goals may be based; and the maximum amount of compensation
+that may be paid to any employee under this plan in any year. No bonuses will be
+paid under this plan until after this approval is obtained. To the extent
+necessary for this plan to qualify as performance-based compensation under
+Section 162(m) or its successor under then applicable law, these material terms
+of the performance goals shall be disclosed to and reapproved by the
+shareholders no later than the first shareholder meeting that occurs in the
+fifth year following the year in which shareholders previously approved the
+performance goals.
+
+        4.      PARTICIPANTS. For each bonus measurement period (which may but
+need not be a calendar year), the Compensation Committee will choose, in its
+sole discretion, those eligible employees who will participate in this bonus
+plan during that measurement period and will be eligible to receive a bonus
+under this plan for that measurement period.
+
+                (a)     ELIGIBLE EMPLOYEES. All members of senior management of
+Washington Mutual and its affiliates are eligible to participate in this plan.
+For purposes of this bonus plan, senior management is defined as any officer
+with the rank of Senior Vice President or above of Washington Mutual, Inc., of
+any affiliate and of any established division within an affiliate.
+
+
+                                       1
+<PAGE>   2
+                (b)     EMPLOYMENT CRITERIA. In general, to participate in this
+plan an eligible employee must be continuously employed by Washington Mutual or
+an affiliate for the entire measurement period. The foregoing notwithstanding:
+(i) if an otherwise eligible employee joins Washington Mutual or an affiliate
+during the measurement period, the Compensation Committee may, in its
+discretion, add the employee to this plan for the partial measurement period,
+and (ii) if the employment of an otherwise eligible employee ends before the end
+of the measurement period because of death, disability, voluntary termination of
+employment upon or after attaining age 62, or termination of employment upon or
+after a Change in Control (as that term is defined in the employee's Employment
+Agreement), the employee shall be paid a pro-rata portion of the bonus, if any,
+that otherwise would have been payable under this plan. If a participant is on
+unpaid leave status for any portion of the measurement period, the Compensation
+Committee, in its discretion, may reduce the participant's bonus on a pro-rata
+basis.
+
+        All determinations related to eligibility or the pro-ration of any bonus
+shall be made by the Compensation Committee pursuant to the above terms, and
+those determinations shall be final and binding on all employees.
+
+        5.      BUSINESS CRITERIA ON WHICH PERFORMANCE GOALS SHALL BE BASED. The
+payment of bonuses under this plan shall be based on Washington Mutual's
+attainment of performance goals based on one or more of the following business
+criteria:
+
+
+        Return on average common equity.
+
+        Return on average equity.
+
+        Efficiency ratio (other expense as a percentage of other income plus net
+        interest income), either before or after amortization of intangible
+        assets (goodwill).
+
+        Net operating expense (other income less other expense), either before
+        or after amortization of intangible assets (goodwill).
+
+        Earnings per diluted share of common stock.
+
+        Operating earnings (earnings before transaction-related expense) per
+        diluted share of common stock, either before or after amortization of
+        intangible assets (goodwill).
+
+        Return on average assets.
+
+        Ratio of nonperforming assets to total assets.
+
+These business criteria shall be construed consistent with the use of the same
+terms in Washington Mutual's published financial statements. All business
+criteria other than earnings per diluted share of common stock shall exclude
+transaction-related expense unless otherwise determined by the Compensation
+Committee in selecting the business
+
+                                       2
+<PAGE>   3
+criteria for a particular bonus measurement period pursuant to Section 6 below.
+In selecting any business criteria other than earnings per diluted share of
+common stock, the Compensation Committee may elect, pursuant to Section 6 below,
+to exclude amortization of intangible assets (goodwill), or to exclude
+depreciation and amortization.
+
+        6.      ESTABLISHING PERFORMANCE GOALS. The Compensation Committee shall
+establish, for each bonus measurement period: (a) the length of the bonus
+measurement period, (b) the specific business criterion or criteria, or
+combination thereof, that will be used; (c) the specific performance targets
+that will be used for the selected business criterion or criteria; (d) any
+special adjustments that will be applied in calculating whether the performance
+targets have been met to factor out extraordinary items, (e) the formula for
+calculating bonuses in relation to the performance targets; (f) the eligible
+employees who will participate in the bonus plan for that measurement period;
+and (g) if applicable, the target bonus amounts for each participant for the
+measurement period. The Compensation Committee shall make these determinations
+in writing no later than 90 days after the start of each measurement period, on
+or before 25 percent of the measurement period has elapsed, and while the
+outcome is substantially uncertain. Bonus payments to any one participant in any
+one calendar year under this plan shall not exceed $5,000,000.
+
+        Unless otherwise specified by the Compensation Committee in its written
+determinations establishing the bonus criteria for the particular bonus
+measurement period, if Washington Mutual or its affiliates consummate one or
+more acquisitions during the bonus measurement period that, individually or in
+the aggregate, constitute a Triggering Acquisition, the bonus measurement period
+shall end early, on the last day of the calendar quarter immediately before the
+consummation of the first acquisition that constitutes a Triggering Acquisition
+(either individually or when aggregated with prior acquisitions during the bonus
+measurement period), and pro-rated bonuses shall be paid based on the degree of
+attainment of the performance goals during the shortened bonus measurement
+period. For purposes of this paragraph, a Triggering Acquisition means an
+acquisition (or combination of acquisitions) in which the acquired entity's
+operating earnings (earnings before transaction-related expense) for the four
+quarters completed immediately before consummation of the acquisition is equal
+to 10% or more of the pro-forma operating earnings for the same four quarters
+for the combination of Washington Mutual and its affiliates and the acquired
+entity. (If either Washington Mutual and its affiliates or the entity being
+acquired had consummated other acquisitions during the four quarters in
+question, the calculation described in the prior sentence shall be done using
+pro-forma earnings for each combined entity.)
+
+        If an employee joins Washington Mutual or an affiliate during the
+measurement period and becomes an eligible employee pursuant to Paragraph 4(b),
+and if the employee is a "covered employee" within the meaning of Section 162(m)
+(because the employee is the chief executive officer or is among the 4 highest
+compensated officers for the year other than the chief executive officer), then
+to the extent necessary for this plan to qualify as performance-based
+compensation under Section 162(m) or its successor under then applicable law,
+all relevant elements of the performance goals established pursuant to paragraph
+6 of this plan for that employee must be established on or before the date on
+
+                                       3
+<PAGE>   4
+which 25% of the time from the commencement of employment to the end of the
+measurement period has elapsed and the outcome under the performance goals for
+the measurement period must be substantially uncertain at the time those
+elements are established.
+
+        7.      DETERMINATION OF ATTAINMENT OF PERFORMANCE GOALS. The
+Compensation Committee shall determine, pursuant to the performance goals and
+other elements established pursuant to section 6 of this plan, the bonus amounts
+to be paid to each employee for each measurement period. The Compensation
+Committee's determinations shall be final and binding on all participants. These
+determinations must be certified in writing before bonuses are paid, which
+requirement may be satisfied by approved minutes of the Compensation Committee
+meeting setting out the determinations made. The Compensation Committee shall
+NOT have discretion to increase the amount of the bonus that would otherwise be
+due upon attainment of the goals established pursuant to paragraph 6 of this
+plan to any employee who is a "covered employee" within the meaning of Section
+162(m) if increasing the bonus would cause the bonus or any part thereof to not
+be deductible under the Internal Revenue Code.
+
+        8.      AMENDMENTS. The Compensation Committee may not amend or
+terminate this plan so as to increase, reduce or eliminate bonuses payable under
+this plan for any given measurement period retroactively, that is, on any date
+later than 90 days after the start of the measurement period. The Compensation
+Committee may amend or terminate this plan at any time on a prospective basis
+and/or in any fashion that does not increase, reduce or eliminate bonuses
+retroactively. The foregoing notwithstanding, the Compensation Committee shall
+not have the power to amend this plan in any fashion that would cause the plan
+to fail to qualify as performance-based compensation with respect to any
+"covered employee" as defined under Section 162(m) or its successor. Without
+limiting the generality of the foregoing, to the extent it would cause this plan
+to fail to qualify as performance-based compensation with respect to any
+"covered employee" as defined under Section 162(m) or its successor under then
+applicable law, the Compensation Committee shall not have the power to change
+the material terms of the performance goals unless (i) the modified performance
+goals are established by the Compensation Committee no later than 90 days after
+the start of the applicable measurement period, on or before 25 percent of the
+measurement period has elapsed, and while the outcome is substantially uncertain
+and (ii) no bonuses are paid under the modified performance goals until after
+the material terms of the modified performance goals are disclosed to and
+approved by Washington Mutual's shareholders.
+
+
+
+                                       4
+<PAGE>   5
+        9.      EFFECTIVENESS; PRIOR PLANS SUPERSEDED. Upon shareholder approval
+as described in Section 3, this plan shall be effective for bonus periods
+beginning on or after January 1, 1999, and shall replace and supersede the Bonus
+and Incentive Plan for Executive and Senior Management adopted effective January
+1, 1996.
+
+Executed effective as of January 1, 1999.
+
+DIRECTORS' COMPENSATION & STOCK OPTION COMMITTEE
+
+
+
+By
+   -------------------------------------
+    John W. Ellis
+    Its Chairman
+
+
+                                       5
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,697 @@
+<DOCUMENT>
+<TYPE>EX-3.3
+<SEQUENCE>3
+<FILENAME>v69729ex3-3.txt
+<DESCRIPTION>EXHIBIT 3.3
+<TEXT>
+
+<PAGE>   1
+                                                                     Exhibit 3.3
+                              ARTICLES OF AMENDMENT
+
+                                     TO THE
+
+                 AMENDED AND RESTATED ARTICLES OF INCORPORATION
+
+                                       OF
+
+                             WASHINGTON MUTUAL, INC.
+
+        Pursuant to the provisions of Chapter 23B.10 and Section 23B.06.020 of
+the Washington Business Corporation Act, WASHINGTON MUTUAL, INC., a Washington
+corporation, hereby adopts the following articles of amendment to its amended
+and restated articles of incorporation:
+
+        FIRST: The name of the corporation is: Washington Mutual, Inc.
+
+        SECOND:The rights, preferences, privileges, restrictions and other
+matters relating to the Series H Preferred Stock of the corporation are as
+follows:
+
+        1. DESIGNATION. The designation of this Series shall be Series H
+Preferred Stock (hereinafter referred to as this "Series"), and the number of
+shares constituting this Series shall be 2,000,000. Shares of this Series shall
+have a liquidation preference of $50.
+
+        2. DIVIDENDS. (a) The holders of shares of this Series shall be entitled
+to receive cash dividends, when, as and if declared by the Board of Directors,
+out of funds legally available for that purpose, at the rates set forth below in
+this Section 2. Dividends on the shares of this Series shall be payable, when,
+as and if declared by the Board of Directors, quarterly in arrears on February
+16, May 16, August 16 and November 16 of each year (each, a "Dividend Payment
+Date"), commencing on the Initial Dividend Payment Date. The "Initial Dividend
+Payment Date" shall mean the first Dividend Payment Date following the effective
+date of the merger (the "Merger") of Bank United Corp. with and into the
+Company, or if any such date is not a Business Day (as defined below), the next
+succeeding Business Day. Each such dividend shall be paid to the holders of
+record of shares of this Series as they appear on the stock register of the
+Company on the applicable Record Date, as shall be fixed by the Board of
+Directors; provided, however, that holders of shares of this Series called for
+redemption on a Redemption Date falling between the record date associated with
+a Dividend Payment Date and such Dividend Payment Date shall receive the
+applicable dividend payment, together with all other accumulated and unpaid
+dividends on such date as shall be fixed for redemption. Dividends on the shares
+of this Series shall accumulate and be cumulative from the date of original
+issuance. "Business Day" shall mean any day other than a Saturday or Sunday or a
+day on which banking institutions in New York City are authorized or required by
+law or executive order to remain closed.
+
+<PAGE>   2
+        (b) For each quarterly dividend period (each, a "Dividend Period") from
+the Initial Dividend Payment Date, through and including the Dividend Period
+ending August 16, 2002, dividends payable on the shares of this Series shall be
+payable at a rate per annum of the liquidation preference thereof equal to 7.25%
+(the "Initial Rate Period"). For each Dividend Period after the Initial Rate
+Period, dividends payable on the shares of this Series shall be payable at a
+rate per annum of the liquidation preference thereof equal to the Reset Rate (as
+defined below). The amount of dividends per share for each Dividend Period shall
+be computed by dividing the applicable rate for such Dividend Period by four and
+applying the resulting rate to the liquidation preference per share of this
+Series. Each Dividend Period (other than the Initial Dividend Period, defined
+below) shall commence on a Dividend Payment Date and shall end on and include
+the day next preceding the next Dividend Payment Date. The "Initial Dividend
+Period" shall mean the period commencing on the effective date of the Merger and
+ending on the Initial Dividend Payment Date.
+
+        (c) Dividends payable on this Series for any period greater or less than
+a full Dividend Period, other than the Initial Dividend Period, shall be
+computed on the basis of a 360-day year consisting of twelve 30-day months and,
+for any period less than one month, the actual number of days elapsed in the
+period. In connection with the Merger, the shares of Bank United Corp.'s Series
+B Preferred Stock (the "Predecessor Shares") shall be converted into shares of
+this Series. Prior to the completion of the Merger, the board of directors of
+Bank United Corp. declared a dividend on the Predecessor Shares payable on the
+Initial Dividend Payment Date. As successor to Bank United Corp., the Company
+will pay on the Initial Dividend Payment Date the dividend declared but not paid
+on the Predecessor Shares; PROVIDED that in no event shall a holder of this
+Series be entitled to a dividend on the Initial Dividend Payment Date that is
+greater than such holder would have been entitled to on the Initial Dividend
+Payment Date had the Merger not been completed and the Predecessor Shares not
+been converted into shares of this Series.
+
+        (d) No full dividends shall be declared or paid or set apart for payment
+on the Preferred Stock of any series ranking, as to dividends, on a parity with
+or junior to this Series for any period unless full cumulative dividends on the
+shares of this Series for all full Dividend Periods ending on or prior to the
+date of such dividends on such other series of Preferred Stock have been or
+contemporaneously are declared and paid or declared and a sum sufficient for the
+payment thereof set apart for such payment. When dividends are not paid in full,
+as aforesaid, upon the shares of this Series and any other series of Preferred
+Stock ranking on a parity as to dividends with this Series, all dividends
+declared upon shares of this Series and any other series of Preferred Stock
+ranking on a parity as to dividends with this Series shall be declared pro rata
+so that the amount of dividends declared per share on this Series and such other
+Preferred Stock shall in all cases bear to each other the same ratio that
+accrued and unpaid dividends per share on the shares of this Series and such
+other Preferred Stock bear to each other. No interest, or sum of money in lieu
+of interest, shall be payable in respect of any dividend payment or payments on
+this Series which may be in arrears.
+
+<PAGE>   3
+        (e) So long as any shares of this Series are outstanding, no dividend
+(other than a dividend in Common Stock or in any other stock ranking junior to
+this Series as to dividends and upon liquidation and other than as provided in
+paragraph (d) of this Section 2) shall be declared or paid or set aside for
+payment or other distribution declared or made upon the Common Stock or upon any
+other stock ranking junior to or on a parity with this Series as to dividends or
+upon liquidation, nor shall any Common Stock or any other stock of the Company
+ranking junior to or on a parity with this Series as to dividends or upon
+liquidation be redeemed, purchased or otherwise acquired for any consideration
+(or any moneys be paid to or made available for a sinking fund for the
+redemption of any shares of any such stock) by the Company (except by conversion
+into or exchange for stock of the Company ranking junior to this Series as to
+dividends and upon liquidation), unless, in each case, full cumulative dividends
+on all outstanding shares of this Series for all full Dividend Periods ending on
+or prior to the date of such other dividend, distribution, redemption, purchase
+or other acquisition, shall have been or contemporaneously are paid or declared
+and a sum sufficient for the payment thereof set aside for such payment.
+
+        3. REMARKETING. (a) The dividend rate on this Series shall be reset to
+the Reset Rate on the Purchase Contract Settlement Date (as defined below). The
+Company shall request, not later than 15 nor more than 30 calendar days prior to
+the Remarketing Date (as defined below), that the Depositary (as defined below)
+notify the Holders of shares of this Series and the holders of Corporate PIES of
+the Remarketing and of the procedures that must be followed if a Holder of
+Corporate PIES wishes to make a cash settlement of its obligation to purchase
+Common Stock of the Company pursuant to the Purchase Contract Agreement.
+
+        (b) Not later than 5:00 p.m., New York City time, on the seventh
+Business Day preceding the Purchase Contract Settlement Date, each Holder may
+elect to have the shares of this Series held by such Holder remarketed in the
+Remarketing. Holders of Corporate PIES that do not give notice of their
+intention to make a cash settlement of the purchase contract component of their
+Corporate PIES prior to such time in the manner specified in the Purchase
+Contract Agreement, or that give such notice but fail to deliver cash prior to
+11:00 a.m., New York City time, on or prior to the fifth Business Day preceding
+the Purchase Contract Settlement Date, shall be deemed to have consented to the
+disposition of the shares of this Series that are a component of their Corporate
+PIES in the Remarketing. Holders of the shares of this Series that are not a
+component of Corporate PIES wishing to have their shares of this Series
+remarketed shall give to the Purchase Contract Agent notice of their election
+prior to 11:00 a.m., New York City time on such fifth Business Day. Any such
+notice shall be irrevocable and may not be conditioned upon the level at which
+the Reset Rate is established in the Remarketing. Promptly after 11:00 a.m., New
+York City time, on such fifth Business Day, the Purchase Contract Agent, based
+on the notices received by it prior to such time (including notices from the
+Purchase Contract Agent as to purchase contracts for which cash settlement has
+been elected and cash received), shall notify the Remarketing Agent of the
+number of shares of this Series to be tendered for purchase in the Remarketing.
+
+<PAGE>   4
+        (c) If any Holder of shares of this Series does not give a notice of its
+intention to make a cash settlement or gives such notice but fails to deliver
+cash as described in Section 3(b) above, or gives a notice of election to have
+shares of this Series that are not a component of Corporate PIES remarketed,
+then the shares of this Series of such Holder shall be deemed tendered for
+purchase in the Remarketing, notwithstanding any failure by such Holder to
+deliver or properly deliver such shares to the Remarketing Agent for purchase.
+
+        (d) The right of each Holder to have shares of this Series tendered for
+purchase shall be limited to the extent that (i) the Remarketing Agent conducts
+a remarketing pursuant to the terms of the Remarketing Agreement, (ii) the
+shares of this Series tendered have not been called for redemption, (iii) the
+Remarketing Agent is able to find a purchaser or purchasers for the tendered
+shares of this Series and (iv) such purchaser or purchasers deliver the purchase
+price therefor to the Remarketing Agent.
+
+        (e) On the Remarketing Date, the Remarketing Agent shall use
+commercially reasonable efforts to remarket, at a price equal to 100.50% of the
+aggregate liquidation preference thereof, the shares of this Series tendered or
+deemed tendered for purchase.
+
+        (f) If, as a result of the efforts described in Section 3(e), the
+Remarketing Agent determines that it will be able to remarket all of the shares
+of this Series tendered or deemed tendered for purchase at a price of 100.50% of
+the aggregate liquidation preference of such shares prior to 4:00 p.m., New York
+City time, on the Remarketing Date, the Remarketing Agent shall determine the
+Reset Rate, which shall be the rate per annum (rounded to the nearest
+one-thousandth (0.001) of one percent per annum) that the Remarketing Agent
+determines, in its sole judgment, to be the lowest rate per annum that will
+enable it to remarket all of the shares of this Series tendered or deemed
+tendered for Remarketing.
+
+        (g) If none of the Holders of the shares of this Series or the holders
+of the Corporate PIES elects to have shares of this Series remarketed in the
+Remarketing, the Reset Rate shall be the rate determined by the Remarketing
+Agent, in its sole discretion, as the rate that would have been established had
+a Remarketing of all the shares of this Series been held on the Remarketing
+Date.
+
+        (h) If, by 4:00 p.m., New York City time, on the Remarketing Date, the
+Remarketing Agent is unable to remarket all of the Preferred Securities tendered
+or deemed tendered for purchase, a "Failed Remarketing" shall be deemed to have
+occurred and the Remarketing Agent shall so advise by telephone the Depositary
+and the Company. In the event of a Failed Remarketing, the Reset Rate shall
+equal (1) the "AA" Composite Commercial Paper Rate (as defined below), plus (2)
+the Applicable Margin (as defined below).
+
+        (i) By approximately 4:30 p.m., New York City time, on the Remarketing
+Date, provided that there has not been a Failed Remarketing, the Remarketing
+Agent shall advise, by telephone (i) the Depositary and the Company of the Reset
+Rate determined in the Remarketing and the number of shares of this Series sold
+in the Remarketing,(ii) each purchaser (or the Depositary Participant thereof)
+of the Reset Rate and the number of shares of this Series such purchaser is to
+purchase and (iii) each purchaser to give instructions to its Depositary
+Participant to pay the purchase price on the Purchase Contract Settlement Date
+in same day funds against delivery of the shares of this Series purchased
+through the facilities of the Depositary.
+
+
+<PAGE>   5
+
+        (j) In accordance with the Depositary's normal procedures, on the
+Purchase Contract Settlement Date, the transactions described above with respect
+to each Preferred Security tendered for purchase and sold in the Remarketing
+shall be executed through the Depositary, and the accounts of the respective
+Depositary Participants shall be debited and credited and such shares of this
+Series delivered by book-entry as necessary to effect purchases and sales of
+such shares of this Series. The Depositary shall make payment in accordance with
+its normal procedures.
+
+        (k) If any Holder of shares of this Series selling shares of this Series
+in the Remarketing fails to deliver such shares, the Depositary Participant of
+such selling holder and of any other Person that was to have purchased shares of
+this Series in the Remarketing may deliver to any such other Person a number of
+shares of this Series that is less than the number of shares of this Series that
+otherwise was to be purchased by such Person. In such event, the number of
+shares of this Series to be so delivered shall be determined by such Depositary
+Participant, and delivery of such lesser number of shares of this Series shall
+constitute good delivery.
+
+        (l) Under the Remarketing Agreement, the Company shall be liable for,
+and shall pay, any and all costs and expenses incurred in connection with the
+Remarketing.
+
+        (m) The tender and settlement procedures set in this Section 3,
+including provisions for payment by purchasers of the shares of this Series in
+the Remarketing, shall be subject to modification to the extent required by the
+Depositary or if the book-entry system is no longer available for the shares of
+this Series at the time of the Remarketing, to facilitate the tendering and
+remarketing of the shares of this Series in certificated form. In addition, the
+Remarketing Agent may modify the settlement procedures set forth herein in order
+to facilitate the settlement process.
+
+        (n)  Definitions:
+
+        "'AA' Composite Commercial Paper Rate" on any date shall mean (i) the
+interest equivalent of the 60-day rate on commercial paper placed on behalf of
+issuers whose corporate bonds are rated "AA" by S&P or the equivalent of such
+rating by S&P or the equivalent of such rating by S&P or another rating agency,
+as made available on a discount basis or otherwise by the Federal Reserve Board
+for the business day immediately preceding such date or (ii) if the Federal
+Reserve Board does not make available any such rate, then the arithmetic average
+of those rates, as quoted on a discount basis or otherwise, by the Commercial
+Paper Dealers to the Remarketing Agent for the close of business on the Business
+Day next preceding such date. If any Commercial Paper Dealer does not quote a
+rate required to determine the "AA" Composite Commercial Paper Rate, the "AA"
+Composite Commercial Paper Rate will be determined on the basis of the quotation
+or quotations furnished by the remaining Commercial Paper Dealer or Commercial
+Paper Dealers and any substitute commercial paper dealer or substitute
+commercial paper dealers selected by the Remarketing Agent or, if the
+Remarketing Agent does not select any such substitute commercial paper dealer or
+substitute commercial paper dealers, by the remaining Commercial Paper Dealer or
+Commercial Paper Dealers.
+
+
+<PAGE>   6
+        "Applicable Margin" shall mean the spread determined as set forth below,
+based on the prevailing rating of the Remarketed shares of this Series in effect
+at the close of business on the Business Day immediately preceding the date of a
+Failed Remarketing:
+
+               Prevailing Rating                         Spread
+
+               AA/"aa"                                   3.00%
+               A/"a"                                     4.00%
+               BBB/"baa"                                 5.00%
+               Below BBB/"baa"                           7.00%
+
+
+        For purposes of this definition, the "prevailing rating" of the
+Remarketed shares of this Series shall be:
+
+               (i) AA/ aa if such shares have a credit rating of AA- or better
+               by S&P and "aa3" or better by Moody's or the equivalent of such
+               ratings by such agencies or a substitute rating agency or
+               substitute rating agencies selected by the Remarketing Agent;
+
+               (ii) if not under clause (i) above, then A/ a if the Remarketed
+               Securities have a credit rating of A- or better by S&P and "a3"
+               or better by Moody's or the equivalent of such ratings by such
+               agencies or a substitute rating agency or substitute rating
+               agencies selected by the Remarketing Agent;
+
+               (iii) if not under clauses (i) or (ii) above, then BBB/ "baa" if
+               the Remarketed Securities have a credit rating of BBB- or better
+               by S&P and "baa3" or better by Moody's or the equivalent of such
+               ratings by such agencies or a substitute rating agency or
+               substitute rating agencies selected by the Remarketing Agent; or
+
+               (iv) if not under clauses (i) - (iii) above, then below BBB/
+               "baa."
+
+        "Certificate" shall mean a Corporate PIES Certificate.
+
+<PAGE>   7
+        "Commercial Paper Dealers" shall mean Lehman Commercial Paper Inc.,
+Goldman, Sachs & Co. and Merrill Lynch, Pierce, Fenner & Smith Incorporated or
+their affiliates or successors, if such affiliates or successors are commercial
+paper dealers.
+
+        "Common Stock" shall mean the Common Stock, no par value, of the
+Company.
+
+        "Corporate PIES" shall mean a stock purchase unit consisting of (A) a
+stock purchase contract under which (i) the holder of the unit will purchase
+from the Company, for $50.00 in cash, a certain number of shares of common stock
+of the Company and (ii) the Company will pay such holder contract adjustment
+payments and (B) beneficial ownership of a shares of this Series.
+
+        "Corporate PIES Certificate" means a certificate evidencing the rights
+and obligations of a Holder in respect of the number of Corporate PIES specified
+on such certificate.
+
+        "Depositary" shall mean, with respect to shares of this Series issuable
+in whole or in part in the form of one or more Global Securities, a clearing
+agency registered under the Exchange Act that is designated to act as depositary
+for such shares, and initially shall be The Depository Trust Company.
+
+        "Depositary Participant" shall mean a member of, or participant in, the
+Depositary.
+
+        "Exchange Act" shall mean the Securities Exchange Act of 1934 and any
+statute successor thereto, in each case as amended from time to time, and the
+rules and regulations promulgated thereunder.
+
+        "Global Certificate" means a Certificate that evidences all or part of
+the shares of this Series and is registered in the name of a clearing agency or
+a nominee thereof.
+
+        "Global Security" shall mean a global Series H Preferred Stock
+Certificate registered in the name of a Depositary or its nominee.
+
+        "Holder" shall mean any holder of shares of this Series.
+
+        "Moody's" shall mean Moody's Investors Service, Inc.
+
+        "Purchase Contract Agent" shall mean the purchase contract agent under
+the Purchase Contract Agreement, including successor purchase contract agents.
+
+        "Purchase Contract Agreement" shall mean the Purchase Contract Agreement
+dated as of August 10, 1999 between the Company (through its predecessor entity,
+Bank United Corp.) and Bank One N.A. (under its prior name, The First National
+Bank of Chicago), as Purchase Contract Agent.
+
+<PAGE>   8
+        "Purchase Contract Settlement Date" shall mean August 16, 2002.
+
+        "Record Date" for dividends on the shares of this Series on any Payment
+Date shall mean, as to any Global Certificate, the Business Day next preceding
+such Payment Date, and as to any other Certificate, 15 Business Days prior to
+such Payment Date.
+
+        "Remarketing Agent" shall mean the remarketing agent selected by the
+Company, including any successor remarketing agents selected by the Company.
+
+        "Remarketing Date" shall mean the third Business Day preceding the
+Purchase Contract Settlement Date.
+
+        "Reset Rate" shall mean the distribution rate per annum that
+results from the Remarketing pursuant this Section 3.
+
+        "S&P" shall mean Standard & Poor's Ratings Services, a division of
+McGraw-Hill Corporation.
+
+        4. REDEMPTION. (a) Optional Redemption. The shares of this Series are
+not redeemable prior to October 16, 2002. The Company, at its option, may redeem
+shares of this Series, as a whole or in part, at any time or from time to time,
+on or after October 16, 2002 at a redemption price of $50 per share plus accrued
+and unpaid cumulative dividends thereon (whether or not declared) to the date
+fixed for redemption.
+
+        (b) Mandatory Redemption. The Company shall redeem, from any source of
+funds legally available therefor, all issued and outstanding shares of this
+Series, in whole and not in part, on August 16, 2004, at a redemption price of
+$50 per share plus accrued and unpaid cumulative dividends thereon (whether or
+not declared) to the date fixed for redemption.
+
+        (c) Redemption Procedures.
+
+              (i) In the event that, pursuant to paragraph (a) above, fewer than
+              all the outstanding shares of this Series are to be redeemed, the
+              number of shares to be redeemed shall be determined by the Board
+              of Directors and the shares to be redeemed shall be determined by
+              lot or pro rata as may be determined by the Board of Directors or
+              by any other method as may be determined by the Board of Directors
+              in its sole discretion to be equitable, provided that such method
+              satisfies any applicable requirements of any securities exchange
+              on which this Series is listed.
+
+              (ii) In the event the Company shall redeem shares of this Series,
+              notice of such redemption shall be given by first class mail,
+              postage prepaid, mailed not less than 30 or more than 60 days
+              prior to the redemption date, to each holder of record of the
+              shares to be redeemed, at such holder's address as the same
+              appears on the stock register of the Company. Each such notice
+<PAGE>   9
+              shall state: (a) the redemption date; (b) the number of shares of
+              this Series to be redeemed and, if fewer than all the shares held
+              by such holder are to be redeemed, the number of such shares to be
+              redeemed from such holder; (c) the redemption price; (d) the place
+              or places where certificates for such shares are to be surrendered
+              for payment of the redemption price; and (e) that dividends on the
+              shares to be redeemed shall cease to accrue on the redemption
+              date.
+
+              (iii) Notice having been mailed as aforesaid, from and after the
+              redemption date (unless default shall be made by the Company in
+              providing money for the payment of the redemption price) dividends
+              on the shares of this Series so called for redemption shall cease
+              to accrue, and said shares shall no longer be deemed to be
+              outstanding, and all rights of the holders thereof as stockholders
+              of the Company (except the right to receive from the Company the
+              redemption price) shall cease. Upon surrender in accordance with
+              said notice of the certificates for any shares so redeemed
+              (properly endorsed or assigned for transfer, if the Board of
+              Directors shall so by the Company at the redemption price
+              aforesaid. In case fewer than all the shares represented by any
+              such certificate are redeemed, a without cost to the holder
+              thereof.
+
+              (iv) Any shares of this Series which shall at any time have been
+              redeemed shall, after such redemption, have the status of
+              authorized but unissued shares of Preferred Stock, without
+              designation as to series until such shares are once more
+              designated as part of a particular series by the Board of
+              Directors.
+
+              (v) Notwithstanding the foregoing provisions of this Section 4, if
+              full cumulative dividends on all outstanding shares of this Series
+              are in arrears, no shares of this Series shall be redeemed unless
+              all outstanding shares of this Series are simultaneously redeemed,
+              and the Company shall not purchase or otherwise acquire any shares
+              of this Series; provided, however, that the foregoing shall not
+              prevent the purchase or acquisition of shares of this Series
+              pursuant to a purchase or exchange offer made on the same terms to
+              holders of all outstanding shares of this Series.
+
+        5. CONVERSION. The holders of shares of this Series shall not have any
+rights to convert such shares into shares of any other class or series of
+capital stock of the Company.
+
+        6. LIQUIDATION RIGHTS. (a) Upon the voluntary or involuntary
+dissolution, liquidation or winding up of the Company, the holders of the shares
+of this Series shall be entitled to receive and to be paid out of the assets of
+the Company available for distribution to its stockholders, before any payment
+or distribution shall be made on the Common Stock or on any other class of stock
+ranking junior to this Series upon liquidation, the amount of $50 per share,
+plus accrued and unpaid cumulative dividends (whether or not declared) to the
+date of the liquidating distribution.
+
+
+<PAGE>   10
+        (b) After the payment to the holders of the shares of this Series of the
+full preferential amounts provided for in this Section 6, the holders of this
+Series as such shall have no right or claim to any of the remaining assets of
+the Company.
+
+        (c) If, upon any voluntary or involuntary dissolution, liquidation, or
+winding up of the Company, the amounts payable with respect to the shares of
+this Series and any other shares of stock of the Company ranking as to any such
+distribution on a parity with the shares of this Series are not paid in full,
+the holders of the shares of this Series and of such other shares shall share
+ratably in any such distribution of assets of the Company in proportion to the
+full respective distributions to which they are entitled.
+
+        (d) Neither the sale of all or substantially all the property or
+business of the Company, nor the merger or consolidation of the Company into or
+with any other corporation or the merger or consolidation of any other
+corporation into or with the Company, shall be deemed to be a dissolution,
+liquidation or winding up, voluntary or involuntary, for the purposes of this
+Section 6.
+
+        7. RANKING. For purposes of this resolution, any stock of any class or
+classes of the Company shall be deemed to rank:
+
+        (a) prior to the shares of this Series, either as to dividends or upon
+liquidation, if the holders of such class or classes shall be entitled to the
+receipt of dividends or of amounts distributable upon dissolution, liquidation
+or winding up of the Company, as the case may be, in preference or priority to
+the holders of shares of this Series;
+
+        (b) on a parity with shares of this Series, either as to dividends or
+upon liquidation, whether or not the dividend rates, dividend payment dates or
+redemption or liquidation prices per share or sinking fund provisions, if any,
+be different from those of this Series (and whether or not such dividends shall
+accumulate), if the holders of such stock shall be entitled to the receipt of
+dividends or of amounts distributable upon dissolution, liquidation or winding
+up of the Company, as the case may be, without preference or priority, one over
+the other, as between the holders of such stock and the holders of shares of
+this Series; and
+
+        (c) junior to shares of this Series, either as to dividends or upon
+liquidation, if such class shall be Common Stock or if the holders of shares of
+this Series shall be entitled to receipt of dividends or of amounts
+distributable upon dissolution, liquidation or winding up of the Company, as the
+case may be, in preference or priority to the holders of shares of such class or
+classes.
+
+        (d) The shares of each of the other series of preferred stock of the
+Company shall rank on a parity with the shares of this Series.
+
+<PAGE>   11
+
+        8. VOTING RIGHTS. The holders of the shares of this Series shall have
+the following voting rights:
+
+        (a) Each share of this Series will have the right to vote, with each
+share of this Series having 0.10 vote, in connection with matters submitted
+generally to the holders of the common stock and other capital stock of the
+Company entitled to vote in respect of matters submitted to the stockholders of
+the Company generally. For these purposes, the holders of the shares of this
+Series and the holders of the common stock and such other capital stock of the
+Company, so entitled to vote, shall vote as a single class.
+
+        (b) Unless the vote or consent of the holders of a greater number of
+shares shall then be required by law, the approval of the holders of at least
+two-thirds of the then-outstanding shares of this Series, given in person or by
+proxy, either in writing or by a vote at a meeting called for the purpose at
+which the holders of shares of this Series shall vote together as a separate
+class, shall be required for authorizing, effecting or validating any amendment,
+alteration or repeal, whether by merger, consolidation or otherwise, of any of
+the provisions of the Amended and Restated Articles of Incorporation of the
+Company or of any certificate amendatory thereof or supplemental thereto
+(including any Certificate of Designations or any similar document relating to
+any series of Preferred Stock) that adversely affect the powers, preferences,
+privileges or rights of this Series; provided, however, that the creation and
+issuance of any other class or series of preferred stock, or any increase in the
+number of authorized shares of any Preferred Stock of any other class or series,
+in each case ranking on a parity with or junior to this Series with respect to
+the payment of dividends and the distribution of assets upon liquidation,
+dissolution or winding up of the affairs of the Company shall not be deemed to
+adversely affect such powers, preferences or other special rights.
+
+        (c) Unless the vote or consent of the holders of a greater number of
+shares shall then be required by law, the approval of the holders of at least
+two-thirds of all of the then-outstanding shares of this Series and all other
+series of preferred stock ranking on a parity with shares of this Series, either
+as to dividends or upon liquidation, given in person or by proxy, either in
+writing or by a vote at a meeting called for the purpose at which the holders of
+shares of this Series and such other series of Preferred Stock shall vote
+together as a single class without regard to series, shall be necessary for
+authorizing, effecting or validating (i) the creation, authorization or issuance
+of, (ii) the reclassification of any authorized stock of the Company into, or
+(iii) the creation, authorization or issuance of any obligation or security
+convertible into or evidencing the right to purchase, any additional class or
+series of stock ranking prior to this Series, either as to dividends or upon
+liquidation.
+
+        (d)    (i) If at any time dividends on this Series shall be in arrears
+               in an amount equal to six quarterly dividends thereon, the
+               occurrence of such contingency shall mark the beginning of a
+               period (herein called a "default period") which shall extend
+               until such time as all accrued and unpaid dividends for all
+               previous dividend periods and for the current dividend period on
+               all shares of this Series then outstanding shall have been
+               declared and paid or set apart for payment. During each default
+               period, the holders of shares of this Series and other shares of
+               Preferred Stock on which dividends are in arrears and as to
+               which similar voting rights have been conferred, voting as a
+               class, irrespective of series, shall have the right to elect two
+               Directors to the Board of Directors of the Company.
+<PAGE>   12
+
+
+               (ii) During any default period, such voting right of the holders
+               of this Series may be exercised by written consent, at a special
+               meeting called pursuant to Section 7(d)(iii) hereof or at any
+               annual meeting of stockholders. The absence of a quorum of the
+               holders of Common Stock at any such special or annual meeting
+               shall not affect the exercise by the holders of Preferred Stock
+               of such voting right. At any meeting at which the holders of
+               Preferred Stock shall exercise such voting right initially during
+               an existing default period, they shall have the right, voting as
+               a class, to elect Directors to fill such vacancies, if any, in
+               the Board of Directors as may then exist up to two Directors or,
+               if such right is exercised at an annual meeting, to elect two
+               Directors. If the number which may be so elected at any special
+               meeting does not amount to the required number, the holders of
+               Preferred Stock shall have the right to make such increase in the
+               number of Directors as shall be necessary to permit the election
+               by them of the required number. After the holders of the
+               Preferred Stock shall have exercised their right to elect
+               Directors in any default period and during the continuance of
+               such period, the number of Directors shall not be increased or
+               decreased except by vote of the holders of Preferred Stock as
+               herein provided. Any Director elected by a vote of the holders of
+               Preferred Stock may be removed from office, with or without
+               cause, only by the affirmative vote of the requisite percentage
+               of holders of Preferred Stock required to elect Directors as
+               specified in this Section 8(d).
+
+               (iii) Unless the holders of Preferred Stock, during an existing
+               default period, shall have previously exercised their right to
+               elect Directors, the Board of Directors may order, or any
+               shareholder or shareholders owning in the aggregate not less than
+               ten percent (10%) of the total number of shares of Preferred
+               Stock outstanding, irrespective of series, on which dividends are
+               in arrears and as to which similar voting rights have been
+               conferred, may request, the calling of a special meeting of the
+               holders of Preferred Stock, which meeting shall thereupon be
+               called by the Chairman, a Vice Chairman or the Secretary of the
+               Company. Notice of such meeting and of any annual meeting at
+               which holders of Preferred Stock are entitled to vote pursuant to
+               this Section 7(d)(iii) shall be given to each holder of record of
+               Preferred Stock entitled to vote thereat by mailing a copy of
+               such notice to him at his last address as the same appears on the
+               books of the Company on such record date, not more than 45 days
+               prior to the date of such notice, as the Board of Directors may
+               fix for this purpose. Such meeting shall be called for a time not
+               earlier than 10 days and not later than 60 days after such order
+               or request or, in default of the calling of such meeting within
+               60 days after such order or request, such meeting may be called
+               on similar notice by any shareholder or shareholders owning in
+               the aggregate not less than 10% of the total number of shares of
+               Preferred Stock outstanding, irrespective of series, entitled to
+               vote thereat.
+
+
+<PAGE>   13
+
+               (iv) In any default period the holders of Common Stock, and other
+               classes of stock of the Company if applicable, shall continue to
+               be entitled to elect the whole number of Directors constituting
+               the Board of Directors until the holders of Preferred Stock,
+               voting as a class, shall have exercised their right to elect two
+               Directors, after the exercise of which right (A) the Directors so
+               elected by the holders of Preferred Stock shall continue in
+               office until their successors shall have been elected by such
+               holders or until the expiration of the default period, and (B)
+               any vacancy on the Board of Directors may (except as provided in
+               Section 8(d)(ii) hereof) be filled by vote of a majority of the
+               remaining Directors theretofore elected by the holders of the
+               class of stock which elected the Director whose office shall have
+               become vacant. References in this Section 8(d) to Directors
+               elected by the holders of a particular class of stock shall
+               include Directors elected by such Directors to fill vacancies as
+               provided in clause (B) of the foregoing sentence.
+
+               (v) Immediately upon the expiration of a default period, (A) the
+               right of the holders of Preferred Stock as a class to elect
+               Directors shall cease, (B) the term of any Directors elected by
+               the holders of Preferred Stock as a class shall terminate, and
+               (C) the number of Directors shall be such number as may be
+               provided for in the Amended and Restated Articles of
+               Incorporation or Bylaws of the Company or by resolution of the
+               Board of Directors, irrespective of any increase made pursuant to
+               the provisions of Section 8(d)(ii) hereof (such number being
+               subject, however, to change thereafter in any manner provided by
+               law or in the Amended and Restated Articles of Incorporation or
+               Bylaws of the Company). Any vacancies on the Board of Directors
+               effected by the provisions of clauses (B) and (C) in the
+               preceding sentence may be filled by a majority of the remaining
+               Directors.
+
+        (e) Except as set forth herein or required by applicable law, holders of
+shares of this Series shall have no voting rights and their consent shall not be
+required for taking any corporate action.
+
+        THIRD: These amendments do not provide for an exchange, reclassification
+or cancellation of any issued shares.
+
+        FOURTH:The foregoing amendments to the amended and restated articles of
+incorporation were adopted by the Board of Directors of Washington Mutual, Inc.
+on October 17, 2000. SHAREHOLDER ACTION WAS NOT REQUIRED.
+
+<PAGE>   14
+        EXECUTED this 8th day of February, 2001.
+
+                                                 WASHINGTON MUTUAL, INC.
+
+                                                 By:
+                                                    ----------------------------
+                                                        William L. Lynch
+                                                 Its:   Secretary
+
+</TEXT>
+</DOCUMENT>

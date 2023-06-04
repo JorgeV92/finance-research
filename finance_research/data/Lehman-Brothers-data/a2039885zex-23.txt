@@ -1,0 +1,39 @@
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<FILENAME>a2039885zex-23.txt
+<DESCRIPTION>EXHIBIT 23
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 23
+
+                          CONSENT OF INDEPENDENT AUDITORS
+
+    We consent to the incorporation by reference in this 2000 Annual Report on
+Form 10-K of Lehman Brothers Holdings Inc. (the "Company") of our report dated
+January 4, 2001, included in the 2000 Annual Report to Stockholders of the
+Company.
+
+    Our audits also included the financial statement schedule of the Company
+listed in Item 14(a). This schedule is the responsibility of the Company's
+management. Our responsibility is to express an opinion based on our audits. In
+our opinion, the financial statement schedule referred to above, when considered
+in relation to the basic consolidated financial statements taken as a whole,
+presents fairly in all material respects the information set forth therein.
+
+    We also consent to the incorporation by reference in the Registration
+Statements and Post Effective Amendments of the Company on Form S-3 File Nos.
+33-53651, 33-56615, 33-62085, 33-65674, 333-14791, 333-44771, 333-50197 and
+333-75723 and on Form S-8 File Nos. 33-53923, 333-07875, 333-57239 and 333-68247
+and in the related Prospectuses, of our report dated January 4, 2001 with
+respect to the consolidated financial statements and financial statement
+schedule of the Company included or incorporated by reference in this Annual
+Report on Form 10-K for the year ended November 30, 2000.
+
+                                          Ernst & Young LLP
+
+New York, New York
+February 28, 2001
+</TEXT>
+</DOCUMENT>

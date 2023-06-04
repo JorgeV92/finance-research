@@ -1,0 +1,82 @@
+<DOCUMENT>
+<TYPE>EX-10.8.1
+<SEQUENCE>9
+<FILENAME>v69729ex10-8_1.txt
+<DESCRIPTION>EXHIBIT 10.8.1
+<TEXT>
+
+<PAGE>   1
+
+                                                                 EXHIBIT 10.8.1
+
+
+
+                                AMENDMENT TO THE
+                             WASHINGTON MUTUAL, INC.
+                         EMPLOYEES' STOCK PURCHASE PLAN
+
+
+
+        THIS AMENDMENT is made to the Washington Mutual, Inc. Employees' Stock
+Purchase Plan (the "Plan") by Washington Mutual, Inc. (the "Company") on this
+____ day of ________, 2001.
+
+                                    RECITALS:
+
+        WHEREAS, the Company has agreed to acquire Bank United Corp. ("Bank
+United") and certain subsidiaries of PNC Bank, National Association (the "PNC
+Companies"); and
+
+        WHEREAS, the Company agreed to provide certain past service credit for
+purposes of eligibility to participate in the Plan to employees of Bank United
+or the PNC Companies who are hired in connection the acquisition of Bank United
+and the PNC Companies; and
+
+        WHEREAS, the Board of Directors of the Company (the "Board"), upon the
+recommendation of the Directors' Compensation and Stock Option Committee (the
+"Committee"), may amend the Plan at any time pursuant to Section 9.1 of the
+Plan; and
+
+        WHEREAS, the Committee has recommended that the Board adopt the
+amendments to the Plan set forth herein;
+
+        NOW, THEREFORE, the Plan is hereby amended as set forth below:
+
+        1. Effective as of the closing of the acquisition of the PNC Companies,
+        Section 2.1(e) of the Plan is amended by the addition of the following
+        sentence:
+
+        For purposes of this Section 2.1(e), an Employee who was an employee of
+        PNC Bank, National Association ("PNC"), immediately before becoming an
+        Employee and who was hired by the Company in connection with its
+        acquisition of certain subsidiaries of PNC shall be deemed to have been
+        an employee of the Company for up to 12 months of employment with PNC.
+
+        2. Effective as of the closing of the acquisition of Bank United,
+        Section 2.1(e) of the Plan is amended by the addition of the following
+        sentence:
+
+        For purposes of this Section 2.1(e), an Employee who was an employee of
+        Bank United Corp. ("Bank United") immediately before becoming an
+        Employee and who was hired by the Company in connection with its
+        acquisition of Bank United shall, as of May 1, 2001, be deemed to have
+        been an employee of the Company for up to 12 months of employment with
+        Bank United.
+
+
+<PAGE>   2
+
+        IN WITNESS WHEREOF, the undersigned, an authorized officer of the
+Company, has executed this amendment on the day and year first written above.
+
+
+                                            WASHINGTON MUTUAL, INC.
+
+
+                                            By:________________________________
+                                            Its:_______________________________
+
+
+
+</TEXT>
+</DOCUMENT>

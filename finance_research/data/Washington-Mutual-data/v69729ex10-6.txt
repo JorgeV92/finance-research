@@ -1,0 +1,702 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>4
+<FILENAME>v69729ex10-6.txt
+<DESCRIPTION>EXHIBIT 10.6
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 10.6
+
+                                WASHINGTON MUTUAL
+
+                             1994 STOCK OPTION PLAN
+
+                 AS AMENDED AND RESTATED AS OF FEBRUARY 15, 2000
+
+
+<PAGE>   2
+                     WASHINGTON MUTUAL AMENDED AND RESTATED
+                             1994 STOCK OPTION PLAN
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                            Page
+
+                             ARTICLE 1. DEFINITIONS
+
+<S>       <C>                                                               <C>
+   1.1    Affiliate.........................................................   1
+   1.2    Agreement.........................................................   1
+   1.3    Board.............................................................   1
+   1.4    Code.  The Internal Revenue Code of 1986, as amended..............   1
+   1.5    Committee.........................................................   1
+   1.6    Company...........................................................   1
+   1.7    Date of Exercise..................................................   1
+   1.8    Exchange Act......................................................   1
+   1.9    Fair Market Value.................................................   1
+   1.10   Incentive Option..................................................   1
+   1.11   Nonqualified Option...............................................   1
+   1.12   Option............................................................   2
+   1.13   Participant.......................................................   2
+   1.14   Plan..............................................................   2
+   1.15   Stock.............................................................   2
+   1.16   Ten Percent Shareholder...........................................   2
+
+                           ARTICLE 2. PURPOSE OF PLAN
+
+                            ARTICLE 3. ADMINISTRATION
+
+   3.1    Administration of Plan............................................   3
+   3.2    Authority to Grant Options........................................   3
+   3.3    Discretionary Authority of Committee..............................   3
+
+                ARTICLE 4. ELIGIBILITY AND LIMITATIONS ON GRANTS
+
+   4.1    Participation.....................................................   4
+   4.2    Limitations on Grants.............................................   4
+   4.3    Limitation on Incentive Options...................................   5
+   4.4    Ten Percent Limitation on Ownership...............................   5
+   4.5    Annual Grants to Nonemployee Board Members........................   5
+
+                        ARTICLE 5. STOCK SUBJECT TO PLAN
+
+   5.1    Maximum Number of Shares..........................................   5
+   5.2    Forfeitures.......................................................   6
+</TABLE>
+
+
+                                      -i-
+<PAGE>   3
+                         ARTICLE 6. EXERCISE OF OPTIONS
+
+<TABLE>
+<S>       <C>                                                               <C>
+   6.1    Exercise Price....................................................   6
+   6.2    Commencement of Right to Exercise.................................   6
+   6.3    Maximum Exercise Period...........................................   6
+   6.4    Early Termination of Right to Exercise............................   6
+   6.5    Transferability...................................................   6
+
+                          ARTICLE 7. METHOD OF EXERCISE
+
+   7.1    Exercise..........................................................   7
+   7.2    Payment...........................................................   7
+   7.3    Federal Withholding Tax Requirements..............................   7
+   7.4    Shareholder Rights................................................   7
+
+                        ARTICLE 8.   ADJUSTMENT UPON CORPORATE CHANGES
+
+   8.1    Adjustments to Shares.............................................   7
+   8.2    Substitution of Options on Merger or Acquisition..................   8
+   8.3    Effect of Certain Transactions....................................   8
+   8.4    No Preemptive Rights..............................................   8
+   8.5    Fractional Shares.................................................   9
+
+                   ARTICLE 9. COMPLIANCE WITH LAW AND APPROVAL
+
+                              OF REGULATORY BODIES
+
+   9.1    General...........................................................   9
+   9.2    Representations by Participants...................................   9
+
+                         ARTICLE 10. GENERAL PROVISIONS
+
+   10.1   Effect on Employment..............................................  10
+   10.2   Unfunded Plan.....................................................  10
+   10.3   Rules of Construction.............................................  10
+   10.4   Governing Law.....................................................  10
+   10.5   Compliance With Section 16 of the Exchange Act....................  10
+   10.6   Amendment.........................................................  10
+   10.7   Time to Grant Incentive Options...................................  10
+   10.8   Effective Date of Plan............................................  11
+</TABLE>
+
+                                      -ii-
+<PAGE>   4
+                     WASHINGTON MUTUAL AMENDED AND RESTATED
+                             1994 STOCK OPTION PLAN
+
+                             ARTICLE 1. DEFINITIONS
+
+        1.1     AFFILIATE. A "parent corporation," as defined in section 424(e)
+of the Code, or "subsidiary corporation," as defined in section 424(f) of the
+Code, of the Company.
+
+        1.2     AGREEMENT. A written agreement (including any amendment or
+supplement thereto) between the Company or Affiliate and a Participant
+specifying the terms and conditions of an Option granted to such Participant.
+
+        1.3     BOARD. The board of directors of the Company.
+
+        1.4     CODE. THE INTERNAL REVENUE CODE OF 1986, AS AMENDED.
+
+        1.5     COMMITTEE. A committee with at least as many members as required
+by Rule 16b-3 of the Exchange Act who are members of the Board.
+
+        1.6     COMPANY. Washington Mutual, Inc., successor to Washington Mutual
+Savings Bank as Plan sponsor, and its successors.
+
+        1.7     DATE OF EXERCISE. The later of the date that the Participant
+delivers a written notice of exercise to the Company and the date that the
+Option exercise price is received by the Company.
+
+        1.8     EXCHANGE ACT. The Securities Exchange Act of 1934, as amended.
+
+        1.9     FAIR MARKET VALUE. On any given date, the applicable description
+below:
+
+                (a)     The closing price of the Stock as traded on the National
+        Association of Securities Dealers National Market System, as published
+        in THE NEW YORK TIMES or THE WALL STREET JOURNAL, on the business day
+        immediately preceding the date as of which Fair Market Value is being
+        determined.
+
+                (b)     If the Stock is not traded as described in subparagraph
+        (a), Fair Market Value shall be the value determined in good faith by
+        the Committee or the Board.
+
+        1.10    INCENTIVE OPTION. An Option that is intended to qualify as an
+"incentive stock option" within the meaning of section 422 of the Code. An
+Incentive Option shall not be invalid for failure to qualify under section 422
+of the Code, but shall be treated as a Nonqualified Option.
+
+        1.11    NONQUALIFIED OPTION. An Option that is not an Incentive Option.
+
+                                       1
+<PAGE>   5
+        1.12    OPTION. The right that is granted hereunder to a Participant to
+purchase from the Company a stated number of shares of Stock at the price set
+forth in an Agreement. As used herein, an Option includes both Incentive Options
+and Nonqualified Options.
+
+        1.13    PARTICIPANT. A person who is awarded Options hereunder. All
+employees, consultants and advisors of the Company or of an Affiliate are
+eligible to become Participants. Members of the Board who are not employees of
+the Company or its Affiliates are also eligible to become Participants to the
+extent that they receive Options pursuant to grants specifically called for by
+the terms of this Plan.
+
+        1.14    PLAN. The Washington Mutual Amended and Restated 1994 Stock
+Option Plan, as embodied herein and as amended from time to time, and including
+the Washington Mutual 1994 Stock Option Plan, which is the predecessor version
+of this Plan.
+
+        1.15    STOCK. The common stock of the Company.
+
+        1.16    TEN PERCENT SHAREHOLDER. An individual who owns more than 10% of
+the total combined voting power of all classes of stock of the Company or an
+Affiliate at the time he or she is granted an Option. For the purpose of
+determining if an individual is a Ten Percent Shareholder, he or she shall be
+deemed to own any voting stock owned (directly or indirectly) by or for his or
+her brothers and sisters (whether by whole or half blood), spouse, ancestors or
+lineal descendants and shall be considered to own proportionately any voting
+stock owned (directly or indirectly) by or for a corporation, partnership,
+estate or trust of which such individual is a shareholder, partner or
+beneficiary.
+
+                           ARTICLE 2. PURPOSE OF PLAN
+
+        The purpose of the Plan is to advance the interests of the Company, to
+provide a performance incentive and to align the interests of the Participants
+with the interests of the Company, its Affiliates, and its shareholders through
+increased stock ownership by the Participants. It is intended that Participants
+may acquire or increase their proprietary interests in the Company, that
+Participant employees will be encouraged to remain in the employ of the Company
+or of its Affiliates, and that Participant consultants, advisors and board
+members will be encouraged to maintain their relationships with the Company or
+its Affiliates. The proceeds received by the Company from the sale of Stock
+pursuant to this Plan may be used for general corporate purposes.
+
+        The Plan was originally established and maintained by Washington Mutual
+Savings Bank as the Washington Mutual 1994 Stock Option Plan (the "Original
+Plan"). By action of the respective boards of directors of Washington Mutual
+Savings Bank and the Company, the Company became the sponsor of the Original
+Plan, effective November 29, 1994, at which time common stock of the Company was
+substituted for common stock of Washington Mutual Savings Bank. The Original
+Plan was previously approved by the shareholders of Washington Mutual Savings
+Bank, the prior sponsor of the Original Plan. The Company amended and
+
+
+                                       2
+<PAGE>   6
+restated the Original Plan, effective as of February 17, 1998, and adopted
+several amendments subsequent to such amendment and restatement.
+
+        The Plan was further amended on January 18 and February 15, 2000,
+subject to shareholder approval.
+
+        The Board approved this restatement of the Plan to incorporate all such
+amendments.
+
+                           ARTICLE 3. ADMINISTRATION
+
+        3.1     ADMINISTRATION OF PLAN. The Plan shall be administered by the
+Committee. The Committee shall have complete authority to (i) interpret all
+provisions of this Plan; (ii) prescribe the form of any Agreement; (iii) adopt,
+amend, and rescind rules for Plan administration; and (iv) make all
+determinations it deems advisable for the administration of this Plan. The
+express grant in the Plan of any specific power to the Committee shall not be
+construed as limiting any power or authority of the Committee. Any decision made
+or action taken by the Committee to administer the Plan shall be final and
+conclusive. No member of the Committee shall be liable for any act done in good
+faith with respect to this Plan or any Agreement or Option. The Company shall
+bear all expenses of Plan administration.
+
+        3.2     AUTHORITY TO GRANT OPTIONS. The Committee shall have authority
+to grant Options upon such terms the Committee deems appropriate and that are
+not inconsistent with the provisions of this Plan. Such terms may include
+conditions on the exercise of all or any part of an Option.
+
+        3.3     DISCRETIONARY AUTHORITY OF COMMITTEE. The Committee shall have
+full discretionary power, subject to, and within the limits of, Articles 4, 5
+and 6 of the Plan:
+
+                (a)     To determine from time to time who of the eligible
+        persons shall be granted Options, and the time or times when, and the
+        number of shares for which, an Option or Options shall be granted to
+        such persons.
+
+                (b)     To determine whether to grant Incentive Options,
+        Nonqualified Options, or both to eligible persons pursuant to the
+        provisions of the Plan.
+
+                (c)     To prescribe the other terms and provisions (which need
+        not be identical) of each Option granted under the Plan to eligible
+        persons.
+
+                (d)     To modify or amend any term or provision of any Option
+        granted under the Plan, provided that the consent of the holder thereof
+        must be obtained for any modification or amendment that reduces the
+        benefits to the holder of the Option.
+
+                (e)     To construe and interpret the Plan and Options granted
+        hereunder (including the Agreements), and to establish, amend, and
+        revoke rules and regulations for administration. The Committee, in the
+        exercise of this power, may correct any defect or
+
+
+                                       3
+<PAGE>   7
+        supply any omission, or reconcile any inconsistency in the Plan, or in
+        any Agreement, in the manner and to the extent it shall deem necessary
+        or expedient to make the Plan fully effective. In exercising this power
+        the Committee may retain counsel at the expense of the Company. All
+        decisions and determinations by the Committee in exercising this power
+        shall be final and binding upon the Company and the Participants.
+
+                (f)     To determine the duration and purposes of leaves of
+        absence which may be granted to a Participant without constituting a
+        termination of his or her employment for purposes of the Plan or an
+        Agreement.
+
+                (g)     To accelerate the time at which an Option may be
+        exercised, or otherwise modify the terms of an Option in a manner
+        favorable to the Participant.
+
+                (h)     Subject to the maximum exercise period provided in
+        Section 6.3, to extend the time within which any Participant must
+        exercise any Option, in whole or in part.
+
+                (i)     Notwithstanding Section 6.3, to extend the exercise
+        period of an Option beyond the maximum exercise period provided in
+        Section 6.3, in whole or in part, if the Committee determines that a
+        Participant will be unable to exercise such Option within the maximum
+        exercise period on account of an unforeseeable hardship.
+
+                (j)     To authorize any person to execute on behalf of the f=
+        Company any instrument required to effectuate the grant of an Option
+        previously granted hereunder.
+
+                (k)     To interpret the Plan and make any determinations that
+        are necessary or desirable in the administration of the Plan.
+
+                (l)     To exercise such powers and to make all other
+        determinations deemed necessary or expedient to promote the best
+        interests of the Company with respect to the Plan.
+
+                ARTICLE 4. ELIGIBILITY AND LIMITATIONS ON GRANTS
+
+        4.1     PARTICIPATION. The Committee may from time to time designate
+persons to whom Options are to be granted from among those who are eligible to
+become Participants. Such designation shall specify the number of shares of
+Stock subject to each Option. All Options granted under this Plan shall be
+evidenced by Agreements which shall designate such Option as either an Incentive
+Option or Nonqualified Option, and which shall be subject to applicable
+provisions of this Plan or such other provisions as the Committee may adopt that
+are not inconsistent with Articles 4, 5 and 6 of the Plan.
+
+        4.2     LIMITATIONS ON GRANTS. A nonemployee Board member is not
+eligible to receive a grant of Options except as provided in Section 4.5. A
+person who is not an employee of the Company or an Affiliate is not eligible to
+receive an Incentive Option. The maximum number of
+
+
+                                       4
+<PAGE>   8
+shares of Stock with respect to which Options may be granted to any Participant
+in any calendar year under the Plan is one and one-half million (1,500,000)
+shares.
+
+        4.3     LIMITATION ON INCENTIVE OPTIONS. To the extent that the
+aggregate Fair Market Value of Stock with respect to which Incentive Options are
+exercisable for the first time by a Participant during any calendar year (under
+all incentive stock option plans of the Company and its Affiliates) exceeds
+$100,000 (the Fair Market Value being determined as of the date each Option was
+granted), such Options shall be treated as Nonqualified Options. This provision
+shall be applied by taking Incentive Options into account in the order in which
+they were granted.
+
+        4.4     TEN PERCENT LIMITATION ON OWNERSHIP. Unless requisite approvals
+are obtained from the Federal Deposit Insurance Corporation, the Office of
+Thrift Supervision or other regulatory entities, no person shall be eligible to
+receive or exercise any option which, if exercised, would result in his or her
+holding beneficially or of record in excess of 10% of the outstanding voting
+stock of the Company.
+
+        4.5     ANNUAL GRANTS TO NONEMPLOYEE BOARD MEMBERS.
+
+                (a)     GRANT DATE. Nonqualified Options shall be granted
+        automatically each year to each individual who, on the third Tuesday of
+        February of each year, through February 1999, and the third Tuesday of
+        December each year, beginning in December 1999 (the "Eligibility Date"),
+        is a member of the Board and is not an employee of the Company or its
+        Affiliates.
+
+                (b)     NUMBER OF SHARES; EXERCISE PRICE. On each Eligibility
+        Date, each nonemployee Board member described in Section 4.5(a) shall be
+        granted a Nonqualified Option to acquire 4,000 shares of Stock. The
+        exercise price for such Nonqualified Options shall be the Fair Market
+        Value of Stock on the respective Eligibility Dates.
+
+                (c)     EXERCISABILITY. For purposes of determining the dates on
+        which Options can be exercised, each Nonqualified Option awarded under
+        this Section 4.5 shall be fully exercisable on the earlier to occur, if
+        at all, of (1) (i) for Options granted on a third Tuesday in February,
+        the third Tuesday in February after the year that the option was
+        granted, provided that the individual is still a member of the Board,
+        and (ii) for Options granted on a third Tuesday in December, the third
+        Tuesday in December after the year in which the option was granted,
+        provided that the individual is still a member of the Board, or (2) the
+        date of the individual's mandatory retirement from the Board (as defined
+        in the Company's bylaws).
+
+
+                        ARTICLE 5. STOCK SUBJECT TO PLAN
+
+        5.1     MAXIMUM NUMBER OF SHARES. The maximum aggregate number of shares
+of Stock that may be issued pursuant to the exercise of Options under this Plan
+(including the predecessor of this Plan, the Original Plan) is thirty million
+(30,000,000) shares, subject to adjustments as provided in Article 8.
+
+                                       5
+<PAGE>   9
+        5.2     FORFEITURES. Except as provided in the next sentence, if any
+Option granted hereunder expires, terminates or is canceled without having been
+exercised in full, the unpurchased shares subject thereto shall not again be
+available for issuance under this Plan. The foregoing shall not apply to Options
+that expire before the expiration of their maximum exercise period in connection
+with a Participant ceasing to be an employee, director, consultant or advisor of
+the Company or its Affiliates.
+
+                         ARTICLE 6. EXERCISE OF OPTIONS
+
+        6.1     EXERCISE PRICE. The exercise price of an Option shall be not
+less than 100% of the Fair Market Value of a share of Stock on the date the
+Option is granted. In the case of a Ten Percent Shareholder, however, the
+exercise price of an Incentive Option shall not be less than 110% of the Fair
+Market Value of a share of Stock on the date the Option is granted. If the
+exercise price of an Option is changed after the date it is granted, such change
+shall be deemed to be a termination of the existing Option and the issuance of a
+new Option.
+
+        6.2     COMMENCEMENT OF RIGHT TO EXERCISE. An Option shall first become
+exercisable on the date of grant if not otherwise specified; as may otherwise be
+specified by the Committee (in the Agreement or otherwise); or as may be
+specified in connection with a change in control under a properly authorized
+employment agreement between the Participant and the Company or an Affiliate.
+
+        6.3     MAXIMUM EXERCISE PERIOD. The maximum period in which an Option
+may be exercised shall be determined by the Committee on the date of grant
+except that no Option shall be exercisable after the expiration of 10 years
+(five years in the case of Incentive Options granted to a Ten Percent
+Shareholder) from the date it was granted. The terms of any Option may provide
+that it is exercisable for a shorter period.
+
+        6.4     EARLY TERMINATION OF RIGHT TO EXERCISE. Unless otherwise
+specified by the Committee (in the Agreement or otherwise), and except as
+otherwise specified in connection with a change in control under a properly
+authorized employment agreement between the Participant and the Company or an
+Affiliate, if the Participant for any reason ceases to be an employee,
+consultant, advisor or director of the Company or an Affiliate, and the
+Participant does not thereupon become an employee, consultant, advisor or
+director of the Company or an Affiliate, the Participant shall have the right
+for 90 days after termination of the relationship to exercise only the portion
+of the Participant's Options that had become exercisable by the date of the
+termination, and thereafter the Options shall terminate and cease to be
+exercisable.
+
+        6.5     TRANSFERABILITY. Any Incentive Option granted under this Plan
+shall be transferable only by will or by the laws of descent and distribution
+and may be exercised only by the Participant to whom it was granted, unless he
+or she is deceased. Any Nonqualified Option granted under this Plan shall be
+transferable only (a) by will or by the laws of descent and distribution, or (b)
+to the extent not prohibited by the Committee, to Immediate Family Members,
+partnerships in which the only partners are Immediate Family Members, or trusts
+
+                                       6
+<PAGE>   10
+established solely for the benefit of Immediate Family Members. "Immediate
+Family Members" are the grandparents, parents, aunts, uncles, spouse, brothers,
+sisters, cousins, children, nieces, nephews, grandchildren and
+great-grandchildren, and corresponding step relations, of the Participant who
+holds the Nonqualified Option. No right or interest of a Participant in any
+Option shall be liable for, or subject to, any lien, obligation or liability of
+such Participant.
+
+                         ARTICLE 7. METHOD OF EXERCISE
+
+        7.1     EXERCISE. An Option granted hereunder shall be deemed to have
+been exercised on the Date of Exercise. Subject to the provisions of Articles 6
+and 9 and any contrary provisions in the Agreement, an Option may be exercised
+in whole or in part at such times and in compliance with such requirements as
+the Committee shall determine.
+
+        7.2     PAYMENT. Unless otherwise provided by the Agreement, payment of
+the Option price shall be made in cash or, unless prohibited by the Committee,
+Stock that was acquired prior to the exercise of the Option, other consideration
+acceptable to the Committee, or a combination thereof. As long as the Stock is
+registered under the Exchange Act, and to the extent permitted by applicable
+laws and regulations (including, but not limited to, federal tax and securities
+laws and regulations) and not prohibited by the Committee, an Option may also be
+exercised by delivery of a properly executed exercise notice together with
+irrevocable instructions to a broker to promptly deliver to the Company the
+amount of sale or loan proceeds to pay the exercise price in compliance with
+Regulation T (12 C.F.R. Part 220).
+
+        7.3     FEDERAL WITHHOLDING TAX REQUIREMENTS. Upon exercise of a
+Nonqualified Option by a Participant who was an employee of the Company or an
+Affiliate when the Option was issued, the Participant shall, upon notification
+of the amount due and prior to or concurrently with the delivery of the
+certificates representing the shares, pay to the Company amounts necessary to
+satisfy applicable federal, state and local withholding tax requirements or
+shall otherwise make arrangements satisfactory to the Company for such
+requirements. The Participant shall likewise pay or make arrangements for any
+withholding tax requirements that may apply or become applicable to any other
+exercise of Options or disposition of Stock acquired by the exercise of Options.
+Further, the Company or its Affiliate shall, to the extent permitted by law,
+have the right to deduct from any payment of any kind otherwise due to any
+Participant any federal, state or local taxes of any kind required by law to be
+withheld with respect to the exercise of Options or disposition of Stock
+acquired by the exercise of Options.
+
+        7.4     SHAREHOLDER RIGHTS. No Participant shall have any rights as a
+stockholder with respect to shares subject to his or her Option prior to the
+Date of Exercise of such Option.
+
+
+                  ARTICLE 8. ADJUSTMENT UPON CORPORATE CHANGES
+
+        8.1     ADJUSTMENTS TO SHARES. The maximum number and kind of shares of
+Stock with respect to which Options hereunder may be granted and which are the
+subject of outstanding
+
+
+                                       7
+<PAGE>   11
+Options shall be adjusted by way of increase or decrease as the Committee
+determines (in its sole discretion) to be appropriate, in the event that:
+
+                (a)     the Company effects one or more stock dividends, stock
+        splits, reverse stock splits, subdivisions, consolidations or other
+        similar events;
+
+                (b)     the Company or an Affiliate engages in a transaction to
+        which section 424(a) of the Code applies; or
+
+                (c)     there occurs any other event which in the judgment of
+        the Committee necessitates such action.
+
+Provided, however, that if an event described in paragraph (a) or (b) above
+occurs, the Committee shall make adjustments to the limits on Options specified
+in Section 4.2, to the limitation on aggregate awards of Options under Section
+5.1, and to the number of options to be awarded under Section 4.5 that are
+proportionate to the modifications of the Stock that are on account of such
+corporate changes.
+
+        8.2     SUBSTITUTION OF OPTIONS ON MERGER OR ACQUISITION. The Committee
+may grant Options in substitution for stock awards, stock options, stock
+appreciation rights or similar awards held by an individual who becomes an
+employee of the Company or an Affiliate in connection with a transaction to
+which section 424(a) of the Code applies. The terms of such substituted Options
+shall be determined by the Committee in its sole discretion, subject only to the
+limitations of Article 5.
+
+        8.3     EFFECT OF CERTAIN TRANSACTIONS. Upon a merger, consolidation,
+acquisition of property or stock, separation, reorganization or liquidation of
+the Company, as a result of which the shareholders of the Company receive cash,
+stock or other property in exchange for their shares of Stock, any Option
+granted hereunder shall terminate, provided that the Participant shall have the
+right immediately prior to any such merger, consolidation, acquisition of
+property or stock, separation, reorganization or liquidation to exercise his or
+her Options in whole or in part whether or not the vesting requirements set
+forth in any Agreement have been satisfied, unless the Committee elects to
+convert all Options hereunder into options to purchase stock of an acquiring
+corporation. If the Committee so elects to convert the Options, the amount and
+price of such converted options shall be determined by adjusting the amount and
+price of the Options granted hereunder in the same proportion as used for
+determining the number of shares of stock of the acquiring corporation the
+holders of the Stock receive in such merger, consolidation, acquisition of
+property or stock, separation or reorganization, and the vesting schedule set
+forth in the Agreement shall continue to apply to the converted options. Nothing
+in this Section 8.3 or elsewhere in the Plan shall authorize the Committee to
+take any action contrary to any provision regarding vesting of Options that is
+contained in any Agreement or employment agreement if the action would reduce
+the benefits to the Participant, unless the Participant consents to the action.
+
+        8.4     NO PREEMPTIVE RIGHTS. The issuance by the Company of shares of
+stock of any class, or securities convertible into shares of stock of any class,
+for cash or property, or for labor or services rendered, either upon direct sale
+or upon the exercise of rights or warrants to
+
+
+                                       8
+<PAGE>   12
+subscribe therefor, or upon conversion of shares or obligations of the Company
+convertible into such shares or other securities, shall not affect, and no
+adjustment by reason thereof shall be made with respect to, outstanding Options.
+
+        8.5     FRACTIONAL SHARES. Only whole shares of Stock may be acquired
+through the exercise of an Option. The Company will return to the Participant
+any amount tendered in the exercise of an Option remaining after the maximum
+number of whole shares have been purchased.
+
+        ARTICLE 9. COMPLIANCE WITH LAW AND APPROVAL OF REGULATORY BODIES
+
+        9.1     GENERAL. No Option shall be exercisable, no Stock shall be
+issued, no certificates for shares of Stock shall be delivered, and no payment
+shall be made under this Plan except in compliance with all federal and state
+laws and regulations (including, without limitation, withholding tax
+requirements), federal and state securities laws and regulations and the rules
+of all national securities exchanges or self-regulatory organizations on which
+the Company's shares may be listed. The Company shall have the right to rely on
+an opinion of its counsel as to such compliance. Any certificate issued to
+evidence shares of Stock for which an Option is exercised may bear such legends
+and statements as the Committee upon advice of counsel may deem advisable to
+assure compliance with federal and state laws and regulations. No Option shall
+be exercisable, no Stock shall be issued, no certificate for shares shall be
+delivered and no payment shall be made under this Plan until the Company has
+obtained such consent or approval as the Committee may deem advisable from any
+regulatory bodies having jurisdiction over such matters.
+
+        9.2     REPRESENTATIONS BY PARTICIPANTS. As a condition to the exercise
+of an Option, the Company may require a Participant to represent and warrant at
+the time of any such exercise that the shares are being purchased only for
+investment and without any present intention to sell or distribute such shares,
+if, in the opinion of counsel for the Company, such representation is required
+by any relevant provision of the laws referred to in Section 9.1. At the option
+of the Company, a stop transfer order against any shares of Stock may be placed
+on the official stock books and records of the Company, and a legend indicating
+that the Stock may not be pledged, sold or otherwise transferred unless an
+opinion of counsel is provided (concurred in by counsel for the Company) and
+stating that such transfer is not in violation of any applicable law or
+regulation may be stamped on the stock certificate in order to assure exemption
+from registration. The Committee may also require such other action or agreement
+by the Participants as may from time to time be necessary to comply with the
+federal and state securities laws. This provision shall not obligate the Company
+or any Affiliate to undertake registration of Options or Stock hereunder.
+
+                                       9
+<PAGE>   13
+                         ARTICLE 10. GENERAL PROVISIONS
+
+        10.1    EFFECT ON EMPLOYMENT. Neither the adoption of this Plan, its
+operation, nor any documents describing or referring to this Plan (or any part
+thereof) shall confer upon any employee any right to continue in the employ of
+the Company or an Affiliate or in any way affect any right and power of the
+Company or an Affiliate to terminate the employment of any employee at any time
+with or without assigning a reason therefor.
+
+        10.2    UNFUNDED PLAN. The Plan shall be unfunded, and the Company shall
+not be required to segregate any assets that may at any time be represented by
+grants under this Plan. Any liability of the Company to any person with respect
+to any grant under this Plan shall be based solely upon contractual obligations
+that may be created hereunder. No such obligation of the Company shall be deemed
+to be secured by any pledge of, or other encumbrance on, any property of the
+Company.
+
+        10.3    RULES OF CONSTRUCTION. Headings are given to the articles and
+sections of this Plan solely as a convenience to facilitate reference. The
+masculine gender when used herein refers to both masculine and feminine. The
+reference to any statute, regulation or other provision of law shall be
+construed to refer to any amendment to or successor of such provision of law.
+
+        10.4    GOVERNING LAW. The laws of the State of Washington shall apply
+to all matters arising under this Plan, to the extent that federal law does not
+apply.
+
+        10.5    COMPLIANCE WITH SECTION 16 OF THE EXCHANGE ACT. With respect to
+persons subject to Section 16 of the Exchange Act, transactions under this Plan
+are intended to comply with all applicable conditions of Rule 16b-3 or its
+successors under the Exchange Act. To the extent any provision of this Plan or
+action by the Committee fails to so comply, it shall be deemed null and void to
+the extent permitted by law and deemed advisable by the Committee.
+
+        10.6    AMENDMENT. The Committee may amend or terminate this Plan at any
+time; provided, however, an amendment that would have a material adverse effect
+on the rights of a Participant under an outstanding Option is not valid with
+respect to such Option without the Participant's consent, except as necessary
+for Incentive Options to maintain qualification under the Code. Provided further
+that the shareholders of the Company must approve any amendment that increases
+either the aggregate number of shares of Stock that may be issued pursuant to
+the exercise of Options granted under the Plan or the maximum number of shares
+with respect to which any Participant may be granted Options in any calendar
+year (other than any such increase made pursuant to Article 8), or that changes
+the employees (or class of employees) eligible to receive Options.
+
+        10.7    TIME TO GRANT INCENTIVE OPTIONS. No Incentive Option may be
+granted under this Amended and Restated Stock Option Plan more than ten years
+after the date following December 21, 1999 on which this Amended and Restated
+1994 Stock Option Plan is approved by shareholders as provided in Section 10.8.
+Incentive Options granted before the expiration of that ten year period shall
+remain valid in accordance with their terms and the terms of this Plan. Any
+Option purportedly granted under this Plan as an Incentive Option after the
+expiration of that ten
+
+
+                                       10
+<PAGE>   14
+year period shall be treated as a Nonqualified Option but shall otherwise remain
+valid in accordance with its terms and the terms of this Plan.
+
+        10.8    EFFECTIVE DATE OF PLAN. This version of the Amended and Restated
+1994 Stock Option Plan is subject to the condition subsequent that certain
+amendments embodied therein are approved by shareholders holding a majority of
+the Company's outstanding voting stock present or represented by proxy and
+entitled to vote at the Company's next annual shareholders' meeting, which is
+duly held, that occurs after February 15, 2000, the date that the Board adopted
+such amendments subject to shareholder approval. If such shareholder approval is
+not given, this version of the Amended and Restated 1994 Stock Option Plan shall
+be of no force or effect and the prior version of the Amended and Restated Plan,
+as amended prior to January 18, 2000, shall continue to govern.
+
+        IN WITNESS WHEREOF, the Company has caused this Plan to be executed on
+this the __________ day of _______________, 2000, but to be effective on
+February 15, 2000.
+
+                                         WASHINGTON MUTUAL, INC.
+
+
+
+                                         By:
+                                             -----------------------------------
+                                                M. Lynn Ryder
+
+                                         Its:   Senior Vice President
+
+
+                                       11
+</TEXT>
+</DOCUMENT>

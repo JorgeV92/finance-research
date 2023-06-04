@@ -1,0 +1,148 @@
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>10
+<FILENAME>a2071673zex-21.txt
+<DESCRIPTION>EXHIBIT 21
+<TEXT>
+<Page>
+                                                                      EXHIBIT 21
+
+                     LIST OF THE REGISTRANT'S SUBSIDIARIES
+
+    PURSUANT TO ITEM 601(B)(21)(ii) OF REGULATION S-K, CERTAIN SUBSIDIARIES OF
+THE REGISTRANT HAVE BEEN OMITTED WHICH, CONSIDERED IN THE AGGREGATE AS A SINGLE
+SUBSIDIARY, WOULD NOT CONSTITUTE A SIGNIFICANT SUBSIDIARY (AS DEFINED IN
+RULE 1-02(W) OF REGULATION S-X) AS OF NOVEMBER 30, 2001.
+
+<Table>
+<Caption>
+                                                              JURISDICTION OF
+COMPANY                                                        INCORPORATION
+-------                                                       ---------------
+<S>                                                           <C>
+Lehman Brothers Holdings Inc................................  Delaware
+        Banque Lehman Brothers S.A..........................  France
+        DA Group Holdings Inc...............................  Delaware
+        LBAC Holdings I Inc.................................  Delaware
+                Lehman Brothers Asia Capital Company........  Hong Kong
+        LBCCA Holdings I Inc................................  Delaware
+                Falcon Holdings I LLC.......................  Delaware
+                        Falcon Holdings II Inc..............  Cayman Islands
+                                Global Thai Property Fund...  Thailand
+                Lehman Brothers Asia Capital Company........  Hong Kong
+                Lehman Brothers Commercial Corporation Asia
+                   Limited..................................  Hong Kong
+        LBCCA Holdings II Inc...............................  Delaware
+                Falcon Holdings I LLC.......................  Delaware
+                        Falcon Holdings II Inc..............  Cayman Islands
+                                Global Thai Property Fund...  Thailand
+                Lehman Brothers Commercial Corporation Asia
+                   Limited..................................  Hong Kong
+        Lehman ALI Inc......................................  Delaware
+                Lehman CMBS Funding Inc.....................  Delaware
+                LUBS Inc....................................  Delaware
+                Property Asset Management Inc...............  Delaware
+                Lehman Syndicated Loan Funding Inc..........  Delaware
+        Lehman Brothers AIM Holding LLC.....................  Delaware
+                Lehman Brothers Alternative Investment
+                   Management LLC...........................  Delaware
+        Lehman Brothers Bancorp Inc.........................  Delaware
+                Lehman Brothers Bank, FSB...................  Delaware
+        Lehman Brothers Canada Inc..........................  Canada
+        Lehman Brothers Commercial Corporation..............  Delaware
+        Lehman Brothers Finance S.A.........................  Switzerland
+        Lehman Brothers Futures Asia Limited................  Hong Kong
+        Lehman Brothers Global Asset Management Inc.........  Delaware
+                Lehman Brothers Futures Asset Management
+                   Corp.....................................  Delaware
+        Lehman Brothers Inc.................................  Delaware
+                Lehman Brothers Asia Holdings Limited.......  Hong Kong
+                        Lehman Brothers Asia Limited........  Hong Kong
+                        Lehman Brothers Finance Limited.....  Hong Kong
+                                Lehman Brothers Nominees
+                                   (H.K.) Limited...........  Hong Kong
+                                        Lehman Brothers
+                                           Securities Asia
+                                           Limited..........  Hong Kong
+                        Lehman Brothers Futures Asia
+                           Limited..........................  Hong Kong
+                        Lehman Brothers Nominees (H.K.)
+                           Limited..........................  Hong Kong
+                        Lehman Brothers Pte Ltd.............  Singapore
+                        Lehman Brothers Securities Asia
+                           Limited..........................  Hong Kong
+                Lehman Brothers Asia Limited................  Hong Kong
+                Lehman Brothers Derivative Products Inc.....  Delaware
+                Lehman Brothers Financial Products Inc......  Delaware
+                Lehman Brothers Futures Asia Limited........  Hong Kong
+                Lehman Brothers Investment Holding Company
+                   Inc......................................  Delaware
+                Lehman Brothers Nominees (H.K.) Limited.....  Hong Kong
+                Lehman Brothers Special Financing Inc.......  Delaware
+</Table>
+
+<Page>
+
+<Table>
+<Caption>
+                                                              JURISDICTION OF
+COMPANY                                                        INCORPORATION
+-------                                                       ---------------
+<S>                                                           <C>
+                Lehman Commercial Paper Inc.................  New York
+                        LCPI Properties Inc.................  New Jersey
+                                LW-LP Inc...................  Delaware
+                        Lehman CMO Inc......................  Maryland
+                        Lehman ABS Corporation..............  Delaware
+                                Lehman Asset Backed Caps
+                                   Inc......................  Delaware
+                        Lehman Pass-Through Securities
+                           Inc..............................  Delaware
+                        Lehman Structured Securities
+                           Corp.............................  Delaware
+                        Lehman Syndicated Loan Inc..........  Delaware
+                        Structured Asset Securities
+                           Corporation......................  Delaware
+                LB I Group Inc..............................  Delaware
+                        DL Mortgage Corp....................  Delaware
+                        Lehman Insurance Company............  Arizona
+                        Lehman VIP Holdings Inc.............  Delaware
+                RIBCO SPC, Inc..............................  Delaware
+                        RIBCO LLC...........................  Delaware
+        Lehman Brothers Insurance Agency L.L.C..............  Delaware
+        Lehman Brothers International S.A...................  Spain
+        Lehman Brothers International SIM SpA...............  Italy
+        Lehman Brothers Investments Pte Limited.............  Singapore
+        Lehman Brothers Japan Inc...........................  Cayman Islands
+        Lehman Brothers (Luxembourg) S.A....................  Luxembourg
+        Lehman Brothers Private Equity Advisers L.L.C.......  Delaware
+        Lehman Brothers Realty Corp.........................  Delaware
+        Lehman Brothers U.K. Holdings (Delaware) Inc........  Delaware
+                Lehman Brothers Spain Holdings Limited......  United Kingdom
+                        Lehman Brothers Luxembourg
+                           Investments Sarl.................  Luxembourg
+                                Lehman Brothers U.K.
+                                   Holdings Ltd.............  United Kingdom
+                                        Lehman Brothers
+                                           Holdings Plc.....  United Kingdom
+                                                Lehman
+                                                   Brothers
+                                               International
+                                                  (Europe)..  United Kingdom
+                                                Lehman
+                                                   Brothers
+                                                   Europe
+                                                  Limited...  United Kingdom
+                Lehman Brothers Treasury Co. B.V............  The Netherlands
+                Lehman Brothers Capital GmbH, Co............  Germany
+        Lehman Brothers Verwaltungs-und
+        Beteiligungsgesellschaft mbH........................  Germany
+                Lehman Brothers Bankhaus
+                   Aktiengesellschaft.......................  Germany
+        Lehman Re Ltd.......................................  Bermuda
+        Lehman Risk Advisors Inc............................  Delaware
+        Lehman Structured Assets Inc........................  Delaware
+</Table>
+
+</TEXT>
+</DOCUMENT>

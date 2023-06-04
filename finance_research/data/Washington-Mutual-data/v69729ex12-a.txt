@@ -1,0 +1,72 @@
+<DOCUMENT>
+<TYPE>EX-12.(A)
+<SEQUENCE>22
+<FILENAME>v69729ex12-a.txt
+<DESCRIPTION>EXHIBIT 12.(A)
+<TEXT>
+
+<PAGE>   1
+                                 EXHIBIT 12 (a)
+                            WASHINGTON MUTUAL, INC.
+                COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+<TABLE>
+<CAPTION>
+
+                                                             Year Ended December 31,
+                                           ----------------------------------------------------------
+(in millions)                                2000        1999        1998         1997         1996
+                                           -------      -------     -------      -------      -------
+<S>                                         <C>          <C>        <C>          <C>            <C>
+
+EARNINGS, INCLUDING INTEREST ON
+  DEPOSITS(1):
+Income before income tax expense           $ 2,984       $2,884     $ 2,369      $ 1,538      $   591
+Fixed charges                                9,538        7,674       6,990        6,349        6,086
+                                           -------      -------     -------      -------      -------
+                                           $12,522      $10,558     $ 9,359      $ 7,887      $ 6,677
+                                           =======      =======     =======      =======      =======
+Fixed charges(1):
+      Interest expense                     $ 9,472      $ 7,610     $ 6,929      $ 6,287      $ 6,027
+      Estimated interest component of
+        net rental expense                      66           64          61           62           59
+                                           -------      -------     -------      -------      -------
+                                           $ 9,538      $ 7,674     $ 6,990      $ 6,349      $ 6,086
+                                           =======      =======     =======      =======      =======
+
+Ratio of earnings to fixed charges(2)         1.31         1.38        1.34         1.24         1.10
+                                           =======      =======     =======      =======      =======
+
+
+EARNINGS, EXCLUDING INTEREST ON DEPOSITS:
+Income before income tax expense           $ 2,984      $ 2,884     $ 2,369      $ 1,538        $ 591
+Fixed charges                                6,248        4,504       3,402        2,703        2,322
+                                           -------      -------     -------      -------      -------
+                                           $ 9,232      $ 7,388     $ 5,771      $ 4,241      $ 2,913
+                                           =======      =======     =======      =======      =======
+Fixed charges:
+      Interest expense                     $ 9,472      $ 7,610     $ 6,929      $ 6,287      $ 6,027
+      Less interest on deposits              3,290        3,170       3,588        3,646        3,764
+      Estimated interest component of
+         net rental expense                     66           64          61           62           59
+                                           -------      -------     -------      -------      -------
+                                           $ 6,248      $ 4,504     $ 3,402      $ 2,703      $ 2,322
+                                           =======      =======     =======      =======      =======
+
+Ratio of earnings to fixed charges(2)         1.48         1.64        1.70         1.57         1.25
+                                           =======      =======     =======      =======      =======
+
+-------------------
+(1)    As defined in Item 503(d) of Regulation S-K.
+
+(2)    These computations are included herein in compliance with Securities and Exchange Commission
+       Regulations.  However, management believes that fixed charge ratios are not meaningful measures for the
+       business of the Company because of  two factors.  First, even if there were no change in net income, the
+       ratios would decline with an increase in the proportion of income which is tax-exempt or, conversely,
+       they would increase with a decrease in the proportion of income which is tax-exempt.  Second, even if
+       there were no change in net income, the ratios would decline if interest income and interest expense
+       increase by the same amount due to an increase in the level of interest rates or, conversely, they would
+       increase if interest income and interest expense decrease by the same amount due to a decrease in the
+       level of interest rates.
+</TABLE>
+</TEXT>
+</DOCUMENT>

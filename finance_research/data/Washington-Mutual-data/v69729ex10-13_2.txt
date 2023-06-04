@@ -1,0 +1,97 @@
+<DOCUMENT>
+<TYPE>EX-10.13.2
+<SEQUENCE>19
+<FILENAME>v69729ex10-13_2.txt
+<DESCRIPTION>EXHIBIT 10.13.2
+<TEXT>
+
+<PAGE>   1
+                                                                 EXHIBIT 10.13.2
+
+
+                                AMENDMENT TO THE
+                             WASHINGTON MUTUAL, INC.
+                            CASH BALANCE PENSION PLAN
+
+
+        THIS AMENDMENT is made to the Washington Mutual, Inc. Cash Balance
+Pension Plan (the "Plan") by Washington Mutual, Inc. (the "Company") on this
+______ day of January 2001.
+
+
+                               RECITALS:
+
+        WHEREAS, the Company maintains the Plan for the benefit of its eligible
+employees; and
+
+        WHEREAS, the Company has acquired Bank United Corp. ("Bank United") and
+certain subsidiaries of PNC Bank, National Association (the "PNC Companies");
+and
+
+        WHEREAS, the Company has agreed to provide the former employees of Bank
+United and the PNC Companies who continue employment with the Company upon the
+closing of the Company's acquisitions of Bank United and the PNC Companies,
+respectively, with certain credits for eligibility, vesting and, with respect to
+former employees of Bank United, benefit service; and
+
+        WHEREAS, the Company desires to amend the Plan to provide for
+such credits; and
+
+        WHEREAS, the Company may amend the Plan at any time pursuant to
+Section 12.1;
+
+        NOW, THEREFORE, the Plan is hereby amended as follows:
+
+        1. Section 2.30(a) is amended by the addition of a new Paragraphs (26)
+and (27), to read as set forth below:
+
+               (26) Eligible Employees who were credited with Service for
+               service with PNC Bank, National Association, may first enter the
+               Plan on the day after the "PNC Closing Date", as such term is
+               defined in Section 2.37.
+
+               (27) Eligible Employees who were credited with Service for
+               service with Bank United Corp. may first enter the Plan on May 1,
+               2001.
+
+        2. Section 2.37(a) is amended by the addition of a new paragraph (22),
+to read as set forth below:
+
+
+
+<PAGE>   2
+               (23) Employees who were employed by PNC Bank, National
+               Association, as of the date in 2001 of the closing of the
+               Company's acquisition of several subsidiaries of PNC Bank,
+               National Association (the "PNC Closing Date") and who are
+               employed by the Company upon the closing of such acquisitions
+               shall be credited with Service for Service performed with PNC
+               Bank, National Association.
+
+               (24) Employees who were employed by Bank United Corp. as of the
+               date in 2001 of the closing of the Company's acquisition of Bank
+               United Corp. and who are employed by the Company upon such
+               closing shall, after April 30, 2001, be credited with Service for
+               service performed with Bank United Corp.
+
+        3. Section 2.37 is amended by the addition of a new subsection (c) to
+read as set forth below:
+
+               (c) After April 30, 2001, Employees who are credited with Service
+               pursuant to Section 2.37(a)(24) shall have their service with
+               Bank United credited as Years of Benefit Service for purposes of
+               this Plan.
+
+        IN WITNESS WHEREOF, the undersigned, an authorized officer of the
+Company, has executed this amendment on the day and year first written above.
+
+                                            WASHINGTON MUTUAL, INC.
+
+
+
+                                            By:
+                                               ---------------------------------
+                                            Its:
+                                                --------------------------------
+</TEXT>
+</DOCUMENT>

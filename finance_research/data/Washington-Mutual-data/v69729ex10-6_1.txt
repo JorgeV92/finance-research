@@ -1,0 +1,70 @@
+<DOCUMENT>
+<TYPE>EX-10.6.1
+<SEQUENCE>5
+<FILENAME>v69729ex10-6_1.txt
+<DESCRIPTION>EXHIBIT 10.6.1
+<TEXT>
+
+<PAGE>   1
+                                                                  EXHIBIT 10.6.1
+
+
+                                WASHINGTON MUTUAL
+
+                               FIRST AMENDMENT TO
+                             1994 STOCK OPTION PLAN
+                  AMENDED AND RESTATED AS OF FEBRUARY 15, 2000
+
+        Section 6.4 of the Washington Mutual, Inc. 1994 Stock Option Plan,
+Amended and Restated as of February 15, 2000 is hereby amended in its entirety
+to read as follows, effective October 17, 2000:
+
+               6.4 EARLY TERMINATION OF RIGHT TO EXERCISE. Unless otherwise
+        specified by the Committee (in the Agreement or otherwise), and except
+        as otherwise specified in connection with a change in control under a
+        properly authorized employment agreement between the Participant and the
+        Company or an Affiliate, if the Participant for any reason ceases to be
+        an employee, consultant, advisor or director of the Company or an
+        Affiliate, and the Participant does not thereupon become an employee,
+        consultant, advisor or director of the Company or an Affiliate, the
+        Participant shall have the right, until the earliest to occur of the
+        last day of the Option term and
+
+               (a) 90 days after termination of the relationship for reasons
+        other than approved retirement as an employee or director of the Company
+        or an Affiliate;
+
+               (b) five years after termination of the relationship by reason of
+        approved retirement after attaining age 55 with ten year's service as an
+        employee of the Company or an Affiliate; and
+
+               (c) five years after termination of the relationship by reason of
+        approved retirement after attaining age 55 with five year's service as a
+        director of the Company or an Affiliate,
+
+               to exercise only the portion of the Participant's Options that
+        had become exercisable by the date of the termination, and thereafter
+        the Options shall terminate and cease to be exercisable. Notwithstanding
+        the foregoing, if the relationship terminates by reason of the
+        Participant's approved retirement as an employee of the Company or an
+        Affiliate after attaining age 65 (or, if the Participant retires as a
+        director of the Company or an Affiliate after attaining age 72), and the
+        Participant does not thereupon become an employee or director of the
+        Company or an Affiliate, all of the Participant's Options shall become
+        fully vested and exercisable for the applicable period set forth above.
+
+<PAGE>   2
+        IN WITNESS WHEREOF, Washington Mutual, Inc. has caused this First
+Amendment to be duly executed on the 6th day of March, 2001.
+
+                                            WASHINGTON MUTUAL, INC.
+
+                                            By: /s/ William L. Lynch
+
+                                            Its:  Secretary
+
+
+
+                                       -2-
+</TEXT>
+</DOCUMENT>

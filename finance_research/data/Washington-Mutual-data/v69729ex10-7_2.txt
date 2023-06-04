@@ -1,0 +1,71 @@
+<DOCUMENT>
+<TYPE>EX-10.7.2
+<SEQUENCE>8
+<FILENAME>v69729ex10-7_2.txt
+<DESCRIPTION>EXHIBIT 10.7.2
+<TEXT>
+
+<PAGE>   1
+                                                                 EXHIBIT 10.7.2
+
+
+                                AMENDMENT TO THE
+                                WASHINGTON MUTUAL
+                              RESTRICTED STOCK PLAN
+                 AS AMENDED AND RESTATED AS OF JANUARY 18, 2000
+
+
+        THIS AMENDMENT to the Washington Mutual Restricted Stock Plan As Amended
+and Restated as of January 18, 2000 (the "Plan") is made by Washington Mutual,
+Inc. (the "Company") on this ____ day of _______________:
+
+                                    RECITALS
+
+        WHEREAS, Washington Mutual, Inc. (the "Company") maintains the Plan for
+the benefit of eligible employees; and
+
+        WHEREAS, the Company maintains the Washington Mutual, Inc. Deferred
+Compensation Plan for Directors and Certain Highly Compensated Employees (the
+"Deferred Compensation Plan"); and
+
+        WHEREAS, the Company has approved amendments to the Deferred
+Compensation Plan to provide a contribution credit under that plan in an amount
+equal to the value of restricted stock issued under the Restricted Stock Plan
+surrendered to the Company; and
+
+        WHEREAS, the Directors' Compensation and Stock Option Committee has
+amended the Restricted Stock Plan to authorize the surrender of restricted stock
+to the Company in return for a contribution credit under the Deferred
+Compensation Plan; and
+
+        WHEREAS, the Board of Directors desires to ratify such amendment;
+
+        NOW, THEREFORE, the Plan is hereby amended as follows:
+
+        Article 6 of the Plan is hereby amended by the addition of the following
+new Section 6.7:
+
+        6.7 SURRENDER OF RESTRICTED STOCK. A Participant who also is a
+participant in the Washington Mutual, Inc. Deferred Compensation Plan for
+Directors and Certain Highly Compensated Employees (the "DCP") may surrender to
+the Company all or a portion of an Award pursuant to the terms and provisions of
+the DCP relating to surrender of restricted stock in return for a contribution
+credit under the DCP.
+
+        IN WITNESS WHEREOF, the undersigned, an authorized officer of the
+Company, has executed this amendment on the day and year first written above.
+
+
+
+                                            WASHINGTON MUTUAL, INC.
+
+
+                                            By:________________________________
+                                            Its:_______________________________
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

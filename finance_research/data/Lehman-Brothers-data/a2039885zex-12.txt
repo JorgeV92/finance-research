@@ -1,0 +1,50 @@
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>2
+<FILENAME>a2039885zex-12.txt
+<DESCRIPTION>EXHIBIT 12
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 12
+
+                 LEHMAN BROTHERS HOLDINGS INC. AND SUBSIDIARIES
+             COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES AND
+              COMBINED FIXED CHARGES AND PREFERRED STOCK DIVIDENDS
+                             (DOLLARS IN MILLIONS)
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                              FOR THE TWELVE MONTHS ENDED NOVEMBER 30
+                                                        ----------------------------------------------------
+                                                          1996       1997       1998       1999       2000
+                                                        --------   --------   --------   --------   --------
+<S>                                                     <C>        <C>        <C>        <C>        <C>
+Pre-tax earnings from continuing operations...........  $   637    $   937    $ 1,052    $ 1,631    $ 2,579
+Add: Fixed charges (excluding capitalized interest)...   10,852     13,043     15,813     13,681     18,778
+                                                        -------    -------    -------    -------    -------
+Pre-tax earnings before fixed charges.................   11,489     13,980     16,865     15,312     21,357
+                                                        =======    =======    =======    =======    =======
+Fixed charges:
+  Interest............................................   10,816     13,010     15,781     13,649     18,740
+  Other(a)............................................       50         41         47         71         57
+                                                        -------    -------    -------    -------    -------
+  Total fixed charges.................................   10,866     13,051     15,828     13,720     18,797
+                                                        -------    -------    -------    -------    -------
+Preferred stock dividend requirements.................       58        109        124        174        195
+                                                        -------    -------    -------    -------    -------
+Total combined fixed charges and preferred stock
+  dividends...........................................  $10,924    $13,160    $15,952    $13,894    $18,992
+                                                        =======    =======    =======    =======    =======
+RATIO OF EARNINGS TO FIXED CHARGES....................     1.06       1.07       1.07       1.12       1.14
+RATIO OF EARNINGS TO COMBINED FIXED CHARGES AND
+  PREFERRED STOCK DIVIDENDS...........................     1.05       1.06       1.06       1.10       1.12
+</TABLE>
+
+------------------------
+
+(a) Other fixed charges consist of the interest factor in rentals and
+    capitalized interest.
+</TEXT>
+</DOCUMENT>

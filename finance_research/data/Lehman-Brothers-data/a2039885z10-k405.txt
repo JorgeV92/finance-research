@@ -1,0 +1,1691 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>a2039885z10-k405.txt
+<DESCRIPTION>10-K405
+<TEXT>
+
+<PAGE>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+                                   FORM 10-K
+
+(MARK ONE)
+
+<TABLE>
+<C>        <S>
+   /X/     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+                  FOR THE FISCAL YEAR ENDED NOVEMBER 30, 2000
+                                       OR
+
+<TABLE>
+<C>        <S>
+   / /     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+        FOR THE TRANSITION PERIOD FROM ______________ TO ______________
+
+                         COMMISSION FILE NUMBER 1-9466
+                            ------------------------
+                         LEHMAN BROTHERS HOLDINGS INC.
+
+             (Exact Name of Registrant as Specified in its Charter)
+
+<TABLE>
+<S>                                             <C>
+                DELAWARE                                     13-3216325
+    (State or other jurisdiction of             (I.R.S. Employer Identification No.)
+     incorporation or organization)
+
+        3 WORLD FINANCIAL CENTER
+           NEW YORK, NEW YORK                                  10285
+(Address of principal executive offices)                     (Zip Code)
+</TABLE>
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (212) 526-7000
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+<TABLE>
+<CAPTION>
+                                                                NAME OF EACH EXCHANGE
+TITLE OF EACH CLASS                                              ON WHICH REGISTERED
+-------------------                                           -------------------------
+<S>                                                           <C>
+Common Stock, $.10 par value                                  New York Stock Exchange
+                                                              Pacific Exchange
+Depositary Shares representing 5.94% Cumulative Preferred     New York Stock Exchange
+  Stock, Series C
+Depositary Shares representing 5.67% Cumulative Preferred     New York Stock Exchange
+  Stock, Series D
+Depositary Shares representing Fixed/Adjustable Rate          New York Stock Exchange
+  Cumulative Preferred Stock, Series E
+8% Trust Preferred Securities, Series I, of Subsidiary Trust  New York Stock Exchange
+  (and Registrant's guarantee thereof)
+7.875% Trust Preferred Securities, Series J, of Subsidiary    New York Stock Exchange
+  Trust (and Registrant's guarantee thereof)
+Dow Jones Internet Index Stock Upside Note Securities Due     American Stock Exchange
+  2004
+10 Uncommon Values Index Basket Adjusting Structured Equity   American Stock Exchange
+  Securities Notes Due 2004
+10 Uncommon Values Index Basket Adjusting Structured Equity   American Stock Exchange
+  Securities Notes Series B,
+  Due 2004
+10 Uncommon Values Index Basket Adjusting Structured Equity   American Stock Exchange
+  Securities Notes Due 2003
+10 Uncommon Values Index Structured Equity Securities Notes   American Stock Exchange
+  Due 2001
+Notes due November 14, 2007--Performance Linked to Marsh &    American Stock Exchange
+  McLennan Companies, Inc. (MMC) Common Stock
+Notes due November 14, 2007--Performance Linked to Pfizer     American Stock Exchange
+  Inc. (PFE) Common Stock
+8 3/4% Notes Due 2002                                         New York Stock Exchange
+8.30% Quarterly Income Capital Securities Series A, Due       New York Stock Exchange
+  December 31, 2035
+</TABLE>
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: NONE
+
+    Indicate by check mark whether the Registrant: (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes /X/  No / /
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein,
+and will not be contained, to the best of Registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. /X/
+
+    The aggregate market value of the voting and nonvoting common equity held by
+non-affiliates of the Registrant at February 12, 2001, was approximately
+$19,891,400,000. For purposes of this information, the outstanding shares of
+common stock owned by directors of the Registrant were deemed to be shares of
+common stock held by affiliates. As of February 12, 2001, 250,170,237 shares of
+the Registrant's Common Stock, $.10 par value per share, were issued and
+outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE:
+
+(1) Lehman Brothers Holdings Inc. 2000 Annual Report to Stockholders (the "2000
+    Annual Report")--Incorporated in part in Parts I, II and IV.
+
+(2) Lehman Brothers Holdings Inc. Definitive Proxy Statement for its 2001 Annual
+    Meeting of Stockholders (the "Proxy Statement")--Incorporated in part in
+    Part III.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+                                     PART I
+
+ITEM 1. BUSINESS
+
+GENERAL DEVELOPMENT OF BUSINESS
+
+    As used herein, "Holdings" or the "Registrant" means Lehman Brothers
+Holdings Inc., a Delaware corporation, incorporated on December 29, 1983.
+Holdings and its subsidiaries are collectively referred to as the "Company," the
+"Firm" or "Lehman Brothers," and Lehman Brothers Inc., a Delaware corporation
+and the principal subsidiary of Holdings, is referred to herein as "LBI."
+
+    The Company is one of the leading global investment banks, serving
+institutional, corporate, government and high-net-worth individual clients and
+customers. Its executive offices are located at 3 World Financial Center, New
+York, New York 10285, and its telephone number is (212) 526-7000.
+
+FORWARD-LOOKING STATEMENTS
+
+    Some of the statements contained in this report, including those relating to
+the Company's strategy and other statements that are predictive in nature, that
+depend upon or refer to future events or conditions or that include words such
+as "expects," "anticipates," "intends," "plans," "believes," "estimates" and
+similar expressions are forward-looking statements within the meaning of
+Section 21E of the Securities Exchange Act of 1934. These statements are not
+historical facts but instead represent only the Firm's expectations, estimates
+and projections regarding future events. These statements are not guarantees of
+future performance and involve certain risks and uncertainties that are
+difficult to predict, which may include market, credit or counterparty,
+liquidity, legal and operational risks. Market risks include changes in interest
+and foreign exchange rates and securities valuations, global economic and
+political trends and industry competition. The Firm's actual results and
+financial condition may differ, perhaps materially, from the anticipated results
+and financial condition in any such forward-looking statements. For more
+information concerning the risks and other factors that could affect the Firm's
+future results and financial condition, see "Management's Discussion and
+Analysis of Financial Condition and Results of Operation" on pages 37-52 of the
+2000 Annual Report. The Company undertakes no obligation to update any forward-
+looking statements, whether as a result of new information, future events or
+otherwise.
+
+LEHMAN BROTHERS
+
+    Lehman Brothers is one of the leading global investment banks, serving
+institutional, corporate, government and high-net-worth individual clients and
+customers. The Company's worldwide headquarters in New York and regional
+headquarters in London and Tokyo are complemented by offices in additional
+locations in the United States, Europe, the Middle East, Latin America and the
+Asia Pacific region. The Company is engaged primarily in providing financial
+services. Other businesses in which the Company is engaged represent less than
+10 percent of consolidated assets, revenues or pre-tax income.
+
+    The Company's business includes capital raising for clients through
+securities underwriting and direct placements, corporate finance and strategic
+advisory services, private equity investments, securities sales and trading,
+research, and the trading of foreign exchange, derivative products and certain
+commodities. The Company acts as a market-maker in all major equity and fixed
+income products in both the domestic and international markets. Lehman Brothers
+is a member of all principal securities and commodities exchanges in the United
+States, as well as the National Association of Securities Dealers, Inc.
+("NASD"), and holds memberships or associate memberships on several principal
+international securities and commodities exchanges, including the London, Tokyo,
+Hong Kong, Frankfurt, Paris and Milan stock exchanges.
+
+    Lehman Brothers provides a full array of capital market products and
+advisory services worldwide. Through the Company's banking, research, trading,
+structuring and distribution capabilities of equity and fixed income products
+the Company continues its focus of building its client/customer business model.
+These "customer flow" activities represent a majority of the Company's revenues.
+In addition to its customer flow activities, the Company also takes proprietary
+positions, the success of which is dependent on its ability to anticipate
+economic and market trends. The Company believes its customer flow orientation
+mitigates its overall revenue volatility.
+<PAGE>
+    The Company operates in three business segments (each of which is described
+below): Investment Banking, Capital Markets and Client Services. Financial
+information concerning the Company for the fiscal years ended November 30, 2000,
+November 30, 1999, and November 30, 1998, including the amount of net revenue
+contributed by each segment in such periods, is set forth in the Consolidated
+Financial Statements and the Notes thereto in the 2000 Annual Report and is
+incorporated herein by reference. Information with respect to the Company's
+operations by segment and net revenues by geographic area is set forth in
+Note 15 of the Notes to Consolidated Financial Statements on pages 85-86 of the
+2000 Annual Report and is incorporated herein by reference.
+
+INVESTMENT BANKING
+
+    Lehman Brothers' Investment Banking professionals are responsible for
+developing and maintaining relationships with issuing clients, gaining a
+thorough understanding of their specific needs and bringing together the full
+resources of Lehman Brothers to accomplish their financial objectives.
+Investment Banking is organized into industry, geographic and product coverage
+groups, enabling individual bankers to develop specific expertise in particular
+industries and markets. Industry coverage groups include Chemicals,
+Communications/Media, Consumer/Retailing, Financial Institutions, Healthcare,
+Industrial, Natural Resources, Power, Real Estate and Technology. Where
+appropriate, specialized product groups are partnered with the global industry
+and geographic groups to provide tailor-made solutions for Lehman Brothers'
+clients. These product groups include Equity Capital Markets, which consists of
+equity and equity-related securities and derivatives, Fixed Income Capital
+Markets, which incorporates expertise in syndicate, liability management,
+derivatives, private placements, high yield debt and bank loan syndication, and
+Mergers and Acquisitions/Strategic Advisory Services. Geographically, Lehman
+Brothers maintains investment banking offices in eight cities in the U.S. and in
+nineteen cities in Europe, the Middle East, Asia and Latin America. The high
+degree of integration between the Company's industry, product and geographic
+groups has allowed Lehman Brothers to become a leading source of one-stop
+financial solutions for its global clients.
+
+    MERGERS AND ACQUISITIONS/STRATEGIC ADVISORY.  Lehman Brothers has a long
+history of providing strategic advisory services to corporate, institutional and
+government clients around the world on a wide range of financial matters,
+including mergers and acquisitions, restructurings and spin-offs, targeted stock
+transactions, share repurchase strategies, government privatization programs,
+takeover defenses and tax optimization strategies. During 2000, the Company
+continued to expand its activities world-wide, serving as financial advisor on
+$335 billion of completed transactions world-wide.
+
+    UNDERWRITING.  The Company is a leading underwriter of initial public and
+secondary offerings of equity and fixed income securities, including listed and
+over-the-counter securities, government and agency securities and mortgage- and
+asset-backed securities.
+
+CAPITAL MARKETS
+
+    Lehman Brothers combines professionals from the sales, trading and research
+areas of its Equities and Fixed Income Divisions, together with investment
+bankers, into teams to serve the financial needs of the Company's clients and
+customers. This integrated approach enables Lehman Brothers to structure and
+execute global transactions for clients and to provide worldwide liquidity in
+marketable securities.
+
+    EQUITIES
+
+    The Equities group is responsible for the Company's equity operations and
+all dollar and non-dollar equity and equity-related products worldwide. These
+products include listed and over-the-counter ("OTC") securities, American
+Depositary Receipts, convertibles, options, warrants and derivatives.
+
+                                       2
+<PAGE>
+    EQUITY CASH PRODUCTS.  Lehman Brothers makes markets in equity and
+equity-related securities, and executes block trades on behalf of clients and
+customers. The Company participates in the global equity and equity-related
+markets in all major currencies through its worldwide presence and membership in
+major stock exchanges, including, among others, those in New York, London,
+Tokyo, Hong Kong, Frankfurt, Paris and Milan.
+
+    EQUITY DERIVATIVES.  Lehman Brothers offers equity derivative capabilities
+across a wide spectrum of products and currencies, including domestic and
+international program trading, listed options and futures and structured
+derivatives. The Firm's equity derivatives business is organized into two major
+product areas: a global volatility business, encompassing options-related
+products, and a global portfolio trading business that specializes in index
+arbitrage, agency/risk baskets and other structured products.
+
+    EQUITY FINANCE.  Lehman Brothers maintains an integrated Equity Financing
+and Prime Broker business to provide liquidity to its clients and customers and
+supply a source of secured financing for the Firm. Equity Financing provides
+financing in all markets on a margin basis for customer purchases of equities
+and other capital markets products as well as securities lending and
+short-selling facilitation. The Prime Broker business also engages in full
+operations, clearing and processing services for that unit's customers.
+
+    ARBITRAGE.  Lehman Brothers engages in a variety of arbitrage activities
+including "riskless" arbitrage, where the Company seeks to benefit from
+temporary price discrepancies that occur when a security is traded in two or
+more markets, and "risk" arbitrage activities, which involve the purchase of
+securities at discounts from the expected values that would be realized if
+certain proposed or anticipated corporate transactions (such as mergers,
+acquisitions, recapitalizations, exchange offers, reorganizations, bankruptcies,
+liquidations or spin-offs) were to occur. To the extent that these anticipated
+transactions do not materialize in a manner consistent with the Company's
+expectations, the Company is subject to the risk that the value of these
+investments will decline. Lehman Brothers' arbitrage activities benefit from the
+Company's presence in the global capital markets, access to advanced information
+technology, in-depth market research, proprietary risk management tools and
+general experience in assessing rapidly changing market conditions.
+
+    FIXED INCOME
+
+    Lehman Brothers actively participates in all key fixed income markets
+worldwide and maintains a 24-hour trading presence in global fixed income
+securities. The Company is a preeminent market-maker in new issue and other
+fixed income securities.
+
+    Fixed Income businesses include the following:
+
+    GOVERNMENT AND AGENCY OBLIGATIONS.  Lehman Brothers is one of the leading
+primary dealers in U.S. government securities, as designated by the Federal
+Reserve Bank of New York, participating in the underwriting and market-making of
+U.S. Treasury bills, notes and bonds, and securities of federal agencies. The
+Company is also a market-maker in the government securities of all G7 countries,
+and participates in other major European and Asian government bond markets.
+
+    CORPORATE DEBT SECURITIES.  Lehman Brothers makes markets in fixed and
+floating rate investment grade debt worldwide. The Company is also a major
+participant in the preferred stock market, managing numerous offerings of
+long-term and perpetual preferreds and auction rate securities.
+
+    HIGH YIELD SECURITIES AND LEVERAGED BANK LOANS.  The Company also makes
+markets in non-investment grade debt securities and bank loans. Lehman Brothers
+provides "one-stop" leveraged financing solutions for corporate and financial
+acquirers and high yield issuers, including multi-tranche, multi-product
+acquisition financing. The Company remains one of the leading investment banks
+in the syndication of leveraged loans.
+
+                                       3
+<PAGE>
+    MONEY MARKET PRODUCTS.  Lehman Brothers holds leading market positions in
+the origination and distribution of medium-term notes and commercial paper. The
+Company is an appointed dealer for over 690 active commercial paper programs on
+behalf of companies and government agencies worldwide.
+
+    MORTGAGE AND ASSET-BACKED SECURITIES.  The Company is a leading underwriter
+of and market-maker in residential and commercial mortgage- and asset-backed
+securities and is active in all areas of secured lending, structured finance and
+securitized products. Lehman Brothers underwrites and makes markets in the full
+range of U.S. agency-backed mortgage products, mortgage-backed securities,
+asset-backed securities and whole loan products. It is a leader in the global
+market for mortgage and asset-backed securities, leases, mortgages, multi-family
+financing and commercial loans. The Company also originates mortgage loans
+directly through its subsidiary savings bank, Lehman Brothers Bank, FSB. In
+addition, Lehman Brothers engages in select investments in commercial and
+residential properties.
+
+    MUNICIPAL AND TAX-EXEMPT SECURITIES.  Lehman Brothers is a major dealer in
+municipal and tax-exempt securities, including general obligation and revenue
+bonds, notes issued by states, counties, cities, and state and local
+governmental agencies, municipal leases, tax-exempt commercial paper and put
+bonds.
+
+    FINANCING.  The Company's Financing unit engages in three primary functions:
+managing the Company's matched book activities, supplying secured financing to
+customers, and providing funding for the Company's activities. Matched book
+funding involves borrowing and lending cash on a short-term basis to
+institutional customers collateralized by marketable securities, typically
+government or government agency securities. The Company enters into these
+agreements in various currencies and seeks to generate profits from the
+difference between interest earned and interest paid. The Financing unit works
+with the Company's institutional sales force to identify customers that have
+cash to invest and/or securities to pledge to meet the financing and investment
+objectives of the Company and its customers. Financing also coordinates with the
+Company's Treasury area to provide collateralized financing for a large portion
+of the Company's securities and other financial instruments owned. In addition
+to its activities on behalf of its U.S. clients and customers, the Company is a
+major participant in the European and Asian repurchase agreement markets,
+providing secured financing for the Firm's customers in those regions.
+
+    FIXED INCOME DERIVATIVES.  The Company offers a broad range of derivative
+product services in all major currencies on a 24-hour-per-day global basis.
+Derivatives professionals are integrated into all of the Company's fixed income
+areas in response to the worldwide convergence of the cash and derivative
+markets.
+
+    FOREIGN EXCHANGE.  Lehman Brothers' global foreign exchange operations
+provide market access and liquidity in all currencies for spot, forward and
+over-the-counter options markets on a 24-hour-per-day basis. Lehman Brothers
+offers its customers superior execution, market intelligence, analysis and
+hedging capabilities, utilizing foreign exchange as well as foreign exchange
+options and derivatives. Lehman Brothers also provides advisory services to
+central banks, corporations, and investors worldwide, structuring innovative
+products to fit their specific needs. The Firm makes extensive use of its
+worldwide macroeconomics research to advise clients on the appropriate
+strategies to minimize interest rate and currency risk.
+
+    GLOBAL DISTRIBUTION
+
+    Lehman Brothers' institutional sales organizations encompass distinct global
+sales forces that have been integrated into the Fixed Income and Equities
+businesses to provide investors with the full array of products and research
+offered by the Firm. Lehman Brothers has a strategic alliance with Fidelity
+Investments that provides the Firm access to Fidelity's retail brokerage
+customers and a distribution channel for new issue and secondary products and
+research to individual investors on-line. During 2000, the Firm entered into
+similar alliances with FINECO Online in Italy and Consors Discount-Broker in
+
+                                       4
+<PAGE>
+Germany. Lehman Brothers also formed an alliance with ANZ Investment Bank to
+provide capital markets access to their institutional clients in Australia and
+New Zealand.
+
+    EQUITY SALES.  Lehman Brothers' institutional Equity sales force provides an
+extensive range of services to institutional investors through locations in the
+U.S., Europe and Asia. The Equity sales organization focuses on developing
+long-term relationships though a comprehensive understanding of customers'
+investment objectives, while providing proficient execution and consistent
+liquidity in a wide range of global equity securities and derivatives.
+
+    FIXED INCOME SALES.  Lehman Brothers' Fixed Income sales force is one of the
+most productive in the industry, serving the investing and liquidity needs of
+major institutional investors. Employing a relationship management approach that
+provides superior information flow and product opportunities for the Firm's
+customers, the Fixed Income sales organization covers the major share of the
+buying power in the global fixed income markets.
+
+    RESEARCH
+
+    EQUITY RESEARCH.  The Equity Research department is integrated with the
+Company's investment banking, sales and trading activities. To ensure in-depth
+expertise within various markets, Equity Research has established regional teams
+on a worldwide basis that are staffed with industry and strategy specialists.
+The department follows more than 1,500 companies in 70 industries worldwide.
+
+    FIXED INCOME RESEARCH.  Fixed Income research at Lehman Brothers encompasses
+the full range of research disciplines: quantitative, economic, strategic,
+credit, relative value and market-specific analysis. Fixed Income research is
+integrated with the Company's investment banking, sales and trading activities.
+The department's specialists provide expertise in U.S., European and Asian
+government and agency securities, derivatives, sovereign issues, corporate
+securities, high yield, asset- and mortgage-backed securities, emerging market
+debt and municipal securities.
+
+CLIENT SERVICES
+
+    Client Services includes the Company's Private Client Services group, a
+retail-based organization which primarily serves the investment needs of wealthy
+individuals, and its Private Equity Division, which manages assets through a
+series of private equity funds.
+
+    PRIVATE CLIENT SERVICES
+
+    The Company's Private Client Services group of approximately 450
+professionals serves the investment needs of private investors with substantial
+assets as well as over 2,200 mid-sized institutional accounts worldwide. The
+group has a global presence, with investment representatives located in 21
+offices worldwide. Among other services, investment professionals provide their
+clients with direct access to fixed income, equity, foreign exchange and
+derivative products, as well as the Firm's research and execution capabilities,
+thereby serving as a valuable extension of the Firm's institutional sales force.
+In October 2000, Lehman Brothers acquired SG Cowen's high-net-worth group of 92
+investment representatives.
+
+    The Firm also provides asset management services, including Investment
+Consulting Services, a wrap-fee series of third party managed products,
+management of multiple manager funds onshore and offshore and a managed futures
+advisory business. The Firm also has dealer agreements with a large number of
+mutual fund families.
+
+    PRIVATE EQUITY
+
+    The Company currently has over $4.5 billion in Private Equity assets under
+management in four areas: Merchant Banking, Venture Capital, Communications and
+Real Estate. The primary goal of each area is to
+
+                                       5
+<PAGE>
+make investments that provide superior returns to investors, including
+institutions, high-net-worth individuals, the Firm and certain employees of the
+Firm.
+
+    MERCHANT BANKING.  Lehman Brothers' merchant banking activities include
+making principal investments in established companies worldwide, often in
+partnership with clients of the Firm, and managing these investments until they
+are realized. The group partners with proven operating teams which have a
+compelling business strategy or vision, with the aim of deriving long-term value
+for our investors.
+
+    VENTURE CAPITAL.  Lehman Brothers manages investments in venture capital via
+its North American and European focused venture capital funds. The primary
+investment objective of the Firm's venture capital activities is to make
+growth-oriented equity or equity-related investments in privately held
+companies. Specifically, the venture capital funds focus on investing in
+companies capable of turning innovative technology and management solutions into
+successful businesses. Accordingly, investment preference is not confined to
+particular industries, but instead is directed to any industry capable of rapid
+growth through the provision of innovative technology and/or services.
+
+    COMMUNICATIONS.  Lehman Brothers Communications Partners raised and closed
+an $800 million fund in 2000. The Communications Fund seeks to invest in early
+stage, growth-oriented communications service providers. This is the first
+industry-focused fund Lehman Brothers has raised, and it will leverage the
+expertise and contacts of Lehman Brothers' Communications/Media Investment
+Banking Group.
+
+    REAL ESTATE.  Lehman Brothers has closed on $590 million of commitments to a
+real estate fund as of November 30, 2000. This fund is focused on making equity
+investments in properties, real estate companies and related service businesses.
+
+    Commitments for all of the Firm's private equity funds are raised in private
+placements not requiring registration under the Securities Act of 1933.
+
+TECHNOLOGY AND E-COMMERCE
+
+    The Firm is committed to developing a technology platform to deliver a full
+range of capital markets information and services to its institutional and
+high-net-worth client base. The Firm-wide e-Commerce Committee, which brings
+together senior management from all of the Firm's global business areas, has
+developed the Firm's overall e-commerce strategy, approves all e-commerce
+investments and provides a forum to share e-commerce knowledge and new
+developments across the Firm's businesses and geographies. The Firm's e-commerce
+strategy focuses on client and markets connectivity, content and strategic
+ventures. During 2000, Lehman Brothers rolled out its integrated client web
+site, LehmanLIVE. The Firm also played a leading role in the advent of
+e-syndicates in the Fixed Income area, co-lead-managing the first such deal; to
+date over $50 billion of new issue bonds have been co-lead-managed by the Firm
+in this format. Lehman Brothers has made many strategic investments and is a
+participant in a number of institutional trading networks in the U.S., Europe
+and Asia. Notable investments include TradeWeb, Market Axess and Securities.Hub
+in Fixed Income, and TheMarkets.com in Equities. Additionally, Lehman Brothers
+supported the global expansion of NASDAQ with an investment in its U.S. and
+Japanese ventures.
+
+                                       6
+<PAGE>
+CORPORATE
+
+    The Company's Corporate division provides support to its businesses through
+the processing of certain securities and commodities transactions; receipt,
+identification and delivery of funds and securities; safeguarding of customers'
+securities; risk management; and compliance with regulatory and legal
+requirements. In addition, this staff is responsible for technology
+infrastructure and systems development, treasury operations, financial control
+and analysis, tax planning and compliance, internal audit, expense management,
+career development and recruiting and other support functions.
+
+RISK MANAGEMENT
+
+    As a leading global investment banking company, risk is an inherent part of
+the Company's businesses. Global markets, by their nature, are prone to
+uncertainty and subject participants to a variety of risks. Lehman Brothers has
+developed policies and procedures to identify, measure and monitor each of the
+risks involved in its trading, brokerage and investment banking activities on a
+global basis. The principal risks of Lehman Brothers are market, credit,
+liquidity, legal and operational risks. As part of the Company's customer-flow
+activities, Lehman Brothers takes positions in interest rates, foreign exchange,
+and various securities, derivatives and commodities. Although the Company seeks
+to mitigate risk associated with such positions through hedging activities,
+consistent with its expectations of future events, it is subject to the risk
+that actual market events may differ from the Company's expectations, which may
+result in losses associated with such positions.
+
+    Lehman Brothers has developed a control infrastructure to monitor and manage
+each type of risk on a global basis throughout the Company. A full description
+of the Firm's Risk Management procedures is contained in "Management's
+Discussion and Analysis of Financial Condition and Results of Operations--Risk
+Management" on pages 49 - 51 of the 2000 Annual Report, and is incorporated
+herein by reference.
+
+COMPETITION
+
+    All aspects of the Company's business are highly competitive. The Company
+competes in domestic and international markets directly with numerous other
+brokers and dealers in securities and commodities, including online internet,
+securities brokerage firms, investment banking firms, investment advisors and
+certain commercial banks and, indirectly for investment funds, with insurance
+companies and others.
+
+    The financial services industry has become considerably more concentrated as
+numerous securities firms have either ceased operations or have been acquired by
+or merged into other firms. In addition, several small and specialized
+securities firms have been successful in raising significant amounts of capital
+for their merger and acquisition activities and merchant banking investment
+vehicles and for their own accounts. These developments have increased
+competition from other firms, many of whom have significantly greater equity
+capital than the Company. Recent legislative and regulatory changes in the
+United States allow commercial banks to enter businesses previously limited to
+investment banks, and several combinations between commercial banks and
+investment banks have occurred, which may further increase competition.
+
+REGULATION
+
+    The securities industry in the United States is subject to extensive
+regulation under both federal and state laws. LBI and certain other subsidiaries
+of Holdings are registered as broker-dealers and investment advisors with the
+Securities and Exchange Commission (the "SEC") and as such are subject to
+regulation by the SEC and by self-regulatory organizations, principally the NASD
+and national securities exchanges such as the New York Stock Exchange, which has
+been designated by the SEC as LBI's primary regulator, and the Municipal
+Securities Rulemaking Board. Securities firms are also subject to regulation by
+state securities administrators in those states in which they conduct business.
+LBI is a registered broker-dealer in all 50 states, the District of Columbia and
+the Commonwealth of Puerto Rico. The SEC, self-regulatory organizations and
+state securities commissions may conduct administrative proceedings, which may
+result
+
+                                       7
+<PAGE>
+in censure, fine, the issuance of cease-and-desist orders or suspension or
+expulsion of a broker-dealer or an investment advisor, its officers or
+employees.
+
+    LBI is also registered with the Commodity Futures Trading Commission (the
+"CFTC") as a futures commission merchant and is subject to regulation as such by
+the CFTC and various domestic boards of trade and other commodity exchanges. The
+Company's U.S. commodity futures and options business is also regulated by the
+National Futures Association, a not-for-profit membership corporation which has
+been designated as a registered futures association by the CFTC.
+
+    The Company does business in the international fixed income, equity and
+commodity markets and undertakes international investment banking activities,
+principally through its regional headquarters in London and Tokyo. The U.K.
+Financial Services Act of 1986 (the "Financial Services Act") governs all
+aspects of the United Kingdom investment business, including regulatory capital,
+sales and trading practices, use and safekeeping of customer funds and
+securities, record keeping, margin practices and procedures, registration
+standards for individuals, periodic reporting and settlement procedures.
+Pursuant to the Financial Services Act, certain subsidiaries of Holdings are
+subject to regulations promulgated and administered by the Financial Services
+Authority.
+
+    Holdings' subsidiary, Lehman Brothers Japan Inc., is a licensed securities
+company in Japan and a member of the Tokyo Stock Exchange and the Tokyo
+Financial Futures Exchange and, as such, is regulated by the Financial
+Supervisory Agency, the Japan Securities Dealers Association and such exchanges.
+
+    Lehman Brothers Bank, FSB, the Company's thrift subsidiary, is regulated by
+the Office of Thrift Supervision. Lehman Brothers Bankhaus A.G. is regulated by
+the German Federal Banking Authority.
+
+    The Company believes that it is in material compliance with the regulations
+described herein.
+
+CAPITAL REQUIREMENTS
+
+    LBI, Lehman Brothers International (Europe), the Tokyo branch of Lehman
+Brothers Japan Inc. and other of Holdings' subsidiaries are subject to various
+securities, commodities and banking regulations and capital adequacy
+requirements promulgated by the regulatory and exchange authorities of the
+countries in which they operate. Reference is made to Note 9 of the Notes to
+Consolidated Financial Statements on page 74 of the 2000 Annual Report.
+
+EMPLOYEES
+
+    As of November 30, 2000, the Company employed approximately 11,300 persons,
+including 7,400 in North America and 3,900 internationally. The Company
+considers its relationship with its employees to be good.
+
+ITEM 2. PROPERTIES
+
+    The Company's headquarters occupy approximately 1.1 million square feet of
+space at Three World Financial Center in New York, New York, which the Company
+occupies under a tenancy-in-common arrangement with American Express Company and
+various American Express Company subsidiaries. Approximately 78,000 square feet
+of the Company's space at Three World Financial Center has been subleased to a
+third-party tenant.
+
+    The Company's headquarters also include leased space at One World Financial
+Center and at One World Trade Center in New York. Located in the same office
+complex as Three World Financial Center, the One World Financial Center space
+will ultimately consist of approximately 700,000 square feet, of which the
+Company currently occupies 100,000 square feet. Approximately 90,000 square feet
+will be occupied during 2001, and 510,000 square feet will be occupied in stages
+beginning in 2004. The lease terms at One World Financial Center expire at
+various dates from December 2015 through 2024, with the exception of a lease for
+140,000 square feet, which expires in 2006. The space at One World Trade Center
+consists of approximately 115,000 square feet with a lease expiration date
+in 2015.
+
+                                       8
+<PAGE>
+    The Company leases approximately 400,000 square feet at 101 Hudson Street in
+Jersey City, New Jersey (the "Operations Center"), of which approximately 67,000
+square feet has been subleased to a third-party tenant. The Operations Center is
+used by systems, operations, and certain administrative personnel. The lease
+term expires in 2011.
+
+    The Company's European headquarters occupy approximately 450,000 square feet
+of leased office space in the Broadgate complex and nearby vicinity in London,
+England, of which approximately 40,000 square feet has been subleased to a
+third-party tenant. The London leases expire at various dates from 2013
+through 2017. The Company expects to relocate its European headquarters in late
+2003 to approximately 1,000,000 square feet of leased office space under
+construction in the Canary Wharf development in London.
+
+    The Company's Asian headquarters occupy approximately 82,000 square feet of
+leased office space in the ARK Mori Building in central Tokyo, Japan. The Tokyo
+lease expires at various dates from September 2001 through August 2002.
+
+    Facilities occupied by the Company and its subsidiaries are believed to be
+adequate for the purposes for which they are currently used and are well
+maintained.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+    The Company is involved in a number of judicial, regulatory and arbitration
+proceedings concerning matters arising in connection with the conduct of its
+business. Such proceedings include actions brought against the Company and
+others with respect to transactions in which the Company acted as an underwriter
+or financial advisor, actions arising out of the Company's activities as a
+broker or dealer in securities and commodities and actions brought on behalf of
+various classes of claimants against many securities and commodities firms,
+including the Company.
+
+    Although there can be no assurance as to the ultimate outcome, the Company
+has denied, or believes it has a meritorious defense and will deny, liability in
+all significant cases pending against it including the matters described below,
+and intends to defend vigorously each such case, and based on information
+currently available and established reserves, the Company believes that the
+eventual outcome of the actions against it, including the matters described
+below, will not, in the aggregate, have a material adverse effect on the
+consolidated financial position or results of operations of the Company.
+
+ACTIONS RELATING TO THE SALES AND MARKETING OF LIMITED PARTNERSHIPS
+
+    Under the terms of an agreement between American Express and Holdings,
+American Express has agreed to indemnify Holdings for liabilities which it may
+incur in connection with any action relating to any business conducted by The
+Balcor Company, a former Holdings subsidiary ("Balcor"), in which Holdings is
+named as a parent company or control person of Balcor. Holdings believes that
+the allegations in the action described below are covered by this indemnity.
+
+    BRUSS, ET AL. V. LEHMAN BROTHERS INC., ET AL.  On January 25, 1999, a
+purported class action complaint was filed in the Superior Court of New Jersey,
+Law Division: Essex County, on behalf of investors in certain specified limited
+partnerships sponsored by Balcor and sold by various entities, including, among
+others, retail branches formerly owned by LBI and certain of its affiliates.
+After dismissal of Plaintiffs' original complaint in September, 1999, Plaintiffs
+filed an amended complaint on November 30, 1999. That complaint names as
+defendants LBI, various affiliates of LBI, Smith Barney Holdings, Inc., Balcor,
+a number of Balcor-originated limited partnerships and an individual and
+entities affiliated with Balcor. The complaint alleges claims in connection with
+the marketing, sale and operation of the limited partnerships for common law
+fraud and deceit, equitable fraud, negligent misrepresentation, and violation of
+certain New Jersey statutes relating to the sale of securities. The complaint
+seeks compensatory damages for lost principal and interest, general damages and
+punitive damages, and costs and attorneys' fees. LBI has moved to dismiss the
+amended complaint.
+
+                                       9
+<PAGE>
+LEHMAN BROTHERS COMMERCIAL CORPORATION AND LEHMAN BROTHERS SPECIAL
+FINANCING INC. V. MINMETALS INTERNATIONAL NON-FERROUS METALS TRADING COMPANY
+
+    On November 15, 1994, two Lehman Brothers subsidiaries, Lehman Brothers
+Commercial Corporation ("LBCC") and Lehman Brothers Special Financing Inc.
+("LBSF"), commenced an action against Minmetals International Non-Ferrous Metals
+Trading Company ("Minmetals") and China National Metals and Minerals Import and
+Export Company ("CNM") in the United States District Court for the Southern
+District of New York alleging breach of contract against Minmetals and breach of
+guarantee against CNM. The litigation arose from the refusal by Minmetals and
+CNM to honor their obligations with respect to certain foreign exchange and swap
+transactions. LBCC and LBSF seek to recover approximately $52.5 million from
+Minmetals and/or CNM. Minmetals filed counterclaims against Lehman entities
+based on violations of federal securities and commodities laws and rules, and
+theories of fraud, breach of fiduciary duty and conversion. Discovery is
+complete; no trial date has been set.
+
+AIA HOLDING SA ET AL. V. LEHMAN BROTHERS INC. AND BEAR STEARNS & CO., INC.
+
+    On July 9, 1997, LBI was served with a complaint in the United States
+District Court for the Southern District of New York in which 277 named
+plaintiffs assert 24 causes of action against LBI and Bear Stearns & Co., Inc.
+The amount of damages claimed is unspecified. The claims arise from the
+activities of an individual named Ahmad Daouk, who was employed by an
+introducing broker which introduced accounts to LBI between 1988 and 1992. Daouk
+allegedly perpetrated a fraud upon the claimants, who are mostly investors of
+Middle Eastern origin, and the complaint alleges that LBI breached various
+contractual and common law duties owed to the investors. On March 27, 1998, the
+District Court dismissed without prejudice 18 of the 24 counts pleaded in the
+complaint. On July 3, 1998, the plaintiffs served their First Amended Complaint
+containing 18 causes of action against LBI and/or Bear Stearns. The Court has
+ordered the plaintiffs divided into 14 groups of 20 for trial purposes. No trial
+date has been set.
+
+MCNAMARA ET AL. V. BRE-X MINERALS LTD. ET AL.
+
+    On July 25, 1997, an Amended Class Action Complaint was filed in the United
+States District Court for the Eastern District of Texas against 16 defendants,
+including LBI, which seeks unspecified compensatory damages, interest, costs and
+attorneys' fees on behalf of purchasers of Bre-X common stock and/or Bresea
+common stock. The Complaint raises claims under the federal securities laws and
+the common law of fraud and negligent misrepresentation. The Complaint's stated
+basis for naming LBI is that one of its securities analysts published research
+on Bre-X. On January 6, 1999, the Court dismissed the claims of Canadian
+plaintiffs who bought their shares on Canadian exchanges. On July 13, 1999, the
+District Court dismissed the case against LBI and certain other defendants. The
+plaintiffs filed a Third Amended Complaint, and then a Fourth Amended Complaint,
+which was filed on June 14, 2000. A motion to dismiss that Complaint is pending.
+
+HAROLD GILLET, ET AL. V. GOLDMAN SACHS & CO., ET AL.; YAKOV PRAGER, ET AL. V.
+GOLDMAN, SACHS & CO., ET AL.; DAVID HOLZMAN, ET AL. V. GOLDMAN, SACHS & CO., ET
+AL.
+
+    Beginning in November 1998, three class actions were filed in the United
+States District Court for the Southern District of New York against in excess of
+25 underwriters of initial public offering ("IPO") securities, including LBI.
+Plaintiffs, alleged purchasers of securities issued in certain IPOs, seek
+compensatory and injunctive relief for alleged violations of the antitrust laws
+based on the theory that the defendants fixed and maintained fees for
+underwriting certain IPO securities at supra-competitive levels. On March 15,
+1999, plaintiffs filed a Consolidated Amended Complaint. On April 29, 1999, LBI
+and the other defendants moved to dismiss the Consolidated Amended Complaint. By
+order dated November 17, 1999, a fourth purported class action, also brought on
+behalf of purchasers, was consolidated with the existing actions.
+
+    By memorandum and order dated February 9, 2001 (the "Order"), the Court
+granted defendants' motion to dismiss the Consolidated Amended Complaint and
+denied plaintiffs' request for leave to file a
+
+                                       10
+<PAGE>
+Second Amended Complaint. In the Order, the Court concluded that the purchaser
+plaintiffs lacked standing under the antitrust laws to assert the claims. The
+Court indicated in the Order that its decision did not apply to any claims
+brought on behalf of issuers of IPO securities.
+
+    On October 13, 2000, a related case was filed in the United States District
+Court for the Southern District of New York by a bankrupt issuer of IPO
+securities. That case, WEINMAN V. SALOMON SMITH BARNEY, ET AL., does not name
+LBI as a defendant. However, another related case, entitled CHS ELECTRONICS,
+INC. V. CREDIT SUISSE FIRST BOSTON CORP., ET AL., was transferred to the
+Southern District of New York from the United States District Court for the
+Southern District of Florida by order dated December 20, 2000. The CHS
+ELECTRONICS case (discussed below) is brought by a bankrupt issuer of securities
+and names LBI, among others, as a defendant. The Order did not dispose of the
+CHS ELECTRONICS or WEINMAN cases, which are still pending.
+
+CHS ELECTRONICS, INC. V. CREDIT SUISSE FIRST BOSTON CORP., ET AL.
+
+    On August 3, 2000, a class action was filed in the United States District
+Court for the Southern District of Florida against 18 underwriters of IPO
+securities, including LBI. Plaintiff, a bankrupt issuer of IPO securities, seeks
+the same relief, based on the same theories, as in the GILLET case above. With
+consent of the parties, the case was transferred, by order dated January 4,
+2001, to the United States District Court for the Southern District of New York.
+By order dated January 12, 2001, the case was consolidated with the GILLET case.
+
+MEXPO, S.A. V. LEHMAN BROTHERS INC., ET AL.
+
+    In August 1999, Mexpo, S.A. filed an arbitration claim with the National
+Association of Securities Dealers, naming as respondents LBI, Lehman Brothers
+International (Europe), Lehman Brothers Securities, Holdings, and Lehman
+Brothers Global Finance Limited. Mexpo alleges that respondents engaged in
+unauthorized transactions, made unsuitable recommendations, failed to follow
+client instructions and engaged in deceptive conduct in connection with Mexpo's
+trading in emerging markets bonds, structured notes and other securities. The
+legal claims asserted by Mexpo include various common law contractual and tort
+claims as well as alleged violations of federal securities and commodities laws.
+Mexpo seeks $28 million in compensatory damages, plus punitive damages,
+interest, attorneys' fees and costs. A hearing is scheduled to start in
+May 2001.
+
+ISLAND VENTURE CORPORATION, ET AL. V. LEHMAN BROTHERS INC. AND LEHMAN BROTHERS
+  SECURITIES ASIA, LTD.
+
+    On February 9, 2001, Island Venture Corporation, Continental Resources
+Corporation, Recola Investment Corporation, Grand Concord Corporation and
+Goodwell Industrial Corporation filed a First Amended Complaint in the United
+States District Court for the District of New Jersey against LBI and Lehman
+Brothers Securities Asia, Ltd. The complaint arises in connection with the
+plaintiffs' purchase of various promissory notes issued by Indonesian companies
+in 1997 and upon which the issuers have defaulted. It also asserts claims
+relating to an alleged unauthorized liquidation for $8.5 million of a
+$10 million Asia Investment Grade Default Note ("Basket Note") issued by Lehman
+Brothers Holdings PLC. The complaint seeks rescission and damages under various
+common law theories of mutual mistake, breach of contract, breach of fiduciary
+duty, negligence, negligent misrepresentation and constructive fraud, as well as
+asserting claims under Section 10(b) of the Securities Exchange Act of 1934. The
+plaintiffs seek to recover damages of approximately $60 million on all the notes
+they purchased and the difference between the liquidation price and the face
+value of the Basket Note plus lost coupon payments. The plaintiffs served the
+complaint on LBI on February 22, 2001, but have not yet served Lehman Brothers
+Securities Asia, Ltd.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+    None.
+
+                                       11
+<PAGE>
+                                    PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+    The approximate number of holders of record of the Registrant's Common Stock
+was 22,580 at February 12, 2001. Information concerning the market for the
+Registrant's common equity and related stockholder matters is set forth on page
+96 of the 2000 Annual Report and is incorporated herein by reference.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+    Selected financial data contained on page 88 of the 2000 Annual Report is
+deemed a part of this Annual Report on Form 10-K and is incorporated herein by
+reference.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+    Management's Discussion and Analysis of Financial Condition and Results of
+Operations is set forth under the same caption on pages 37 - 52 of the 2000
+Annual Report. Such information is incorporated herein by reference and should
+be read in conjunction with the Consolidated Financial Statements and the Notes
+thereto contained on pages 54 - 87 of the 2000 Annual Report.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+    The information under the caption "Management's Discussion and Analysis of
+Financial Condition and Results of Operations--Risk Management" on pages 49 - 51
+of the 2000 Annual Report is incorporated herein by reference.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+    The Consolidated Financial Statements of the Registrant and its Subsidiaries
+together with the Notes thereto and the Report of Independent Auditors thereon
+required by this Item are contained in the 2000 Annual Report on pages 53 - 87
+and are incorporated herein by reference.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+    None.
+
+                                       12
+<PAGE>
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+    Information relating to Directors of the Registrant is set forth under the
+captions "Nominees for Election as Class II Directors to Serve until the 2004
+Annual Meeting of Stockholders", "Class I Directors Whose Terms Continue until
+the 2002 Annual Meeting of Stockholders" and "Class III Directors Whose Terms
+Continue until the 2003 Annual Meeting of Stockholders" on pages 4-6 of the
+Proxy Statement and information relating to Executive Officers of the Registrant
+is set forth under the caption "Executive Officers of the Company" on pages 9
+and 10 of the Proxy Statement and is hereby incorporated by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+    Information relating to executive compensation is set forth under the
+captions "Compensation of Directors", "Compensation and Benefits Committee
+Interlocks and Insider Participation", "Compensation of Executive Officers",
+"Pension Benefits" and "Employment Contracts, Termination of Employment and
+Change of Control Arrangements" on pages 8, 13 and 14-18 of the Proxy Statement
+and is hereby incorporated by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+    Information relating to security ownership of certain beneficial owners and
+management is set forth under the caption "Security Ownership of Principal
+Stockholders" on page 3 of the Proxy Statement and the caption "Security
+Ownership of Directors and Executive Officers" on page 11 of the Proxy Statement
+and is hereby incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+    Information relating to certain relationships and related transactions is
+set forth under the captions "Certain Transactions and Agreements with Directors
+and Executive Officers", "Certain Transactions and Agreements with American
+Express and Subsidiaries" and "Certain Transactions with Other Institutional
+Investors and Their Subsidiaries" on pages 19-21 of the Proxy Statement and is
+hereby incorporated herein by reference.
+
+                                       13
+<PAGE>
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+    (a) 1. Financial Statements:
+
+    The Financial Statements and the Notes thereto and the Report of Independent
+Auditors thereon and filed as a part hereof are listed on page F-1 hereof by
+reference to the corresponding page number in the Annual Report.
+
+        2.  Financial Statement Schedules:
+
+    The financial statement schedule and the notes thereto filed as a part
+hereof are listed on page F-1 hereof.
+
+        3.  Exhibits:
+
+<TABLE>
+<CAPTION>
+        EXHIBIT
+          NO.
+-----------------------
+<C>                       <S>
+          3.1             Restated Certificate of Incorporation of the Registrant
+                          dated May 27, 1994 (incorporated by reference to Exhibit 3.1
+                          to the Registrant's Transition Report on Form 10-K for the
+                          eleven months ended November 30, 1994)
+
+          3.2             Certificate of Designations with respect to the Registrant's
+                          5.94% Cumulative Preferred Stock, Series C (incorporated by
+                          reference to Exhibit 4.1 to the Registrant's Current Report
+                          on Form 8-K filed with the Commission on May 13, 1998)
+
+          3.3             Certificate of Designations with respect to the Registrant's
+                          5.67% Cumulative Preferred Stock, Series D (incorporated by
+                          reference to Exhibit 4.2 to the Registrant's Current Report
+                          on Form 8-K filed with the Commission on July 23, 1998)
+
+          3.4             Certificate of Designations with respect to the Registrant's
+                          Fixed/Adjustable Rate Cumulative Preferred Stock, Series E
+                          (incorporated by reference to Exhibit 4.2 to the
+                          Registrant's Current Report on Form 8-K filed with the
+                          Commission on March 30, 2000)
+
+          3.5             By-Laws of the Registrant, amended as of March 26, 1997
+                          (incorporated by reference to Exhibit 3 to the Registrant's
+                          Quarterly Report on Form 10-Q for the quarter ended
+                          February 28, 1997)
+
+          4.1             Standard multiple series indenture provisions with respect
+                          to the senior and subordinated debt securities (incorporated
+                          by reference to Exhibit 4(a) to Post-Effective Amendment
+                          No. 1 to the Registrant's Registration Statement on Form S-3
+                          (Reg. No. 33-16141))
+
+          4.2             Indenture with respect to the senior debt securities
+                          (incorporated by reference to Exhibit 4(b) to Post-Effective
+                          Amendment No. 1 to the Registrant's Registration Statement
+                          on Form S-3 (Reg. No. 33-16141))
+
+          4.3             First Supplemental Indenture with respect to the senior debt
+                          securities (incorporated by reference to Exhibit 4(m) to the
+                          Registrant's Registration Statement on Form S-3 (Reg.
+                          No. 33-25797))
+
+          4.4             Second Supplemental Indenture with respect to the senior
+                          debt securities (incorporated by reference to Exhibit 4(e)
+                          to the Registrant's Registration Statement on Form S-3 (Reg.
+                          No. 33-49062))
+
+          4.5             Third Supplemental Indenture with respect to the senior debt
+                          securities (incorporated by reference to Exhibit 4(f) to the
+                          Registrant's Registration Statement on Form S-3 (Reg.
+                          No. 33-46146))
+
+          4.6             Fourth Supplemental Indenture with respect to the senior
+                          debt securities (incorporated by reference to Exhibit 4(f)
+                          to Registrant's Registration Statement on Form 8-A filed
+                          with the SEC on October 7, 1993)
+</TABLE>
+
+                                       14
+<PAGE>
+
+<TABLE>
+<CAPTION>
+        EXHIBIT
+          NO.
+-----------------------
+<C>                       <S>
+          4.7             Fifth Supplemental Indenture with respect to the senior debt
+                          securities (incorporated by reference to Exhibit 4(h) to
+                          Post-Effective Amendment No. 1 to the Registrant's
+                          Registration Statement on Form S-3 (Reg. No. 33-56615))
+
+          4.8             Sixth Supplemental Indenture with respect to the senior debt
+                          securities (incorporated by reference to Exhibit 4(h) to the
+                          Registrant's Registration Statement on Form S-3
+                          (No. 333-38227))
+
+          4.9             The other instruments defining the rights of holders of the
+                          long-term debt securities of the Registrant and its
+                          subsidiaries are omitted pursuant to section (b)(4)(iii)(A)
+                          of Item 601 of Regulation S-K. The Registrant hereby agrees
+                          to furnish copies of these instruments to the Securities and
+                          Exchange Commission upon request.
+
+         10.1             Agreement of Tenants-In-Common by and among American Express
+                          Company, American Express Bank Ltd., American Express Travel
+                          Related Services Company, Inc., Shearson Lehman
+                          Brothers Inc., Shearson Lehman Government Securities, Inc.
+                          and Shearson Lehman Commercial Paper Incorporated
+                          (incorporated by reference to Exhibit 10.1 to the
+                          Registrant's Transition Report on Form 10-K for the eleven
+                          months ended November 30, 1994)
+
+         10.2             Tax Allocation Agreement between Shearson Lehman Brothers
+                          Holdings Inc. and American Express Company (incorporated by
+                          reference to Exhibit 10.2 to the Registrant's Transition
+                          Report on Form 10-K for the eleven months ended
+                          November 30, 1994)
+
+         10.3+            Lehman Brothers Inc. Executive and Select Employees Plan
+                          (incorporated by reference to Exhibit 10.4 to the
+                          Registrant's Registration Statement on Form S-1 (Reg.
+                          No. 33-12976))
+
+         10.4+            Lehman Brothers Holdings Inc. Deferred Compensation Plan for
+                          Non-Employee Directors (incorporated by reference to
+                          Exhibit 10.11 to the Registrant's Registration Statement on
+                          Form S-1 (Reg. No. 33-12976))
+
+         10.5             Amended and Restated Agreements of Limited Partnership of
+                          Shearson Lehman Hutton Capital Partners II (incorporated by
+                          reference to Exhibit 10.48 to the Registrant's Annual Report
+                          on Form 10-K for the year ended December 31, 1988)
+
+         10.6+            Lehman Brothers Holdings Inc. 1994 Management Ownership Plan
+                          (incorporated by reference to Exhibit 10.25 to the
+                          Registrant's Registration Statement on Form S-1 (Reg.
+                          No. 33-52977))
+
+         10.7+            Lehman Brothers Holdings Inc. 1996 Management Ownership Plan
+                          (incorporated by reference to Exhibit 10.1 to the
+                          Registrant's Quarterly Report on Form 10-Q for the quarter
+                          ended August 31, 1996)
+
+         10.8+            Lehman Brothers Holdings Inc. Short-Term Executive
+                          Compensation Plan (incorporated by reference to
+                          Exhibit 10.2 to the Registrant's Quarterly Report on
+                          Form 10-Q for the quarter ended August 31, 1996)
+
+         10.9+            Lehman Brothers Holdings Inc. 1996 Short-Term Executive
+                          Compensation Plan (incorporated by reference to
+                          Exhibit 10.26 to the Registrant's Registration Statement on
+                          Form S-1 (Reg. No. 33-52977))
+
+         10.10            Option Agreement, dated May 27, 1994, by and among American
+                          Express Company, American Express Bank Ltd., American
+                          Express Travel Related Services Company, Inc., Lehman
+                          Brothers Inc., Lehman Government Securities, Inc. and Lehman
+                          Commercial Paper Incorporated (incorporated by reference to
+                          Exhibit 10.31 to the Registrant's Transition Report
+                          Form 10-K for the Eleven Months ended November 30, 1994)
+
+         10.11+           Lehman Brothers Holdings Inc. Cash Award Plan. (incorporated
+                          by reference to Exhibit 10.36 to the Registrant's Transition
+                          Report on Form 10-K for the Eleven Months ended
+                          November 30, 1994)
+</TABLE>
+
+                                       15
+<PAGE>
+
+<TABLE>
+<CAPTION>
+        EXHIBIT
+          NO.
+-----------------------
+<C>                       <S>
+         10.12            Amended and Restated Agreement of Limited Partnership of
+                          Lehman Brothers Capital Partners III, L.P. (incorporated by
+                          reference to Exhibit 10.27 to the Registrant's Annual Report
+                          on Form 10-K for the fiscal year ended November 30, 1995)
+
+         10.13            Agreement of Limited Partnership of Lehman Brothers Capital
+                          Partners IV, L.P. (incorporated by reference to
+                          Exhibit 10.30 to the Registrant's Annual Report on
+                          Form 10-K for the fiscal year ended November 30, 1997)
+
+         10.14            A description of the Lehman Brothers Supplemental Executive
+                          Retirement Plan is contained under the caption "Pension
+                          Benefits" on page 17 of the Proxy Statement and is
+                          incorporated herein by reference.
+
+         12               Computation in support of ratio of earnings to fixed
+                          charges, combined fixed charges and preferred dividends*
+
+         13               The following portions of the Company's 2000 Annual Report
+                          to Stockholders, which are incorporated by reference herein:
+                          "Management's Discussion and Analysis of Financial Condition
+                          and Results of Operations", pages 37 - 52;* "Consolidated
+                          Financial Statements", pages 53 - 87;* "Selected Financial
+                          Data", page 88;* and "Other Stockholder Information",
+                          page 96.*
+
+         21               List of the Registrant's Subsidiaries*
+
+         23               Consent of Ernst & Young LLP*
+
+         24               Powers of Attorney*
+</TABLE>
+
+------------------------
+
+*   Filed herewith
+
++   Management contract or compensatory plan or arrangement required to be filed
+    as an exhibit to this Form 10-K pursuant to Item 14(c)
+
+    (b) Reports on Form 8-K
+
+        1.  Form 8-K dated September 20, 2000, Item 7
+
+        2.  Form 8-K dated September 20, 2000, Items 5 and 7
+
+           Financial Statements:
+
+            Exhibit 99.2  Consolidated Statement of Income (Three Months Ended
+                          August 31, 2000) (Preliminary and Unaudited)
+
+            Exhibit 99.3  Consolidated Statement of Income (Nine Months Ended
+                          August 31, 2000) (Preliminary and Unaudited)
+
+            Exhibit 99.4  Segment Net Revenue Information (Three and Nine Months
+                          Ended August 31, 2000) (Preliminary and Unaudited)
+
+            Exhibit 99.5  Selected Statistical Information (Preliminary and
+                          Unaudited)
+
+        3.  Form 8-K dated November 14, 2000, Item 7
+
+                                       16
+<PAGE>
+                                   SIGNATURES
+
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Annual Report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+<TABLE>
+<S>                                                    <C>  <C>
+                                                       LEHMAN BROTHERS HOLDINGS INC.
+                                                       (Registrant)
+February 28, 2001
+
+                                                       By:           /s/ JEFFREY A. WELIKSON
+                                                            -----------------------------------------
+                                                                       Jeffrey A. Welikson
+                                                                          VICE PRESIDENT
+</TABLE>
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+              SIGNATURES                                  TITLE                          DATE
+              ----------                                  -----                          ----
+<C>                                      <S>                                       <C>
+       /s/ RICHARD S. FULD, JR.          Chief Executive Officer and Chairman of
+    -------------------------------        the Board of Directors                  February 28, 2001
+         Richard S. Fuld, Jr.              (principal executive officer)
+
+                                         Chief Financial Officer and Senior
+          /s/ DAVID GOLDFARB               Vice President
+    -------------------------------        (principal financial and accounting     February 28, 2001
+            David Goldfarb                 officer)
+
+        /s/ MICHAEL L. AINSLIE
+    -------------------------------      Director                                  February 28, 2001
+          Michael L. Ainslie
+
+           /s/ JOHN F. AKERS
+    -------------------------------      Director                                  February 28, 2001
+             John F. Akers
+
+         /s/ ROGER S. BERLIND
+    -------------------------------      Director                                  February 28, 2001
+           Roger S. Berlind
+
+       /s/ THOMAS H. CRUIKSHANK
+    -------------------------------      Director                                  February 28, 2001
+         Thomas H. Cruikshank
+
+           /s/ HENRY KAUFMAN
+    -------------------------------      Director                                  February 28, 2001
+             Henry Kaufman
+
+         /s/ JOHN D. MACOMBER
+    -------------------------------      Director                                  February 28, 2001
+           John D. Macomber
+
+           /s/ DINA MERRILL
+    -------------------------------      Director                                  February 28, 2001
+             Dina Merrill
+</TABLE>
+
+<TABLE>
+<S>   <C>                                      <C>                                       <C>
+*By:        --------------------------
+                Jeffrey A. Welikson                                                      FEBRUARY 28, 2001
+                (ATTORNEY-IN-FACT)
+</TABLE>
+
+                                       17
+<PAGE>
+                 LEHMAN BROTHERS HOLDINGS INC. AND SUBSIDIARIES
+            INDEX TO CONSOLIDATED FINANCIAL STATEMENTS AND SCHEDULE
+
+<TABLE>
+<CAPTION>
+                                                                        PAGE
+                                                              -------------------------
+                                                              FORM 10-K   ANNUAL REPORT
+                                                              ---------   -------------
+<S>                                                           <C>         <C>
+FINANCIAL STATEMENTS
+Report of Independent Auditors..............................                   53
+Consolidated Statement of Income for the Twelve Months Ended                   54
+  November 30, 2000, 1999, and 1998.........................
+Consolidated Statement of Financial Condition at November                   55 - 56
+  30, 2000
+  and 1999..................................................
+Consolidated Statement of Changes in Stockholders' Equity                   57 - 58
+  for the
+  Twelve Months Ended November 30, 2000, 1999, and 1998.....
+Consolidated Statement of Cash Flows for the Twelve Months                     59
+  Ended November 30, 2000, 1999, and 1998...................
+Notes to Consolidated Financial Statements..................                61 - 87
+
+FINANCIAL STATEMENT SCHEDULE
+Schedule I--Condensed Financial Information of Registrant...     F-2
+</TABLE>
+
+                                      F-1
+<PAGE>
+                                                                      SCHEDULE I
+
+                         LEHMAN BROTHERS HOLDINGS INC.
+                 CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+                            STATEMENT OF OPERATIONS
+                             (PARENT COMPANY ONLY)
+                                 (IN MILLIONS)
+
+<TABLE>
+<CAPTION>
+                                                                   TWELVE MONTHS ENDED
+                                                                       NOVEMBER 30
+                                                              ------------------------------
+                                                                2000       1999       1998
+                                                              --------   --------   --------
+<S>                                                           <C>        <C>        <C>
+Revenues
+  Interest and dividends....................................   $2,667     $2,218     $2,254
+  Principal transactions and other..........................      247       (128)      (114)
+                                                               ------     ------     ------
+    Total revenues..........................................    2,914      2,090      2,140
+  Interest expense..........................................    2,813      2,200      2,252
+                                                               ------     ------     ------
+    Net revenues............................................      101       (110)      (112)
+Equity in net income of subsidiaries........................    1,894      1,418        942
+Non-interest expenses.......................................      455        350        270
+                                                               ------     ------     ------
+Income before taxes.........................................    1,540        958        560
+  Benefit for income taxes..................................      235        174        176
+                                                               ------     ------     ------
+Net income..................................................   $1,775     $1,132     $  736
+                                                               ======     ======     ======
+Net income applicable to common stock.......................   $1,679     $1,037     $  649
+                                                               ======     ======     ======
+</TABLE>
+
+          See notes to condensed financial information of Registrant.
+
+                                      F-2
+<PAGE>
+                                                                      SCHEDULE I
+
+                         LEHMAN BROTHERS HOLDINGS INC.
+                 CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+                            CONDENSED BALANCE SHEET
+                             (PARENT COMPANY ONLY)
+                    (IN MILLIONS, EXCEPT FOR PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+                                                                  NOVEMBER 30
+                                                              -------------------
+                                                                2000       1999
+                                                              --------   --------
+<S>                                                           <C>        <C>
+ASSETS
+Cash and cash equivalents...................................  $   450    $ 1,481
+Securities and other financial instruments owned............    7,512      8,569
+Securities purchased under agreements to resell.............   16,113      8,434
+Equity in net assets of subsidiaries........................    7,577      6,417
+Accounts receivable and accrued interest....................      828        599
+Due from subsidiaries.......................................   23,708     17,978
+Other assets................................................    1,796      1,612
+                                                              -------    -------
+    Total assets............................................  $57,984    $45,090
+                                                              =======    =======
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Commercial paper and short-term debt........................  $ 4,168    $ 2,580
+Securities and other financial instruments sold but not yet
+  purchased.................................................      244        220
+Securities sold under agreements to repurchase..............    7,316      8,093
+Accrued liabilities, due to subsidiaries and other
+  payables..................................................    9,882      9,042
+Senior notes................................................   27,511     17,940
+Subordinated indebtedness...................................      932        932
+                                                              -------    -------
+    Total liabilities.......................................   50,053     38,807
+                                                              -------    -------
+Commitments and Contingencies
+Preferred securities subject to mandatory redemption........      150
+Stockholders' equity:
+  Preferred stock...........................................      700        688
+  Common stock, $0.10 par value; 300,000,000 shares
+    authorized; Shares issued: 251,629,126 in 2000 and
+    245,238,920 in 1999; Shares outstanding: 236,395,332 in
+    2000 and 239,825,620 in 1999............................       25         25
+  Additional paid-in capital................................    3,589      3,374
+  Accumulated other comprehensive income (net of tax).......       (8)        (2)
+  Retained earnings.........................................    3,713      2,094
+  Other stockholders' equity, net...........................      597        254
+  Common stock in treasury, at cost: 15,233,794 shares in
+    2000 and 5,413,300 shares in 1999.......................     (835)      (150)
+                                                              -------    -------
+    Total stockholders' equity..............................    7,781      6,283
+                                                              -------    -------
+    Total liabilities and stockholders' equity..............  $57,984    $45,090
+                                                              =======    =======
+</TABLE>
+
+          See notes to condensed financial information of Registrant.
+
+                                      F-3
+<PAGE>
+                                                                      SCHEDULE I
+
+                         LEHMAN BROTHERS HOLDINGS INC.
+                 CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+                            STATEMENT OF CASH FLOWS
+                             (PARENT COMPANY ONLY)
+                                 (IN MILLIONS)
+
+<TABLE>
+<CAPTION>
+                                                               TWELVE MONTHS ENDED NOVEMBER 30
+                                                              ---------------------------------
+                                                                2000        1999        1998
+                                                              ---------   ---------   ---------
+<S>                                                           <C>         <C>         <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income..................................................   $ 1,775    $  1,132     $   736
+Adjustments to reconcile net income to net cash provided by
+  (used in) operating activities:
+  Equity in net income of subsidiaries......................    (2,031)     (1,203)       (942)
+  Dividends received........................................       634         145         118
+  Compensation payable in common stock......................       520         363         221
+  Other adjustments.........................................      (746)         29         178
+Net change in:
+  Securities and other financial instruments owned..........     1,057       1,992      (1,810)
+  Accounts receivable and accrued interest, due from
+    subsidiaries and other assets...........................     2,734       4,580      (6,261)
+  Securities and other financial instruments sold but not
+    yet purchased...........................................        24         139         (41)
+  Accrued liabilities, due to subsidiaries and other
+    payables................................................       840       4,324       2,978
+                                                               -------    --------     -------
+    Net cash provided by (used in) operating activities.....     4,807      11,501      (4,823)
+                                                               -------    --------     -------
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from issuance of senior notes......................    10,020       5,843       8,298
+Principal payments of senior notes..........................    (6,629)     (4,680)     (3,101)
+Proceeds from issuance of subordinated indebtedness.........                   732
+Payments for commercial paper and short-term debt, net......        81      (1,016)       (876)
+Resale agreements net of repurchase agreements..............    (8,456)    (11,259)      2,160
+Payments for repurchase of preferred stock..................       (88)       (220)        (50)
+Payments for treasury stock purchases.......................    (1,203)       (256)       (411)
+Dividends paid..............................................      (149)       (139)       (122)
+Issuances of common stock...................................        99           8          61
+Issuances of preferred stock................................       250                     444
+                                                               -------    --------     -------
+    Net cash provided by (used in) financing activities.....    (6,075)    (10,987)      6,403
+                                                               -------    --------     -------
+CASH FLOWS FROM INVESTING ACTIVITIES
+Equity in net assets of subsidiaries........................        (7)       (280)       (451)
+Capital distributions received..............................       244          95          23
+                                                               -------    --------     -------
+    Net cash provided by (used in) investing activities.....       237        (185)       (428)
+                                                               -------    --------     -------
+    Net change in cash and cash equivalents.................    (1,031)        329       1,152
+Cash and cash equivalents, beginning of period..............     1,481       1,152
+                                                               -------    --------     -------
+    Cash and cash equivalents, end of period................   $   450    $  1,481     $ 1,152
+                                                               =======    ========     =======
+</TABLE>
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION (IN MILLIONS)
+
+Interest paid totaled $2,151 in 2000, $2,177 in 1999 and $2,121 in 1998. Income
+taxes received totaled $418 in 2000, $332 in 1999 and $91 in 1998.
+
+NON-CASH INVESTING AND FINANCING ACTIVITIES (IN MILLIONS)
+
+<TABLE>
+<S>                                                           <C>
+Assets assumed from affiliate...............................  $8,185
+Liabilities assumed from affiliate..........................   8,836
+</TABLE>
+
+          See notes to condensed financial information of Registrant.
+
+                                      F-4
+<PAGE>
+                                                                      SCHEDULE I
+
+NOTE 1. BASIS OF PRESENTATION
+
+    The condensed financial statements of Lehman Brothers Holdings Inc.
+("Holdings") should be read in conjunction with the consolidated financial
+statements of Lehman Brothers Holdings Inc. and subsidiaries and the notes
+thereto.
+
+    Certain amounts reflect reclassifications to conform to the current period's
+presentation.
+
+NOTE 2. LONG-TERM DEBT
+
+<TABLE>
+<CAPTION>
+                                                      U.S. DOLLAR         NON-U.S. DOLLAR         NOVEMBER 30
+                                                  -------------------   -------------------   -------------------
+                                                   FIXED     FLOATING    FIXED     FLOATING
+(IN MILLIONS)                                       RATE       RATE       RATE       RATE       2000       1999
+-------------                                     --------   --------   --------   --------   --------   --------
+<S>                                               <C>        <C>        <C>        <C>        <C>        <C>
+SENIOR NOTES
+Maturing in Fiscal 2000.........................                                                         $ 4,929
+Maturing in Fiscal 2001.........................  $ 1,336     $2,469     $  304     $  285    $ 4,394      2,201
+Maturing in Fiscal 2002.........................    1,665      2,483        392        647      5,186      2,560
+Maturing in Fiscal 2003.........................    2,265      1,501        626        418      4,810      2,709
+Maturing in Fiscal 2004.........................    1,670        388        773        515      3,346      1,899
+Maturing in Fiscal 2005.........................    2,217        515        120        669      3,521        227
+December 1, 2005 and thereafter.................    5,519         46        558        131      6,254      3,415
+                                                  -------     ------     ------     ------    -------    -------
+  Senior Notes..................................   14,672      7,402      2,773      2,665     27,511     17,940
+                                                  -------     ------     ------     ------    -------    -------
+Subordinated Indebtedness
+December 1, 2005 and thereafter.................      932                                         932        932
+                                                  -------     ------     ------     ------    -------    -------
+LONG-TERM DEBT..................................  $15,604     $7,402     $2,773     $2,665    $28,443    $18,872
+                                                  =======     ======     ======     ======    =======    =======
+</TABLE>
+
+    Of the Company's long-term debt outstanding as of November 30, 2000,
+$454 million is repayable prior to maturity at the option of the holder, at par
+value. These obligations are reflected in the above table at their put dates,
+which range from fiscal 2001 to fiscal 2002, rather than at their contractual
+maturities, which range from fiscal 2004 to fiscal 2015. In addition,
+$2,292 million of the Company's long-term debt is redeemable prior to maturity
+at the option of the Company under various terms and conditions. These
+obligations are reflected in the above table at their contractual maturity
+dates.
+
+    As of November 30, 2000, the Company's U.S. dollar debt portfolio included
+approximately $677 million of debt for which the interest rates and/or
+redemption values have been linked to various indices including industry baskets
+of stocks or commodities. Generally, such rates are issued as floating rate
+notes or the interest rates on such index notes are effectively converted to
+floating rates based primarily on LIBOR through the use of interest rate and
+currency swaps.
+
+    At November 30, 2000, Subordinated Indebtedness includes $710 million, which
+has been classified as "Preferred Securities subject to Mandatory Redemption" on
+the Company's Consolidated Statement of Financial Condition.
+
+END USER DERIVATIVE ACTIVITIES
+
+    The Company utilizes a variety of derivative products including interest
+rate and currency swaps, and swaptions as an end user to modify the interest
+rate characteristics of its long-term debt portfolio. The Company actively
+manages the interest rate exposure on its long-term debt portfolio to more
+closely match the terms of its debt portfolio to the assets being funded and to
+minimize interest rate risk. In addition, the Company utilizes cross-currency
+swaps to hedge its exposure to foreign currency risk as a result of its non-U.S.
+dollar debt obligations, after consideration of non-U.S. dollar assets which are
+funded with long-term debt obligations in the same currency. In certain
+instances, two or more derivative contracts may
+
+                                      F-5
+<PAGE>
+be utilized by the Company to manage the interest rate nature and/or currency
+exposure of an individual long-term debt issuance. In these cases, the notional
+value of the derivative contracts may exceed the carrying value of the related
+long-term debt issuance.
+
+    At November 30, 2000 and November 30, 1999, the notional values of the
+Company's interest rate and currency swaps related to its long-term debt
+obligations were approximately $21.2 billion and $16.4 billion, respectively. In
+terms of notional amounts outstanding, these derivative products mature as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                                                       NOVEMBER 30
+                                                    U.S.     NON-U.S.    CROSS     -------------------
+(IN MILLIONS)                                      DOLLAR     DOLLAR    CURRENCY     2000       1999
+-------------                                     --------   --------   --------   --------   --------
+<S>                                               <C>        <C>        <C>        <C>        <C>
+Maturing in Fiscal 2000.........................                                              $ 4,616
+Maturing in Fiscal 2001.........................  $ 1,958     $   61     $  500    $ 2,519      1,779
+Maturing in Fiscal 2002.........................    2,621        404        422      3,447      1,934
+Maturing in Fiscal 2003.........................    2,773        692         54      3,519      2,634
+Maturing in Fiscal 2004.........................    1,741         62        765      2,568      1,947
+Maturing in Fiscal 2005.........................    2,222         90        698      3,010        217
+December 1, 2005 and thereafter.................    5,440        192        552      6,184      3,268
+                                                  -------     ------     ------    -------    -------
+Total...........................................  $16,755     $1,501     $2,991    $21,247    $16,395
+                                                  =======     ======     ======    =======    =======
+Weighted-average rate(1)
+Receive rate....................................     7.27%      3.34%      5.20%      6.72%      6.71%
+Pay rate........................................     7.48%      4.03%      7.48%      7.26%      6.36%
+</TABLE>
+
+------------------------
+
+(1) Weighted-average interest rates were calculated utilizing non-U.S. dollar
+    interest rates, where applicable.
+
+                                      F-6
+<PAGE>
+    The Company's end user derivative activities resulted in the following
+changes to the Company's mix of fixed and floating rate debt and effective
+weighted-average rates of interest:
+
+<TABLE>
+<CAPTION>
+                                                       NOVEMBER 30, 2000
+                                     ------------------------------------------------------
+                                         LONG-TERM DEBT            WEIGHTED-AVERAGE(1)
+                                     -----------------------   ----------------------------
+                                       BEFORE       AFTER                    EFFECTIVE RATE
+                                        END          END       CONTRACTUAL     AFTER END
+                                        USER         USER       INTEREST          USER
+                                     ACTIVITIES   ACTIVITIES      RATE         ACTIVITIES
+                                     ----------   ----------   -----------   --------------
+<S>                                  <C>          <C>          <C>           <C>
+USD Obligations
+Fixed Rate.........................    $15,604      $ 1,104
+Floating Rate......................      7,402       24,964
+                                       -------      -------
+                                        23,066       26,068
+Non-USD Obligations................      5,437        2,375
+                                       -------      -------        ----           ----
+Total..............................    $28,443      $28,443        6.83%          7.23%
+                                       =======      =======        ====           ====
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                       NOVEMBER 30, 1999
+                                     ------------------------------------------------------
+                                         LONG-TERM DEBT            WEIGHTED-AVERAGE(1)
+                                     -----------------------   ----------------------------
+                                       BEFORE       AFTER                    EFFECTIVE RATE
+                                        END          END       CONTRACTUAL     AFTER END
+                                        USER         USER       INTEREST          USER
+                                     ACTIVITIES   ACTIVITIES      RATE         ACTIVITIES
+                                     ----------   ----------   -----------   --------------
+<S>                                  <C>          <C>          <C>           <C>
+USD Obligations
+Fixed Rate.........................    $14,341      $ 1,102
+Floating Rate......................      4,107       17,765
+                                       -------      -------
+                                        18,448       18,867
+Non-USD Obligations................        424            5
+                                       -------      -------        ----           ----
+Total..............................    $18,872      $18,872        6.85%          6.52%
+                                       =======      =======        ====           ====
+</TABLE>
+
+------------------------
+
+(1) Weighted-average interest rates were calculated utilizing non-US dollar
+    interest rates, where applicable.
+
+NOTE 3. DIVIDENDS
+
+    Dividends and capital distributions declared to Holdings by its subsidiaries
+and affiliates were $878 million in 2000, $240 million in 1999 and $141 million
+in 1998.
+
+NOTE 4. COMMITMENTS AND CONTINGENCIES
+
+    The Company has guaranteed certain of its subsidiaries' unsecured lines of
+credit and other contractual obligations.
+
+                                      F-7
+</TEXT>
+</DOCUMENT>

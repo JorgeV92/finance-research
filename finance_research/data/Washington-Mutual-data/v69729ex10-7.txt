@@ -1,0 +1,807 @@
+<DOCUMENT>
+<TYPE>EX-10.7
+<SEQUENCE>6
+<FILENAME>v69729ex10-7.txt
+<DESCRIPTION>EXHIBIT 10.7
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 10.7
+
+                                WASHINGTON MUTUAL
+
+                              RESTRICTED STOCK PLAN
+
+                 AS AMENDED AND RESTATED AS OF JANUARY 18, 2000
+
+
+<PAGE>   2
+                     WASHINGTON MUTUAL RESTRICTED STOCK PLAN
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                            Page
+                                                                            ----
+<S>       <C>                                                               <C>
+                         ARTICLE 1. PURPOSE OF THE PLAN
+
+                             ARTICLE 2. DEFINITIONS
+
+   2.1    Affiliate.........................................................   1
+   2.2    Agreement.........................................................   1
+   2.3    Award.............................................................   1
+   2.4    Board.............................................................   1
+   2.5    Code..............................................................   2
+   2.6    Committee.........................................................   2
+   2.7    Company...........................................................   2
+   2.8    Exchange Act......................................................   2
+   2.9    Grant Date........................................................   2
+   2.10   Participant.......................................................   2
+   2.11   Plan..............................................................   2
+   2.12   Restricted Stock..................................................   2
+   2.13   Stock.............................................................   2
+   2.14   Unrestricted Stock................................................   2
+
+                            ARTICLE 3. ADMINISTRATION
+
+   3.1    Administration of Plan............................................   2
+   3.2    Authority to Grant Awards.........................................   2
+   3.3    Participants' Accounts............................................   3
+   3.4    Transfer of Unrestricted Stock....................................   3
+   3.5    Discretionary Authority of Committee..............................   4
+   3.6    Persons Subject to Section 162(m).................................   5
+   3.7    Shareholder Rights................................................   5
+
+                ARTICLE 4. ELIGIBILITY AND LIMITATIONS ON GRANTS
+
+   4.1    Participation.....................................................   5
+   4.2    Limitations on Grants.............................................   5
+
+                        ARTICLE 5. STOCK SUBJECT TO PLAN
+
+   5.1    Maximum Number of Shares..........................................   5
+
+                     ARTICLE 6. RESTRICTIONS AND FORFEITURES
+
+   6.1    General Restrictions..............................................   6
+   6.2    Termination of Employment.........................................   6
+   6.3    Retirement........................................................   6
+   6.4    Lapse of Restrictions - General...................................   6
+   6.5    Employee Status...................................................   7
+</TABLE>
+
+                                      -i-
+<PAGE>   3
+<TABLE>
+<S>       <C>                                                               <C>
+   6.6    Performance-Based Grants..........................................   7
+   6.7    Surrender of Restricted Stock.....................................   9
+
+                  ARTICLE 7. ADJUSTMENT UPON CORPORATE CHANGES
+
+   7.1    Adjustments to Shares.............................................   9
+   7.2    Substitution of Awards on Merger or Acquisition...................  10
+   7.3    Effect of Certain Transactions....................................  10
+   7.4    No Preemptive Rights..............................................  11
+
+                   ARTICLE 8. COMPLIANCE WITH LAW AND APPROVAL
+                              OF REGULATORY BODIES
+
+   8.1    General...........................................................  11
+   8.2    Representations by Participants...................................  11
+
+                                ARTICLE 9. TAXES
+
+   9.1    Immediate Taxation................................................  11
+   9.2    Deferred Taxation.................................................  11
+
+                         ARTICLE 10. GENERAL PROVISIONS
+
+   10.1   Effect on Employment..............................................  12
+   10.2   Unfunded Plan.....................................................  12
+   10.3   Rules of Construction.............................................  12
+   10.4   Governing Law.....................................................  12
+   10.5   Compliance With Section 16 of the Exchange Act....................  12
+   10.6   Amendment.........................................................  12
+   10.7   Effective Date of Plan............................................  12
+</TABLE>
+
+
+                                      -ii-
+<PAGE>   4
+                     WASHINGTON MUTUAL RESTRICTED STOCK PLAN
+
+                 As Amended and Restated as of January 18, 2000
+
+
+                         ARTICLE 1. PURPOSE OF THE PLAN
+
+        The purpose of the Plan is to advance the interests of the Company, to
+provide a performance incentive and to align the interests of the Participants
+with the interests of the Company, its Affiliates and its shareholders through
+increased stock ownership by the Participants. It is intended that Participants
+may acquire or increase their proprietary interests in the Company and that
+Participant employees will be encouraged to remain in the employ of the Company
+or of its Affiliates.
+
+        The Plan was established January 1, 1986 as the WM Financial, Inc.
+Restricted Stock Plan. Washington Mutual Savings Bank, the prior Plan sponsor,
+amended the Plan by a First Amendment, effective as of July 1, 1987, a Second
+Amendment, effective as of March 31, 1988, a Third Amendment, effective as of
+June 30, 1991, a Fourth Amendment, effective as of June 18, 1991, and a Fifth
+Amendment, effective as of October 20, 1992.
+
+        By action of the respective boards of directors of Washington Mutual
+Savings Bank and the Company, the Company became the sponsor of the Plan,
+effective November 29, 1994, after which the Company adopted an amendment and
+restatement of the Plan, effective November 29, 1994, that incorporated all
+material provisions of the Plan prior to such date and amended the Plan in
+certain respects.
+
+        The Company amended and restated the Plan, effective February 18, 1997,
+and amended the Amended and Restated Plan twice in 1999. Finally, the Plan was
+amended by action of the Board of Directors on January 18, 2000, subject to
+approval by the shareholders of the Company.
+
+        The Board approved this restatement of the Plan to incorporate all such
+amendments.
+
+                             ARTICLE 2. DEFINITIONS
+
+        2.1     AFFILIATE. A "parent corporation," as defined in section 424(e)
+of the Code, or "subsidiary corporation," as defined in section 424(f) of the
+Code, of the Company.
+
+        2.2     AGREEMENT. A written agreement (including any amendment or
+supplement thereto) between the Company or an Affiliate and a Participant
+specifying the terms and conditions of an Award granted to such Participant.
+
+        2.3     AWARD. An award under the Plan that is expressed as a stated
+number of whole shares of Restricted Stock. An Award shall be subject to the
+terms of an Agreement.
+
+        2.4     BOARD. The board of directors of the Company.
+
+
+
+                                      -1-
+<PAGE>   5
+        2.5     CODE. The Internal Revenue Code of 1986, as amended.
+
+        2.6     COMMITTEE. A committee composed of two or more members of the
+Board who are not officers or employees of the Company or an Affiliate, who are
+otherwise qualified as Non-Employee Directors as defined under Rule 16b-3(i) of
+the Exchange Act, and who qualify as outside directors as defined in Section
+162(m) of the Code.
+
+        2.7     COMPANY. Washington Mutual, Inc., successor to Washington Mutual
+Savings Bank as Plan sponsor, and its successors.
+
+        2.8     EXCHANGE ACT. The Securities Exchange Act of 1934, as amended.
+
+        2.9     GRANT DATE. The date that an Award of Restricted Stock is
+granted to a Participant hereunder.
+
+        2.10    PARTICIPANT. A person who is awarded Restricted Stock hereunder.
+Members of the Board, and employees, consultants and advisors of the Company or
+of an Affiliate, are the only persons who are eligible to be Participants.
+
+        2.11    PLAN. The Washington Mutual Restricted Stock Plan, as embodied
+herein and as amended from time to time, and including all predecessor versions
+of this Plan.
+
+        2.12    RESTRICTED STOCK. Stock that is awarded subject to restrictions
+hereunder and has not become Unrestricted Stock in accordance with Article 6.
+
+        2.13    STOCK. The common stock of the Company.
+
+        2.14    UNRESTRICTED STOCK. Shares of Stock granted under this Plan that
+are no longer subject to restrictions that constitute a substantial risk of
+forfeiture, in accordance with Article 6.
+
+                           ARTICLE 3. ADMINISTRATION
+
+        3.1     ADMINISTRATION OF PLAN. The Plan shall be administered by the
+Committee. The express grant in the Plan of any specific power to the Committee
+shall not be construed as limiting any power or authority of the Committee. Any
+decision made or action taken by the Committee to administer the Plan shall be
+final and conclusive. No member of the Committee shall be liable for any act
+done in good faith with respect to this Plan or any Agreement or Award. The
+Company shall bear all expenses of Plan administration.
+
+        3.2     AUTHORITY TO GRANT AWARDS. The Committee shall have authority to
+grant Awards upon such terms as the Committee deems appropriate and that are not
+inconsistent with the provisions of Articles 4 and 5 of this Plan. Such terms
+may include restrictions on the transfer of all or any portion of the Stock
+granted under an Award.
+
+
+                                      -2-
+<PAGE>   6
+        3.3     PARTICIPANTS' ACCOUNTS. The Committee shall establish and
+maintain adequate records to disclose the Participants and their respective
+Awards, the restrictions thereon, the stock certificates related thereto, any
+dividends or distributions payable or paid thereon, any votes taken with respect
+thereto, and such other matters as may be relevant to the proper administration
+of this Plan.
+
+                (a)     DIVIDENDS AND DISTRIBUTIONS. All cash dividends and
+        other cash distributions paid in respect of Restricted Stock shall be
+        credited to the account of the Participant and invested in Stock
+        pursuant to the Company's general dividend reinvestment program for
+        shareholders of the Company. All such amounts and their proceeds shall
+        be subject to the same restrictions on the same basis as the underlying
+        Restricted Stock and shall be treated as Restricted Stock for all
+        purposes under this Plan.
+
+                (b)     FORFEITURES. Upon the occurrence of a forfeiture
+        hereunder, all shares of Restricted Stock subject to the Award
+        (including any Restricted Stock purchased with dividends paid on the
+        underlying Restricted Stock) shall be retained by the Company.
+
+        3.4     TRANSFER OF UNRESTRICTED STOCK. The Company shall generally
+transfer Unrestricted Stock to the Participant at an administratively feasible
+time after the lapse of restrictions hereunder on an Award of Restricted Stock.
+Any fractional shares of Unrestricted Stock shall be paid to the Participant in
+cash.
+
+                (a)     TERMINATION OF EMPLOYMENT. Upon the termination of
+        employment for any reason of a Participant who is an employee of the
+        Company or an Affiliate (including upon the Participant's death), or
+        upon such a Participant's retirement or permanent and total disability,
+        the Company shall deliver to the Participant (or his personal
+        representative) all Unrestricted Stock held for his account.
+
+                (b)     DEATH OF PARTICIPANT. Each Participant shall have the
+        right, at any time, to designate any person or persons as his
+        beneficiary or beneficiaries (both principal as well as contingent) to
+        whom all amounts that are otherwise due hereunder after termination of
+        employment shall be paid upon his death. Each beneficiary designation
+        shall become effective only when filed in writing with the Committee
+        during the Participant's lifetime on a form acceptable to the Committee.
+
+                        (1)     If the Participant is married as of the date of
+                filing a beneficiary designation and names a principal
+                beneficiary other than his spouse, such designation shall not be
+                effective unless the spouse consents to the beneficiary
+                designation in writing, witnessed by a notary public.
+
+                        (2)     The filing of a new beneficiary designation form
+                as provided herein shall cancel all beneficiary designations
+                previously filed. Any finalized divorce or marriage (other than
+                a common law marriage) of a Participant subsequent to the date
+                of filing a beneficiary designation form, which divorce or
+                marriage is communicated to the Committee in writing, shall
+                revoke any prior designation. As
+
+
+                                      -3-
+<PAGE>   7
+                used herein "divorce" includes a dissolution of a marriage or an
+                annulment of a marriage.
+
+                        (3)     If all designated beneficiaries predecease a
+                Participant or die prior to complete distribution, the Committee
+                shall make distributions to the Participant's personal
+                representative or executor. If a Participant fails to designate
+                a beneficiary as provided above, the Committee shall make
+                distributions to the Participant's personal representative or
+                executor.
+
+        3.5     DISCRETIONARY AUTHORITY OF COMMITTEE. The Committee shall have
+full discretionary power, subject to, and within the limits of, Articles 4 and 5
+of the Plan:
+
+                (a)     To determine from time to time who of the eligible
+        persons shall be granted Awards, and the time or times when, and the
+        number of shares for which, an Award or Awards shall be granted to such
+        persons.
+
+                (b)     To prescribe the other terms and provisions (which need
+        not be identical) of each Award granted under the Plan to eligible
+        persons.
+
+                (c)     To modify or amend any term or provision of any Award
+        granted under the Plan (including without limitation in the ways
+        described in Sections 3.5 (f), (g) and (h) below), provided that the
+        consent of the holder thereof must be obtained for any modification or
+        amendment that reduces the benefits to the holder of the Award.
+
+                (d)     To construe and interpret the Plan and Awards granted
+        hereunder, and to establish, amend, and revoke rules and regulations for
+        administration. The Committee, in the exercise of this power, may
+        correct any defect or supply any omission, or reconcile any
+        inconsistency in the Plan, or in any Award or Agreement, in the manner
+        and to the extent it shall deem necessary or expedient to make the Plan
+        fully effective. In exercising this power the Committee may retain
+        counsel at the expense of the Company. All decisions and determinations
+        by the Committee in exercising this power shall be final and binding
+        upon the Company and the Participants.
+
+                (e)     To determine the duration and purposes of leaves of
+        absence which may be granted to a Participant without constituting a
+        termination of his or her employment for purposes of the Plan or an
+        Agreement.
+
+                (f)     To accelerate the time at which the restrictions on
+        Restricted Stock granted under an Award will lapse, or otherwise modify
+        the restrictions on Restricted Stock in a manner favorable to the
+        Participant.
+
+                (g)     To determine, for any group or class of Participants,
+        that restrictions on Restricted Stock shall lapse upon specified events
+        occurring upon or after a change in control of the Company or an
+        Affiliate, subject to such terms and limitations as the Committee may
+        determine.
+
+                                      -4-
+<PAGE>   8
+                (h)     To waive or modify the application of Section 6.2
+        (forfeiture of Restricted Stock upon termination of employment) as to
+        any Award, in whole or in part.
+
+                (i)     To authorize any person to execute on behalf of the
+        Company any instrument required to effectuate the grant of an Award
+        previously granted hereunder.
+
+                (j)     To interpret the Plan and make any determinations that
+        are necessary or desirable in the administration of the Plan.
+
+                (k)     To exercise such powers and to make all other
+        determinations deemed necessary or expedient to promote the best
+        interests of the Company with respect to the Plan.
+
+        3.6     PERSONS SUBJECT TO SECTION 162(M). Notwithstanding anything in
+the Plan to the contrary, the Committee, in its absolute discretion, may
+bifurcate the Plan so as to restrict, limit or condition the use of certain
+provisions of the Plan by Participants who are officers subject to Section
+162(m) of the Code, without so restricting, limiting or conditioning the Plan
+with respect to other Participants.
+
+        3.7     SHAREHOLDER RIGHTS. Except as provided in Section 6.1, each
+Participant shall have, with respect to Restricted Stock, all the rights of a
+shareholder of Stock including the right to vote the shares.
+
+
+                ARTICLE 4. ELIGIBILITY AND LIMITATIONS ON GRANTS
+
+        4.1     PARTICIPATION. The Committee may from time to time designate
+persons to whom Awards are to be granted from among those who are eligible to
+become Participants. Such designation shall specify the number of shares of
+Restricted Stock subject to each Award. All Awards granted under this Plan shall
+be evidenced by Agreements which shall be subject to applicable provisions of
+this Plan or such other provisions as the Committee may adopt that are not
+inconsistent with the Plan.
+
+        4.2     LIMITATIONS ON GRANTS. Awards may be granted only to persons who
+are eligible to be Participants. The maximum number of shares of Stock with
+respect to which Awards may be granted to any Participant in any calendar year
+under the Plan is 225,000.
+
+                        ARTICLE 5. STOCK SUBJECT TO PLAN
+
+        5.1     MAXIMUM NUMBER OF SHARES. The maximum aggregate number of shares
+of Stock that may be issued pursuant to Awards under this Plan (including all
+predecessors of this Plan) is two million seventy-five thousand one hundred
+twenty-two (2,075,122) shares, subject to adjustments as provided in Article 7
+made after January 18, 2000.
+
+                                      -5-
+<PAGE>   9
+                    ARTICLE 6. RESTRICTIONS AND FORFEITURES
+
+        6.1     GENERAL RESTRICTIONS. A Participant shall not be permitted (i)
+to sell, transfer, pledge (as collateral for a loan or as security for the
+performance of an obligation or for any other purpose) or assign shares of
+Restricted Stock awarded (or purchased through dividend or distribution
+reinvestment) under the Plan, (ii) to receive payment of any dividends or
+distributions made in respect of Restricted Stock, or (iii) to receive a stock
+certificate representing Restricted Stock, until, in each case, the restrictions
+stated in the Participant's Agreement lapse.
+
+        6.2     TERMINATION OF EMPLOYMENT. Upon the termination of employment
+for any reason of a Participant who is an employee of the Company or an
+Affiliate before the Participant has attained age 60 (including termination
+because of the death or permanent disability of the Participant), all Restricted
+Stock shall be forfeited without compensation to the Participant, unless
+otherwise determined by the Committee.
+
+        6.3     RETIREMENT. In the event of a Participant's retirement from the
+Company and its Affiliates or a Participant's death or permanent disability
+after the Participant has attained age 60, all remaining restrictions on such
+Participant's Restricted Stock that relate solely to the Participant's length of
+service with the Company or an Affiliate shall automatically be waived.
+Restrictions not related solely to the Participant's length of service with the
+Company or an Affiliate (such as restrictions tied to the performance of the
+Company) shall remain in effect unless otherwise determined by the Committee.
+
+        6.4     LAPSE OF RESTRICTIONS - GENERAL. Each Award of Restricted Stock
+granted to a Participant shall become Unrestricted Stock according to the terms
+established by the Committee and specified in the Participant's Agreement. The
+Committee is authorized but not required to subject an Award to the restrictions
+described in Schedule A or Schedule B below by setting forth this determination
+in the Participant's Agreement.
+
+                                   SCHEDULE A
+
+        YEARS OF CONTINUED EMPLOYMENT             PERCENTAGE UNRESTRICTED
+
+               Less than 1                                 0%
+        1 but less than 2                                 20%
+        2 but less than 3                                 40%
+        3 but less than 4                                 60%
+        4 but less than 5                                 80%
+               5 or more                                 100%
+
+
+
+                                      -6-
+<PAGE>   10
+                                   SCHEDULE B
+
+        YEARS OF CONTINUED EMPLOYMENT             PERCENTAGE UNRESTRICTED
+
+               Less than 3                                 0%
+        3 but less than 4                                33.33%
+        4 but less than 5                                66.67%
+               5 or more                                  100%
+
+        For purposes of Schedules A and B, unless otherwise determined by the
+Committee and stated in the relevant Agreement, a Year of Continued Employment
+shall be credited to a Participant with respect to each Award on each March 31,
+beginning in the calendar year that follows the Grant Date of an Award, provided
+that the Participant has been continuously employed by the Company or one of its
+Affiliates since the Grant Date of the Award.
+
+        The lapse of restrictions on Restricted Stock (including, if applicable,
+the number of Years of Continued Employment) shall be calculated separately with
+respect to each Award granted to a Participant.
+
+        6.5     EMPLOYEE STATUS. As provided in Section 3.5(e), the Committee
+shall determine the extent to which a leave of absence for military or
+government service, illness, temporary disability, or other reasons shall be
+treated as termination or interruption of employment for purposes of determining
+questions of forfeiture and Years of Employment for purposes of the lapse of
+restrictions on Restricted Stock.
+
+        6.6     PERFORMANCE-BASED GRANTS. The Committee may provide in any Award
+for the restrictions on Restricted Stock to lapse upon the Company's attainment
+of performance-based goals established by the Committee. Any such Award may, but
+need not be, granted under and pursuant to the terms of this Section 6.6. In
+addition, the Committee may determine that any performance-based Award granted
+by the Committee before the adoption of this Amended and Restated Plan shall be
+treated as if granted under this Section 6.6, provided that the Award is
+modified so as to comply with the terms of this Section 6.6.
+
+                (a)     INTENT TO QUALIFY UNDER SECTION 162(M). This Section 6.6
+        is intended to qualify the Awards granted under it as performance-based
+        compensation under Section 162(m) of the Code. All Awards granted
+        pursuant to this Section 6.6 shall be construed in a manner consistent
+        with that intent.
+
+                (b)     SHAREHOLDER APPROVAL. As to Awards granted under this
+        Section 6.6, no Restricted Stock may become Unrestricted Stock until
+        after the material terms of the performance goals set out below are
+        disclosed to and approved by the Company's shareholders. To the extent
+        necessary for Awards under this Section 6.6 to qualify as
+        performance-based compensation under Section 162(m) of the Code under
+        then applicable law, the material terms of the performance goals shall
+        be disclosed to and reapproved by the shareholders no later than the
+        first shareholder meeting that occurs in
+
+
+                                      -7-
+<PAGE>   11
+        the fifth year following the year in which shareholders previously
+        approved the performance goals.
+
+                (c)     BUSINESS CRITERIA ON WHICH PERFORMANCE GOALS SHALL BE
+        BASED. The lapse of restrictions on Awards granted under this Section
+        6.6 shall be based on the Company's attainment of performance goals
+        based on one or more of the following business criteria:
+
+                Return on average common equity.
+
+                Return on average equity.
+
+                Efficiency ratio (other expense as a percentage of other income
+                plus net interest income), either before or after amortization
+                of intangible assets (goodwill).
+
+                Net operating expense (other income less other expense), either
+                before or after amortization of intangible assets (goodwill).
+
+                Earnings per diluted share of common stock.
+
+                Operating earnings (earnings before transaction-related expense)
+                per diluted share of common stock, either before or after
+                amortization of intangible assets (goodwill).
+
+                Return on average assets.
+
+                Ratio of nonperforming assets to total assets.
+
+                Return on an investment in an affiliate.
+
+        These business criteria shall be construed consistent with the use of
+        the same terms in Washington Mutual's published financial statements.
+        All business criteria other than earnings per diluted share of common
+        stock shall exclude transaction-related expense unless otherwise
+        determined by the Compensation Committee in selecting the business
+        criteria for a particular Award pursuant to Section 6.6(d) below. In
+        selecting any business criteria other than earnings per diluted share of
+        common stock, the Compensation Committee may elect, pursuant to Section
+        6.6(d) below, to exclude amortization of intangible assets (goodwill),
+        or to exclude depreciation and amortization.
+
+                (d)     ESTABLISHING PERFORMANCE GOALS. The Compensation
+        Committee shall establish, for each Award granted under this Section
+        6.6: (i) the measurement period(s) to which the performance goals will
+        be applied, (ii) the specific business criterion or criteria, or
+        combination thereof, that will be used; (iii) the specific performance
+        targets that will be used for the selected business criterion or
+        criteria; (iv) any special adjustments that will be applied in
+        calculating whether the performance targets have been met to factor out
+        extraordinary items, and (v) the formula for calculating the lapse of
+        restrictions in relation to the performance targets. These
+        determinations shall be set out
+
+
+                                      -8-
+<PAGE>   12
+        in the Agreement for each Award. Except as otherwise permitted under
+        Section 162(m) of the Code, each Award under this Section 6.6 shall be
+        granted no later than 90 days after the start of any applicable
+        measurement period, on or before the date that 25 percent of each
+        applicable measurement period has elapsed, and while the outcome is
+        substantially uncertain.
+
+                (e)     DETERMINATION OF ATTAINMENT OF PERFORMANCE GOALS. The
+        Committee shall determine, pursuant to the performance goals and other
+        elements established pursuant to Section 6.6(d) above, whether the
+        criteria for the lapse of restrictions have been satisfied. The
+        Committee's determinations shall be final and binding on all
+        Participants. These determinations must be certified in writing before
+        Stock is transferred to the Participant. This requirement may be
+        satisfied by a writing that sets out the determinations made by the
+        Committee that is signed on behalf of the Committee by the Committee's
+        secretary.
+
+                (f)     LAPSE OF RESTRICTIONS UPON DEATH, DISABILITY OR CHANGE
+        OF OWNERSHIP OR CONTROL. Notwithstanding the other terms of this Section
+        6.6, the performance-related criteria for the lapse of restrictions on
+        an Award made under this Section 6.6: (i) may lapse (A) as provided in
+        Section 7.3, or (B) upon a participant's disability or upon a change of
+        ownership or control, to the extent so provided in any Agreement,
+        employment agreement or action of the Committee, and (ii) shall lapse
+        upon the Participant's death.
+
+                (g)     OTHER RESTRICTIONS. In addition to the performance goals
+        described above, the Committee may determine to subject any Award
+        granted under this Section 6.6 to other, additional restrictions,
+        including restrictions requiring the Participant to remain in the employ
+        of the Company or an Affiliate for specified lengths of time.
+
+        6.7     SURRENDER OF RESTRICTED STOCK. A Participant who also is a
+participant in the Washington Mutual, Inc. Deferred Compensation Plan for
+Directors and Certain Highly Compensated Employees (the "DCP") may surrender to
+the Company all or a portion of an Award pursuant to the terms and provisions of
+the DCP relating to surrender of restricted stock in return for a contribution
+credit under the DCP.
+
+                  ARTICLE 7. ADJUSTMENT UPON CORPORATE CHANGES
+
+        7.1     ADJUSTMENTS TO SHARES. The maximum number and kind of shares of
+Stock with respect to which Awards hereunder may be granted and which are the
+subject of outstanding Awards shall be adjusted by way of increase or decrease
+as the Committee determines (in its sole discretion) to be appropriate, in the
+event that:
+
+                (a)     the Company effects one or more stock dividends, stock
+        splits, reverse stock splits, subdivisions, consolidations or other
+        similar events;
+
+                (b)     the Company or an Affiliate engages in a transaction to
+        which section 424 of the Code applies; or
+
+                                      -9-
+<PAGE>   13
+                (c)     there occurs any other event which in the judgment of
+        the Committee necessitates such action.
+
+Provided, however, that if an event described in paragraph (a) or (b) above
+occurs, the Committee shall make adjustments to the limits on Awards specified
+in Section 4.2 and in the limitation on aggregate Awards under Section 5.1 that
+are proportionate to the modifications of the Stock that are on account of such
+corporate changes.
+
+        7.2     SUBSTITUTION OF AWARDS ON MERGER OR ACQUISITION. The Committee
+may grant Awards in substitution for stock awards, stock options, stock
+appreciation rights or similar awards held by an individual who becomes an
+employee of the Company or an Affiliate in connection with a transaction to
+which section 424(a) of the Code applies. The terms of such substituted Awards
+shall be determined by the Committee in its sole discretion, subject only to the
+limitations of Article 5.
+
+        7.3     EFFECT OF CERTAIN TRANSACTIONS. Upon a merger, consolidation,
+acquisition of property or stock, separation, reorganization or liquidation of
+the Company, as a result of which the shareholders of the Company receive cash,
+stock or other property in exchange for their shares of Stock (an "Event"),
+restrictions on any Award of Restricted Stock granted hereunder shall lapse,
+whether or not the requirements for lapse of restrictions set forth in any
+Agreement have been satisfied, unless otherwise specifically stated in the
+Agreement. The foregoing notwithstanding, an Event shall not cause restrictions
+related solely to the Participant's length of service with the Company or any
+Affiliate to lapse on any Awards that the Committee elects, before the Event, to
+convert into restricted stock of an acquiring corporation. If the Committee so
+elects to convert the Awards, the number of shares of such converted restricted
+stock shall be determined by adjusting the amount and price of the Awards
+granted hereunder in the same proportion as used for determining the number of
+shares of stock of the acquiring corporation the holders of the Stock receive in
+such merger, consolidation, acquisition of property or stock, separation or
+reorganization, and the schedule for lapse of restrictions set forth in the
+Agreement shall continue to apply to the converted restricted stock. Nothing in
+this Section 7.3 or elsewhere in the Plan shall authorize the Committee to take
+any action contrary to any provision regarding lapse of restrictions that is
+contained in any Agreement or employment agreement if the action would reduce
+the benefits to the Participant, unless the Participant consents to the action.
+
+        7.4     NO PREEMPTIVE RIGHTS. The issuance by the Company of shares of
+stock of any class, or securities convertible into shares of stock of any class,
+for cash or property, or for labor or services rendered, either upon direct sale
+or upon the exercise of rights or warrants to subscribe therefor, or upon
+conversion of shares or obligations of the Company convertible into such shares
+or other securities, shall not affect, and no adjustment by reason thereof shall
+be made with respect to, outstanding Awards.
+
+
+                                      -10-
+<PAGE>   14
+                 ARTICLE 8. COMPLIANCE WITH LAW AND APPROVAL OF
+                               REGULATORY BODIES
+<PAGE>   15
+        8.1     GENERAL. No Award shall be granted, no Stock shall be issued,
+and no certificates for shares of Stock shall be delivered under this Plan
+except in compliance with all federal and state laws and regulations (including,
+without limitation, withholding tax requirements), federal and state securities
+laws and regulations and the rules of all national securities exchanges or
+self-regulatory organizations on which the Company's shares may be listed. The
+Company shall have the right to rely on an opinion of its counsel as to such
+compliance. Any certificate issued to evidence shares of Stock awarded hereunder
+may bear such legends and statements as the Committee upon advice of counsel may
+deem advisable to assure compliance with federal and state laws and regulations.
+No Award shall be granted, no Stock shall be issued, and no certificate for
+shares shall be delivered under this Plan until the Company has obtained such
+consent or approval as the Committee may deem advisable from any regulatory
+bodies having jurisdiction over such matters.
+
+        8.2     REPRESENTATIONS BY PARTICIPANTS. As a condition to receiving an
+Award, the Company may require a Participant to represent and warrant at the
+time of any such award that the shares are being held only for investment and
+without any present intention to sell or distribute such shares, if, in the
+opinion of counsel for the Company, such representation is required by any
+relevant provision of the laws referred to in Section 8.1. At the option of the
+Company, a stop transfer order against any shares of Stock may be placed on the
+official stock books and records of the Company, and a legend indicating that
+the Stock may not be pledged, sold or otherwise transferred unless an opinion of
+counsel is provided (concurred in by counsel for the Company) and stating that
+such transfer is not in violation of any applicable law or regulation may be
+stamped on the stock certificate in order to assure exemption from registration.
+The Committee may also require such other action or agreement by the
+Participants as may from time to time be necessary to comply with the federal
+and state securities laws. This provision shall not obligate the Company or any
+Affiliate to undertake registration of Stock hereunder.
+
+                                ARTICLE 9. TAXES
+
+        9.1     IMMEDIATE TAXATION. If an employee elects, pursuant to Section
+83(b) of the Code, to include in gross income for federal income tax purposes an
+amount equal to the fair market value of Restricted Stock subject to an Award,
+the employee shall make arrangements satisfactory to the Company to pay to the
+Company or its Affiliate any federal, state or local taxes required to be
+withheld with respect to such Stock. If an employee who makes such an election
+fails to pay the necessary amounts to the Company or its Affiliate, the Company
+or its Affiliate shall, to the extent permitted by law, have the right to deduct
+from any payment of any kind otherwise due to the employee any taxes of any kind
+required by law to be withheld with respect to the Stock covered by the Award.
+
+        9.2     DEFERRED TAXATION. If an election under Section 83(b) of the
+Code has not been made, then at the time Restricted Stock becomes Unrestricted
+Stock, the Participant shall, upon notification of the amount due and prior to
+or concurrently with the delivery of the certificates representing the shares of
+Stock to which the Participant is entitled hereunder, pay to the Company or its
+Affiliate amounts necessary to satisfy applicable federal, state and local
+
+                                      -11-
+<PAGE>   16
+withholding tax requirements or shall otherwise make arrangements satisfactory
+to the Company for such requirements. The Company or its Affiliate shall, to the
+extent permitted by law, have the right to deduct from any payment of any kind
+otherwise due to the employee any federal, state or local taxes of any kind
+required by law to be withheld with respect to the Restricted Stock becoming
+Unrestricted Stock.
+
+                         ARTICLE 10. GENERAL PROVISIONS
+
+        10.1    EFFECT ON EMPLOYMENT. Neither the adoption of this Plan, its
+operation, nor any documents describing or referring to this Plan (or any part
+thereof) shall confer upon any employee any right to continue in the employ of
+the Company or an Affiliate or in any way affect any right and power of the
+Company or an Affiliate to terminate the employment of any employee at any time
+with or without assigning a reason therefor.
+
+        10.2    UNFUNDED PLAN. The Plan shall be unfunded, and the Company shall
+not be required to segregate any assets that may at any time be represented by
+grants under this Plan. Any liability of the Company to any person with respect
+to any grant under this Plan shall be based solely upon contractual obligations
+that may be created hereunder. No such obligation of the Company shall be deemed
+to be secured by any pledge of, or other encumbrance on, any property of the
+Company.
+
+        10.3    RULES OF CONSTRUCTION. Headings are given to the articles and
+sections of this Plan solely as a convenience to facilitate reference. The
+masculine gender when used herein refers to both masculine and feminine. The
+reference to any statute, regulation or other provision of law shall be
+construed to refer to any amendment to or successor of such provision of law.
+
+        10.4    GOVERNING LAW. The laws of the State of Washington shall apply
+to all matters arising under this Plan, to the extent that federal law does not
+apply.
+
+        10.5    COMPLIANCE WITH SECTION 16 OF THE EXCHANGE ACT. With respect to
+persons subject to Section 16 of the Exchange Act, transactions under this Plan
+are intended to comply with all applicable conditions of Rule 16b-3 or its
+successors under the Exchange Act. To the extent any provision of this Plan or
+action by the Committee fails to so comply, it shall be deemed null and void to
+the extent permitted by law and deemed advisable by the Committee.
+
+        10.6    AMENDMENT. The Committee may amend or terminate this Plan at any
+time; provided, however, an amendment that would have a material adverse effect
+on the rights of a Participant under an outstanding Award is not valid with
+respect to such Award without the Participant's consent. Provided further that
+the shareholders of the Company must approve any amendment that changes the
+number of shares in the aggregate which may be issued pursuant to Awards granted
+under the Plan or the maximum number of shares with respect to which any
+Participant may be granted Awards in any calendar year, except pursuant to
+Article 7.
+
+        10.7    EFFECTIVE DATE OF PLAN. No Award under the terms of the Plan as
+amended and restated as of January 18, 2000, will be effective unless and until
+the amendments approved by
+
+
+                                      -12-
+<PAGE>   17
+the Board on January 18, 2000, are approved by shareholders holding a majority
+of the Company's outstanding voting stock present or represented by proxy and
+entitled to vote at the Company's next annual shareholders' meeting, which is
+duly held, that occurs after January 18, 2000, the date that the Board
+authorized the Company to adopt the amendments to the Plan which are being
+submitted to the shareholders in such annual shareholders meeting. If such
+amendments are not so approved by the shareholders of the Company, then this
+version of the Plan shall be of no force or effect and the Plan as amended and
+restated as of February 18, 1997, and amended prior to January 18, 2000, shall
+continue to govern.
+
+        IN WITNESS WHEREOF, the Company has caused this Plan to be executed on
+this the __________ day of _____________, 2000, but to be effective on January
+18, 2000.
+
+                                            WASHINGTON MUTUAL, INC.
+
+
+
+                                            By:
+                                                -----------------------------
+                                                    M. Lynn Ryder
+
+                                            Its:    Senior Vice President
+
+
+
+                                      -13-
+
+</TEXT>
+</DOCUMENT>

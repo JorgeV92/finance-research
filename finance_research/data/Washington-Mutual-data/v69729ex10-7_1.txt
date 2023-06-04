@@ -1,0 +1,123 @@
+<DOCUMENT>
+<TYPE>EX-10.7.1
+<SEQUENCE>7
+<FILENAME>v69729ex10-7_1.txt
+<DESCRIPTION>EXHIBIT 10.7.1
+<TEXT>
+
+<PAGE>   1
+
+                                                                 EXHIBIT 10.7.1
+
+
+                                AMENDMENT TO THE
+                                WASHINGTON MUTUAL
+                              RESTRICTED STOCK PLAN
+                 AS AMENDED AND RESTATED AS OF JANUARY 18, 2000
+
+
+        THIS AMENDMENT to the Washington Mutual Restricted Stock Plan As Amended
+and Restated as of January 18, 2000 (the "Plan") is made by Washington Mutual,
+Inc. (the "Company") on this ____ day of _______________:
+
+                                    RECITALS
+
+        WHEREAS, Washington Mutual, Inc. (the "Company") maintains the Plan for
+the benefit of eligible employees; and
+
+        WHEREAS, the Company desires to amend the Plan to add additional
+business criteria on which performance goals may be based, to provide that
+performance goals shall exclude transaction-related expense unless otherwise
+determined by the Compensation Committee in selecting performance goals, and to
+make certain other clarifying changes; and
+
+        WHEREAS, pursuant to Section 10.6 of the Plan the Directors'
+Compensation and Stock Option Committee of the Company is authorized to amend
+the Plan;
+
+        NOW, THEREFORE, the Plan is hereby amended as follows:
+
+        1. Sections 6.6(c) and (d) of the Plan be, and they hereby are, amended
+and restated in their entirety, effective January 18, 2000, to read as set forth
+below, subject to shareholder approval:
+
+                (c) BUSINESS CRITERIA ON WHICH PERFORMANCE GOALS SHALL BE BASED.
+        The lapse of restrictions on Awards granted under this Section 6.6 shall
+        be based on the Company's attainment of performance goals based on one
+        or more of the following business criteria:
+
+                Return on average common equity.
+
+                Return on average equity.
+
+                Efficiency ratio (other expense as a percentage of other income
+                plus net interest income), either before or after amortization
+                of intangible assets (goodwill).
+
+                Net operating expense (other income less other expense), either
+                before or after amortization of intangible assets (goodwill).
+
+                Earnings per diluted share of common stock.
+
+
+
+                                       1
+<PAGE>   2
+
+                Operating earnings (earnings before transaction-related expense)
+                per diluted share of common stock, either before or after
+                amortization of intangible assets (goodwill).
+
+                Operating earnings per diluted share of common stock before
+                depreciation and amortization.
+
+                Return on average assets.
+
+                Ratio of nonperforming assets to total assets.
+
+        These business criteria shall be construed consistent with the use of
+        the same terms in Washington Mutual's published financial statements.
+        All business criteria other than earnings per diluted share of common
+        stock shall exclude transaction-related expense unless otherwise
+        determined by the Compensation Committee in selecting the business
+        criteria for a particular Award pursuant to Section 6.6(d) below. In
+        selecting any business criteria other than earnings per diluted share of
+        common stock, the Compensation Committee may elect, pursuant to Section
+        6.6(d) below, to exclude amortization of intangible assets (goodwill),
+        or to exclude depreciation and amortization.
+
+                (d) ESTABLISHING PERFORMANCE GOALS. The Compensation Committee
+        shall establish, for each Award granted under this Section 6.6: (i) the
+        measurement period(s) to which the performance goals will be applied,
+        (ii) the specific business criterion or criteria, or combination
+        thereof, that will be used; (iii) the specific performance targets that
+        will be used for the selected business criterion or criteria; (iv) any
+        special adjustments that will be applied in calculating whether the
+        performance targets have been met to factor out extraordinary items, and
+        (v) the formula for calculating the lapse of restrictions in relation to
+        the performance targets. These determinations shall be set out in the
+        Agreement for each Award. Except as otherwise permitted under Section
+        162(m) of the Code, each Award under this Section 6.6 shall be granted
+        no later than 90 days after the start of any applicable measurement
+        period, on or before the date that 25 percent of each applicable
+        measurement period has elapsed, and while the outcome is substantially
+        uncertain.
+
+        IN WITNESS WHEREOF, the undersigned, an authorized officer of the
+Company, has executed this amendment on the day and year first written above.
+
+
+
+                                            WASHINGTON MUTUAL, INC.
+
+
+                                            By:________________________________
+                                            Its:_______________________________
+
+
+
+
+
+                                       2
+</TEXT>
+</DOCUMENT>

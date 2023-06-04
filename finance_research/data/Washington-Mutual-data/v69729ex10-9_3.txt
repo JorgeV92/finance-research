@@ -1,0 +1,65 @@
+<DOCUMENT>
+<TYPE>EX-10.9.3
+<SEQUENCE>15
+<FILENAME>v69729ex10-9_3.txt
+<DESCRIPTION>EXHIBIT 10.9.3
+<TEXT>
+
+<PAGE>   1
+
+                                                                EXHIBIT 10.9.3
+
+
+                                AMENDMENT TO THE
+                             WASHINGTON MUTUAL, INC.
+                     RETIREMENT SAVINGS AND INVESTMENT PLAN
+                AMENDED AND RESTATED EFFECTIVE SEPTEMBER 30, 1998
+
+
+        THIS AMENDMENT to the Washington Mutual, Inc. Retirement Savings and
+Investment Plan (the "RSIP") is made by Washington Mutual, Inc. (the "Company")
+on this 19th day of October, 1999.
+
+                                    RECITALS:
+
+        WHEREAS, the Company, through its subsidiary, Aristar, Inc. ("Aristar"),
+has agreed to acquire certain assets of Peoples Security Finance Company, Inc.
+("Peoples"); and
+
+        WHEREAS, Peoples employees hired by Aristar in connection with such
+acquisition generally will be offered participation in employee benefit plans of
+the Company; and
+
+        WHEREAS, the Company desires to amend the RSIP to provide service credit
+thereunder for purposes of eligibility to participate in the RSIP to employees
+of an Employer who are former employees of Peoples and who are hired in
+connection with Aristar's acquisition of assets of Peoples; and
+
+        WHEREAS, the Company may amend the RSIP at any time pursuant to Article
+XVI thereof;
+
+        NOW, THEREFORE, effective January 1, 2000, Section 2.52(b) of the RSIP
+is hereby amended by the addition of a new paragraph 6 to read as follows:
+
+                (6) Employees who were hired by the Company in connection with
+        its purchase of assets of Peoples Security Finance Company, Inc.
+        ("Peoples") and who were employed by Peoples or one of its affiliates
+        immediately prior to such hire shall be credited with Service for up to
+        one year of service performed with Peoples or its affiliates.
+
+        IN WITNESS WHEREOF, the undersigned, an authorized officer of the
+Company, has executed this amendment on the day and year first written above.
+
+
+
+                                            WASHINGTON MUTUAL, INC.
+
+
+                                            By:________________________________
+                                            Its:_______________________________
+
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,69 @@
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<FILENAME>a2039885zex-21.txt
+<DESCRIPTION>EXHIBIT 21
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 21
+
+<TABLE>
+<CAPTION>
+                                                              JURISDICTION OF
+COMPANY                                                       INCORPORATION
+-------                                                       ---------------
+<S>                                                           <C>
+Banque Lehman Brothers S.A..................................  France
+DA Group Holdings Inc.......................................  Delaware
+DL Mortgage Corp............................................  Delaware
+LBCCA Holdings I Inc........................................  Delaware
+LBCCA Holdings II Inc.......................................  Delaware
+LB I Group Inc..............................................  Delaware
+Lehman ABS Corporation......................................  Delaware
+Lehman ALI Inc..............................................  Delaware
+Lehman Asset Backed Caps Inc................................  Delaware
+Lehman Brothers Asia Holdings Limited.......................  Hong Kong
+Lehman Brothers Asia Limited................................  Hong Kong
+Lehman Brothers Bank, FSB...................................  United States of America
+Lehman Brothers Bankhaus Aktiengesellschaft.................  Germany
+Lehman Brothers Canada Inc..................................  Canada
+Lehman Brothers Capital GmbH................................  Germany
+Lehman Brothers Commercial Corporation......................  Delaware
+Lehman Brothers Commercial Corporation Asia Limited.........  Hong Kong
+Lehman Brothers Derivative Products Inc.....................  Delaware
+Lehman Brothers Finance S.A.................................  Switzerland
+Lehman Brothers Financial Products Inc......................  Delaware
+Lehman Brothers Futures Asset Management Corp...............  Delaware
+Lehman Brothers Global Asset Management Inc.................  Delaware
+Lehman Brothers Holdings Plc................................  United Kingdom
+Lehman Brothers Inc.........................................  Delaware
+Lehman Brothers International (Europe)......................  United Kingdom
+Lehman Brothers Investments PTE Limited.....................  Singapore
+Lehman Brothers Japan Inc...................................  Cayman Islands
+Lehman Brothers Merchant Banking Advisors II Inc............  Delaware
+Lehman Brothers Merchant Banking Advisors Inc...............  Delaware
+Lehman Brothers PTE Ltd.....................................  Singapore
+Lehman Brothers Securities Asia Limited.....................  Hong Kong
+Lehman Brothers Special Financing Inc.......................  Delaware
+Lehman Brothers Treasury Co. B.V............................  The Netherlands
+Lehman Brothers U.K. Holdings (Delaware) Inc................  Delaware
+Lehman Brothers U.K. Holdings Ltd...........................  United Kingdom
+Lehman Brothers Verwaltungs-und Beteiligungsgesellschaft      Germany
+  mbH.......................................................
+Lehman CMBS Funding Inc.....................................  Delaware
+Lehman CMO Inc..............................................  Maryland
+Lehman Commercial Paper Inc.................................  New York
+Lehman Pass- Through Securities Inc.........................  Delaware
+Lehman Re Ltd...............................................  Bermuda
+Lehman Structured Assets Inc................................  Delaware
+Lehman Structured Securities Corp...........................  Delaware
+Lehman Syndicated Loan Funding Inc..........................  Delaware
+Lehman Syndicated Loan Inc..................................  Delaware
+Lehman VIP Holdings Inc.....................................  Delaware
+LUBS Inc....................................................  Delaware
+Property Asset Management Inc...............................  Delaware
+Structured Asset Securities Corporation.....................  Delaware
+</TABLE>
+</TEXT>
+</DOCUMENT>

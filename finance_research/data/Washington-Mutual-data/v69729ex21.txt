@@ -1,0 +1,34 @@
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>24
+<FILENAME>v69729ex21.txt
+<DESCRIPTION>EXHIBIT 21
+<TEXT>
+
+<PAGE>   1
+                                                                      EXHIBIT 21
+
+                            WASHINGTON MUTUAL, INC.
+
+                               SUBSIDIARY LISTING
+
+WASHINGTON MUTUAL BANK
+
+Chartered under the laws of the state of Washington
+
+DBA:   Washington Mutual Bank
+       WM Business Bank
+       Western Bank
+
+NEW AMERICAN CAPITAL, INC., a Delaware corporation
+
+WASHINGTON MUTUAL BANK, FA
+
+DBA:   Washington Mutual Bank, FA
+       Alta Residential Mortgage, Inc.
+       ARMT, Inc.
+
+Federally-chartered under the laws of the United States
+
+</TEXT>
+</DOCUMENT>

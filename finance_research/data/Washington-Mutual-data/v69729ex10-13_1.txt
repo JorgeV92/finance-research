@@ -1,0 +1,60 @@
+<DOCUMENT>
+<TYPE>EX-10.13.1
+<SEQUENCE>18
+<FILENAME>v69729ex10-13_1.txt
+<DESCRIPTION>EXHIBIT 10.13.1
+<TEXT>
+
+<PAGE>   1
+                                                                 EXHIBIT 10.13.1
+
+                                AMENDMENT TO THE
+                             WASHINGTON MUTUAL, INC.
+                            CASH BALANCE PENSION PLAN
+
+
+        THIS AMENDMENT is made to the Washington Mutual, Inc. Cash Balance
+Pension Plan (the "Plan") by Washington Mutual, Inc. (the "Company") on this
+______ day of October, 1999.
+
+
+                                    RECITALS:
+
+        WHEREAS,  the Company,  through its  subsidiary,  Aristar,  Inc.
+("Aristar"),  has agreed to acquire  certain assets of Peoples  Security
+Finance Company, Inc. ("Peoples"); and
+
+        WHEREAS, Peoples employees hired by Aristar in connection with such
+acquisition generally will be offered participation in employee benefit plans of
+the Company; and
+
+        WHEREAS, the Company desires to amend the Plan to provide service credit
+thereunder for purposes of eligibility to participate in the Plan to employees
+of an Employer who are former employees of Peoples and who are hired in
+connection with Aristar's acquisition of assets of Peoples; and
+
+        WHEREAS,  the Company may amend the Plan at any time pursuant to
+Section 12.1;
+
+        NOW, THEREFORE, effective January 1, 2000, Section 2.37(b) of the Plan
+is hereby amended by the addition of new paragraph 5 to read as follows:
+
+               (5) Employees who were hired by the Company in connection with
+        its purchase of the assets of Peoples Security Finance Company, Inc.
+        ("Peoples") and who were employed by Peoples or one of its affiliates
+        immediately prior to such hire shall be credited with Service for up to
+        one year of service performed with Peoples or its affiliates.
+
+        IN WITNESS WHEREOF, the undersigned, an authorized officer of the
+Company, has executed this amendment on the day and year first written above.
+
+                                            WASHINGTON MUTUAL, INC.
+
+
+
+                                            By:
+                                               --------------------------------
+                                            Its:
+                                                -------------------------------
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,71 @@
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>6
+<FILENAME>a2039885zex-24.txt
+<DESCRIPTION>EXHIBIT 24
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 24
+
+    KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears
+below constitutes and appoints Thomas A. Russo, Joseph Polizzotto and Jeffrey A.
+Welikson and each of them, his or her true and lawful attorneys-in-fact and
+agents, with full power of substitution and resubstitution, for him or her and
+in his or her name, place and stead, in any and all capacities, to sign the
+Annual Report on Form 10-K of Lehman Brothers Holdings Inc., for the fiscal year
+ended November 30, 2000, and any and all amendments thereto, and to file the
+same, with all exhibits thereto, and other documents in connection therewith,
+with the Securities and Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them, full power and authority to do
+and perform each and every act and thing requisite and necessary to be done, as
+fully to all intents and purposes as he or she might or could do in person,
+hereby ratifying and confirming all that said attorneys-in-fact and agents, or
+any of them, or their substitute or substitutes, may lawfully do or cause to be
+done by virtue hereof.
+
+Dated: As of February 28, 2001
+
+<TABLE>
+<CAPTION>
+              SIGNATURES                                           TITLE
+              ----------                                           -----
+<C>                                      <S>
+       /s/ RICHARD S. FULD, JR.          Chief Executive Officer and Chairman of the Board of
+    -------------------------------        Directors
+         Richard S. Fuld, Jr.              (principal executive officer)
+
+          /s/ DAVID GOLDFARB
+    -------------------------------      Chief Financial Officer and Senior Vice President
+            David Goldfarb                 (principal financial and accounting officer)
+
+        /s/ MICHAEL L. AINSLIE
+    -------------------------------      Director
+          Michael L. Ainslie
+
+           /s/ JOHN F. AKERS
+    -------------------------------      Director
+             John F. Akers
+
+         /s/ ROGER S. BERLIND
+    -------------------------------      Director
+           Roger S. Berlind
+
+       /s/ THOMAS H. CRUIKSHANK
+    -------------------------------      Director
+         Thomas H. Cruikshank
+
+           /s/ HENRY KAUFMAN
+    -------------------------------      Director
+             Henry Kaufman
+
+         /s/ JOHN D. MACOMBER
+    -------------------------------      Director
+           John D. Macomber
+
+           /s/ DINA MERRILL
+    -------------------------------      Director
+             Dina Merrill
+</TABLE>
+</TEXT>
+</DOCUMENT>

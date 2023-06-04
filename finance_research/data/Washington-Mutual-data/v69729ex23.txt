@@ -1,0 +1,30 @@
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>25
+<FILENAME>v69729ex23.txt
+<DESCRIPTION>EXHIBIT 23
+<TEXT>
+
+<PAGE>   1
+                                                                      Exhibit 23
+
+
+
+INDEPENDENT AUDITORS' CONSENT
+--------------------------------------------------------------------------------
+
+We consent to the incorporation by reference in Post-Effective Amendments No. 1
+on Form S-8 to Registration Statement Nos. 333-23221, 333-52785, 333-81221 and
+333-47308 on Form S-4 of Washington Mutual, Inc.; Registration Statement Nos.
+33-86840, 333-69503, and 333-87675 on Form S-8 of Washington Mutual, Inc.; and
+Registration Statement Nos. 333-37685 and 333-31144 on Form S-3 of Washington
+Mutual, Inc. of our report dated February 23, 2001, appearing in the Annual
+Report of Form 10-K of Washington Mutual, Inc. for the year ended December 31,
+2000.
+
+
+Seattle, Washington
+March 19, 2001
+
+</TEXT>
+</DOCUMENT>

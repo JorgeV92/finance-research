@@ -1,0 +1,2344 @@
+<DOCUMENT>
+<TYPE>EX-10.15
+<SEQUENCE>5
+<FILENAME>a2071673zex-10_15.txt
+<DESCRIPTION>EXHIBIT 10.15
+<TEXT>
+<Page>
+
+                                                                   Exhibit 10.15
+
+
+                                                                  EXECUTION COPY
+
+
+
+                           PURCHASE AND SALE AGREEMENT
+
+                                     Between
+
+                                 MSDW 745, LLC,
+
+                                     SELLER,
+
+
+                                       and
+
+
+                                   LB 745 LLC
+
+
+                                   PURCHASER.
+
+
+
+                                    PREMISES:
+                               745 Seventh Avenue
+                               New York, New York
+
+
+                                October 19, 2001
+
+
+<Page>
+
+                                TABLE OF CONTENTS
+
+
+                                                                            Page
+                                                                            ----
+
+1.     DEFINITIONS...........................................................1
+
+
+2.     PURCHASE AND SALE.....................................................4
+
+
+3.     ACCESS TO PREMISES....................................................5
+
+
+4.     PURCHASE PRICE AND DEPOSIT............................................7
+
+
+5.     STATUS OF THE TITLE...................................................8
+
+
+6.     TITLE INSURANCE; LIENS................................................9
+
+
+7.     APPORTIONMENTS........................................................12
+
+
+8.     PROPERTY NOT INCLUDED IN SALE.........................................14
+
+
+9.     CERTAIN COVENANTS OF SELLER...........................................14
+
+
+10.    ASSIGNMENTS BY SELLER AND ASSUMPTIONS BY PURCHASER; EMPLOYEES.........15
+
+
+11.    REPRESENTATIONS.......................................................16
+
+
+12.    DAMAGE AND DESTRUCTION................................................21
+
+
+13.    CONDEMNATION..........................................................22
+
+
+14.    BROKERS AND ADVISORS..................................................24
+
+
+15.    TAX REDUCTION PROCEEDINGS.............................................24
+
+
+16.    TRANSFER TAXES, RECORDING CHARGES AND SALES TAXES.....................25
+
+
+17.    CONDITIONS OF CLOSING; DELIVERIES TO BE MADE ON THE CLOSING DATE......26
+
+
+18.    CLOSING DATE..........................................................30
+
+
+19.    NOTICES...............................................................31
+
+
+20.    DEFAULT BY PURCHASER OR SELLER........................................32
+
+
+21.    FIRPTA COMPLIANCE.....................................................33
+
+
+                                      -i-
+<Page>
+
+                                                                            Page
+                                                                            ----
+
+22.    ENTIRE AGREEMENT......................................................33
+
+
+23.    AMENDMENTS............................................................34
+
+
+24.    WAIVER................................................................34
+
+
+25.    PARTIAL INVALIDITY....................................................34
+
+
+26.    SECTION HEADINGS......................................................34
+
+
+27.    GOVERNING LAW.........................................................34
+
+
+28.    PARTIES; ASSIGNMENT AND RECORDING.....................................34
+
+
+29.    CONFIDENTIALITY AND PRESS RELEASES....................................35
+
+
+30.    FURTHER ASSURANCES....................................................36
+
+
+31.    THIRD PARTY BENEFICIARY...............................................36
+
+
+32.    JURISDICTION AND SERVICE OF PROCESS...................................36
+
+
+33.    WAIVER OF TRIAL BY JURY...............................................37
+
+
+34.    MISCELLANEOUS.........................................................37
+
+
+35.    ORGANIZATIONAL REPRESENTATIONS........................................38
+
+
+36.    CERTAIN GROUND LEASE PROVISIONS.......................................38
+
+
+37.    CONDITION OF PREMISES AT CLOSING......................................40
+
+
+38.    LIMITATION ON EMPLOYMENT..............................................41
+
+
+                                      -ii-
+<Page>
+
+
+Schedules
+
+A.       Description of the Land
+B.       Easements, Conditions, Restrictions and Encumbrances
+C.       Assumed Contracts
+D.       Building Plans
+E.       Interior Improvement Plans
+F.       FF&E Specifications
+G.       Hoist Related Work
+H.       Employees
+I.       Litigation Schedule
+J.       Insurance Schedule
+K.       IT Equipment Specifications
+L.       Exterior Signs Specifications
+M.       Notice to Landlord
+N.       [Intentionally Deleted]
+O.       Global IT Agreements
+
+
+
+Exhibits
+
+1.       Form of Deed
+2.       Form of Assignment and Assumption of Ground Lease
+3.       Form of Bill of Sale
+4.       Form of FIRPTA Affidavit
+5.       Form of Assignment and Assumption of JV Option Agreement
+6.       Form of Assignment of Option to Lease Space Agreement
+7.       Form of Assignment and Assumption of Contracts
+8.       Form of General Assignment and Assumption Agreement
+9.       Form of Substitute Guaranty
+10.      Form of Opinion
+11.      Form of Assignment of Management Agreement
+12.      Form of Assignment of Plaza Agreement
+13.      Form of Assignment of Publicity Agreement
+14.      Form of Assignment of Rental Agency Agreement
+15.      Agreement as to Post Closing Obligations
+
+
+                                     -iii-
+<Page>
+
+         PURCHASE AND SALE AGREEMENT (this "AGREEMENT") made as of the 19day of
+October, 2001 between MSDW 745, LLC, a Delaware limited liability company,
+having an address at 1633 Broadway, New York, N.Y. 10036 ("SELLER") and LB 745
+LLC, a Delaware limited liability company, having an address at 101 Hudson
+Street, Jersey City, New Jersey 07302 ("PURCHASER").
+
+                              W I T N E S S E T H :
+                              - - - - - - - - - -
+
+         WHEREAS, Seller is (i) the tenant under a ground lease (the "GROUND
+LEASE") dated November 19, 1998 between Rock-Forty-Ninth LLC ("LESSOR"), as
+landlord, and Seller, as tenant, of certain plots, pieces and parcels of land
+("Land") more particularly described in SCHEDULE A annexed hereto and known as
+745 Seventh Avenue, New York, New York (the Land and Seller's interest therein
+under the Ground Lease, the "GROUND LEASEHOLD"), (ii) the owner of the building
+and other improvements (collectively, the "BUILDING") located on the Land, (iii)
+the owner of certain interior improvements affixed to and located on the floors
+of the Building (the "INTERIOR IMPROVEMENTS"), (iv) the owner of certain
+furniture fixtures and equipment located or to be located in the Building upon
+the completion of the Interior Improvements (the "FF&E"), (v) the owner of
+certain technological equipment (the "IT EQUIPMENT"), and (vi) the owner of
+certain exterior signage (the "EXTERIOR SIGNS") (the Ground Leasehold, the
+Building, the Interior Improvements and the Exterior Signs are hereinafter
+sometimes collectively referred to as the "PREMISES" and the FF&E and IT
+Equipment are sometimes collectively hereinafter referred to as the "PERSONAL
+PROPERTY");
+
+         WHEREAS, Seller desires to cause the sale, assignment, transfer and
+conveyance of its interests in and to the Premises and the Personal Property to
+Purchaser in accordance with the terms and provisions of this Agreement, and
+Purchaser desires to purchase such interests from Seller upon the terms more
+particularly set forth in this Agreement;
+
+         NOW, THEREFORE, in consideration of the foregoing and the mutual
+covenants and agreements herein contained, the parties hereto covenant and agree
+as follows:
+
+l.       DEFINITIONS.
+
+         2001/2002 Tax Year                           Section 15
+         AAA                                          Section 12(c)
+         Adjourned Closing Date                       Section 6(a)
+         Agreement                                    Preamble
+         Apportionment Date                           Section 7(a)
+         Approvals                                    Section 37
+
+                                      -1-
+<Page>
+
+         Approved Commitment Items                    Section 5(b)
+         Assumed Contract                             Section 10(a)(ii)
+         Base Building Punchlist                      Section 37(b)
+         Broker                                       Section 14(a)
+         Building                                     Recitals
+         Building Plans                               Section 11(c)(ii)
+         business day                                 Section 4(c)
+         Cap Amount                                   Section 11(c)(xiii)
+         Certification                                Section 17(a)(ii)
+         Closing                                      Section 18
+         Closing Date                                 Section 18
+         Commitment                                   Section 6(a)
+         Company                                      Section 6(a)
+         Confidentiality Agreement                    Section 29(a)
+         Contractors                                  Section 3
+         Damages                                      Section 11(c)(xiii)
+         Deposit                                      Section 4(a)
+         Development Agreement                        Section 36(b)
+         Disclosed Survey Items                       Section 5(a)
+         Employment Contacts                          Section 10(b)
+         Escrow Agent                                 Section 4(a)
+         Excluded Personalty                          Section 8
+         Exculpated Parties                           Section 11(a)
+         Existing Guaranty                            Section 17(c)(iii)
+         Exterior Signs                               Recitals
+         FF&E                                         Recitals
+         FF&E Contracts                               Section 10(a)(ii)
+         FF&E Specifications                          Section 11(c)(iv)
+         Final Closing Statement                      Section 7(e)
+         FIRPTA                                       Section 21
+         Full Stop Election                           Section 37(b)
+         Global Agreements                            Section 8
+         Ground Lease                                 Recitals
+         Ground Leasehold                             Recitals
+         Hoist Related Work                           Section 37(a)
+         Interference Damages                         Section 20(a)
+         Interior Improvement Plans                   Section 11(c)(iii)
+         Interior Improvements                        Recitals
+         IT Contracts                                 Section 10(a)(ii)
+         IT Equipment                                 Recitals
+         JV Option Agreement                          Section 2
+         Land                                         Recitals
+
+
+                                      -2-
+<Page>
+
+         Landlord                                     Section 11(c)(viii)
+         Later Closing Date                           Section 18
+         Lessor                                       Recitals
+         Letter Agreement                             Section 2
+         LHI                                          Section 17(c)(iii)
+         Management Agreement                         Section 2
+         Manager                                      Section 10(b)
+         MS                                           Section 2
+         MSDW                                         Section 17(c)(iii)
+         New Closing Notice                           Section 6(d)
+         Notices                                      Section 19
+         Non-Objectionable Encumbrances               Section 6(a)
+         Operative Documents                          Section 2
+         Objection Date                               Section 6(a)
+         Option to Lease Space Agreement              Section 2
+         Outside Date                                 Section 11
+         Percentage Share                             Section 16(a)
+         Permitted Encumbrances                       Section 5
+         Plans                                        Section 37(a)
+         Plaza Agreement                              Section 2
+         Pledge                                       Section 2
+         Post Closing Agreement                       Section 4(b)(ii)
+         Premises                                     Recitals
+         Preliminary Closing Statement                Section 7(e)
+         Proceeding                                   Section 11(c)(xiii)
+         Project                                      Section 37(a)
+         Project Personnel                            Section 38
+         Property                                     Section 2
+         Property Taxes                               Section 7(a)(ii)
+         Publicity Agreement                          Section 2
+         Purchaser                                    Preamble
+         Purchase Price                               Section 4
+         Purchaser's Representatives                  Section 3(a)
+         REBNY                                        Section 12(c)
+         Rental Agency Agreement                      Section 2
+         RET                                          Section 16(a)
+         RFN                                          Section 2
+         ROFO                                         Section 36(a)
+         RP                                           Section 2
+         RPT                                          Section 16(a)
+         Rep Claim                                    Section 11(c)(xiii)
+         Representation                               Section 11(c)
+
+
+                                      -3-
+<Page>
+
+         Scheduled Closing Date                       Section 18
+         Seller                                       Preamble
+         Seller Knowledge Individuals                 Section 11(c)(xiii)
+         Seller Related Parties                       Section 3(c)
+         Stop Work Notice                             Section 37(b)
+         Subway Agreement                             Section 6(a)
+         Subway Work                                  Section 37(a)
+         Taking                                       Section 13(a)
+         Termination Event                            Section 10(b)
+         Termination Payment                          Section 10(b)
+         Title Cure Notice                            Section 6(a)
+         Title Cure Period                            Section 6(a)
+         Turner                                       Section 37(b)
+         Update Objections                            Section 6(a)
+         Utilities                                    Section 7(c)
+
+2.       PURCHASE AND SALE.
+
+                  Seller agrees to sell, assign and convey to Purchaser, and
+Purchaser agrees to purchase from Seller, subject to the terms and conditions of
+this Agreement, all of Seller's right, title and interest, if any, in and to and
+under (i) the Ground Leasehold, (ii) the Building; (iii) the Interior
+Improvements; (iv) the FF&E; (v) the IT Equipment; (vi) the Exterior Signs;
+(vii) the JV Option Agreement between Landlord and Seller dated November 19,
+1998 (the "JV OPTION AGREEMENT") and Purchaser shall assume same from and after
+the Closing Date; (viii) the Option to Lease Space Agreement (the "OPTION TO
+LEASE SPACE AGREEMENT") between Landlord, Seller and Morgan Stanley & Co.
+Incorporated ("MS") dated November 19, 1998 and Purchaser shall assume same from
+and after the Closing Date, (ix) the Management Agreement dated November 19,
+1998 between Seller and Rockefeller Center Management Corporation (the
+"MANAGEMENT AGREEMENT") and Purchaser shall assume same from and after the
+Closing Date; (x) the Plaza Agreement dated November 19, 1998 between Seller and
+Landlord (the "PLAZA AGREEMENT") and Purchaser shall assume same from and after
+the Closing Date; (xi) the Publicity Agreement dated November 19, 1998 between
+Seller, Rockefeller Center Management Corporation, Rockefeller Group Development
+Corporation, Rockefeller Forty-Ninth LLC and Rockefeller Group, Inc. (the
+"PUBLICITY AGREEMENT") and Purchaser shall assume same from and after the
+Closing Date; (xii) the Rental Agency Agreement dated March 1, 2001 between
+Seller and the Rockefeller Group Development Corporation (the "RENTAL AGENCY
+AGREEMENT") and Purchaser shall assume from and after the Closing Date, (xiii)
+the Pledge and Security Agreement dated November 19, 1998, by Rock-Forty-Ninth,
+Inc. ("RFN") and Rock-Plaza, Inc. ("RP") in favor of Seller (the "PLEDGE") and
+Purchaser shall assume same from and after the Closing Date and the "PLEDGED
+COLLATERAL" (as defined in the Pledge) thereunder; (xiv) the Letter Agreement
+between
+
+
+                                      -4-
+<Page>
+
+Rockefeller Group, Inc. and Seller dated November 19, 1998 with respect to the
+use of the name "Rockefeller" (the "Letter Agreement") and Purchaser shall
+assume same from and after the Closing Date; (xv) the Assumed Contracts and
+Purchaser shall assume same from and after the Closing Date, (xvi) any strips
+and gores pertaining to the Premises; (xvii) all easements, rights of way,
+reservations, privileges and appurtenances of Seller pertaining to the Premises;
+and (xviii) the Plans, (the documents set forth in (vii), (viii), (ix), (x),
+(xi) and (xii) shall be collectively referred to as the "OPERATIVE DOCUMENTS").
+The items described in clauses (i) through (xviii) above shall be referred to
+herein collectively as the "PROPERTY". The Property shall also include all of
+the right, title and interest of MS under the Option to Lease Space Agreement.
+
+3.       ACCESS TO PREMISES.
+
+         (a) Subject to the provisions of SECTION 3(B), Purchaser and its
+agents, employees, consultants, inspectors, appraisers, engineers and vendors
+(collectively "PURCHASER'S REPRESENTATIVES") shall have the right, from time to
+time, upon at least one business day's prior notice as required pursuant to
+SECTION 3(B), to enter upon and pass through the Premises during normal business
+hours to examine and inspect the same and to meet with the Contractors (as
+defined in the Post Closing Agreement) to discuss the Project. Seller shall
+reasonably cooperate with Purchaser to accommodate Seller's request but shall be
+able to reschedule the time, provided the rescheduled time is within a
+reasonable time from the time of Purchaser's original request, when Purchaser
+and Purchaser's Representatives may enter the Premises or meet with the
+Contractors upon notice to Purchaser. Notwithstanding any such inspection of the
+Premises or discussions with the Contractors, Purchaser shall have no right to
+terminate this Agreement or to obtain any reduction of the Purchase Price as a
+result of any matters discovered by any such inspection.
+
+         (b) In conducting any activity described in SECTION 3(A) above, neither
+Purchaser nor any of Purchaser's Representatives shall (i) contact or have any
+discussions with any of Seller's or Seller Related Parties' employees, agents,
+contractors, consultants or representatives or the Contractors unless in each
+case Purchaser obtains the prior consent of Seller, which consent shall not be
+unreasonably withheld or delayed, it being agreed that all such contacts or
+discussions shall, pending any such approval, be directed to John Pierce or
+Kevin Murray, (ii) interfere with the construction of the Project or (iii)
+damage the Premises or any portion thereof. In conducting any inspection or any
+meeting or discussion, Purchaser and Purchaser's Representatives shall at all
+times comply with, and shall be subject to, all other terms, covenants and
+conditions of this Agreement. Seller may from time to time establish reasonable
+rules of conduct for Purchaser and Purchaser's Representatives in furtherance of
+the foregoing. Purchaser shall schedule and coordinate all inspections, meetings
+and discussions with Seller and shall give Seller at least one (1) business day
+prior notice thereof. Seller shall be entitled
+
+
+                                      -5-
+<Page>
+
+to have a representative of Seller be present at all times during each such
+inspection, meeting or discussion. Notwithstanding the foregoing, if Purchaser
+delivers a Full Stop Election, then, prior to Closing, Purchaser shall have the
+right to meet with Turner, the FF&E Vendors and the IT Vendors without a Seller
+representative being present, provided that such unsupervised meetings shall not
+occur on the Premises. Purchaser agrees to pay to Seller, on demand, the cost of
+repairing and restoring any damage or disturbance which Purchaser or Purchaser's
+Representatives shall cause to the Premises or any portion thereof. All
+inspection fees, appraisal fees, engineering fees and other costs and expenses
+of any kind incurred by Purchaser or Purchaser's Representatives relating to
+such inspection of the Premises and its review thereof shall be at the sole
+expense of Purchaser. Purchaser shall deliver to Seller, at no cost to Seller,
+copies of all written reports of tests, reports and inspections of the Premises
+made and conducted by Purchaser or Purchaser's Representatives or for
+Purchaser's benefit. In the event that the Closing hereunder shall not occur for
+any reason whatsoever, then, promptly following the termination hereof,
+Purchaser shall deliver to Seller, at no cost to Seller, the originals (or
+copies, if the originals are not in Purchaser's possession) of all written
+tests, reports and inspections of the Premises made and conducted by Purchaser
+or Purchaser's Representatives or for Purchaser's benefit which are in the
+possession or control of Purchaser or Purchaser's Representatives. Purchaser and
+Purchaser's Representatives shall not be permitted to conduct borings of the
+Premises or drilling in or on the Premises in connection with the preparation of
+any environmental audit or in connection with any other inspection of the
+Premises without the consent of Seller (which consent shall not be unreasonably
+withheld or delayed). The provisions of this SECTION 3(B) shall survive the
+Closing or any termination of this Agreement.
+
+         (c) Purchaser agrees to indemnify and hold Seller and its direct and
+indirect shareholders, officers, directors, partners, principals, members,
+employees, agents, contractors, and any successors or assigns of the foregoing
+(collectively with Seller, "SELLER RELATED PARTIES") harmless from and against
+any and all losses, costs, damages, liens, claims, liabilities or expenses
+(including, but not limited to, reasonable attorneys' fees, court costs and
+disbursements) incurred by any of Seller's Related Parties arising from or by
+reason of Purchaser's and/or Purchaser's Representatives' access to, or
+inspection of, the Premises, or any tests, inspections or other due diligence
+conducted in or about Premises pursuant to this Agreement. The provisions of
+this SECTION 3(C) shall survive the Closing or any termination of this
+Agreement.
+
+         (d) Purchaser shall maintain or cause to be maintained, at Purchaser's
+expense, a policy of commercial general liability coverage, with a broad form
+contractual liability endorsement covering Purchaser's indemnification
+obligations contained in Section 3(c) above, with a combined single limit of not
+less than $5,000,000 per occurrence for bodily injury and property damage
+insuring Purchaser, Seller and Seller Related Parties, as additional insureds
+against any injuries or damages to persons or property that may result
+
+
+                                      -6-
+<Page>
+
+from or are related to (i) Purchaser's or Purchaser's Representatives entry upon
+the Premises; (ii) any investigations or other activities conducted thereon, and
+(iii) any and all other activities undertaken by Purchaser or Purchaser's
+Representatives with respect to the Premises, all of which insurance shall be on
+an "occurrence form" and otherwise in such form and with an insurance company
+reasonably acceptable to Seller. Such insurance may be maintained under a
+blanket policy. Purchaser shall deliver a copy of the insurance certificate
+evidencing such insurance to Seller prior to Purchaser's entry on the Premises.
+
+4.       PURCHASE PRICE AND DEPOSIT.
+
+         The purchase price to be paid by Purchaser to Seller for the Property
+(the "PURCHASE PRICE") is Seven Hundred Fifty Three Million Dollars
+($753,000,000). The Purchase Price shall be allocated between: (a) Ground
+Leasehold - $463,852,685, (b) Building and Interior Improvements - $153,947,315
+and (c) FF&E - $135,200,000. The Purchase Price shall be payable as follows:
+
+                  (a) Simultaneously with the execution of this Agreement by
+Purchaser, Purchaser is delivering directly to Fried, Frank, Harris, Shriver &
+Jacobson, as escrow agent ("ESCROW AGENT") by wire transfer the amount of One
+Hundred Million Dollars ($100,000,000) (the "DEPOSIT"). The Deposit shall be
+held in an interest bearing escrow account by Escrow Agent in accordance with an
+escrow agreement between Seller, Purchaser and Escrow Agent, executed
+simultaneously herewith. The Deposit shall be delivered by Escrow Agent to
+Seller or Purchaser as hereinafter provided in this AGREEMENT and the Escrow
+Agreement. All references to this Agreement to the Deposit shall mean the
+Deposit and all interest accrued thereon.
+
+                  (b) At the Closing, Escrow Agent shall deliver the Deposit to
+Seller (it being understood that any interest on the Deposit shall not be
+credited to the Purchase Price) and Purchaser shall deliver the balance of the
+Purchase Price as follows:
+
+                           (i) $615,500,000, subject to adjustment as provided
+in ARTICLE 7 to Seller; and
+
+                           (ii) $37,500,000 to Escrow Agent, or such other party
+agreed to by the parties, as escrow agent, to be held and disbursed pursuant to
+the Agreement as to Post Closing Obligations, attached hereto as EXHIBIT 15 (the
+"POST CLOSING AGREEMENT").
+
+                  (c) All monies payable by Purchaser under this Agreement,
+unless otherwise specified in this Agreement, shall be paid by wire transfer of
+immediately available federal funds for credit to such bank account or accounts
+specified by Seller, and divided into such amounts as may be required to
+consummate the transactions contemplated by this Agreement.
+
+
+                                      -7-
+<Page>
+
+                  As used in this Agreement, the term "BUSINESS DAY" shall mean
+every day other than Saturdays, Sundays, all days observed by the federal or New
+York State government as legal holidays and all days on which commercial banks
+in New York State are required by law to be closed.
+
+                  (d) Except as otherwise specified in SECTIONS 6(B), 12(A)(II),
+13(A)(II) and 20(B) of this Agreement, the Deposit shall be non-refundable. The
+provisions of this SECTION 4(D) shall survive the termination of this Agreement.
+
+5.       STATUS OF THE TITLE.
+
+         All Personal Property to be conveyed by Seller hereunder shall be free
+of liens. Subject to the terms and provisions of this Agreement, Seller's
+interest in the Premises shall be sold, assigned and conveyed by Seller to
+Purchaser, and Purchaser shall accept same, subject only to the following
+(collectively, the "PERMITTED ENCUMBRANCES"):
+
+         (a) the state of facts disclosed on the survey prepared by Montrose
+Surveying Co., LLP, dated October 12, 2001 (the "DISCLOSED SURVEY ITEMS") and
+any further state of facts which are not Disclosed Survey Items as a current
+survey of the Premises or a personal inspection would disclose provided such
+facts would not (i) have a material adverse affect on the use of the Building
+for a commercial office building or (ii) make it impossible to comply, in whole
+or in part, with a requirement in the zoning applicable to the Building that
+requires a portion of the Building to be used for a particular purpose;
+
+         (b) the standard printed exclusions from coverage contained in the ALTA
+form of owners title policy currently in use in New York, with the standard New
+York endorsement, and the easements, conditions, restrictions, agreements,
+encumbrances and rights of others to, and matters relating to, party walls, as
+set forth on SCHEDULE B annexed hereto (collectively, the "APPROVED COMMITMENT
+ITEMS");
+
+         (c) Non-Objectionable Encumbrances (as hereinafter defined); and any
+liens, encumbrances or other title exceptions approved or waived by Purchaser as
+provided in SECTION 6;
+
+         (d) real estate taxes, sewer rents and taxes, water rates and charges,
+vault charges and taxes and business improvement district taxes and any other
+governmental taxes or charges levied or assessed against the Premises subject to
+apportionment in accordance with Section 7 hereof;
+
+         (e) any laws, rules, regulations, statutes, ordinances, orders, permits
+or other legal requirements affecting the Premises, including, without
+limitation, those relating to zoning and land use;
+
+
+                                      -8-
+<Page>
+
+         (f) recorded and unrecorded utility company rights, easements and
+franchises for electricity, water, steam, gas, telephone or other service or the
+right to use and maintain poles, lines, wires, cables, pipes, boxes and other
+fixtures and facilities in, over, under and upon the Premises, provided that, in
+the case of any of the foregoing items which shall not be of record, the same do
+not materially adversely affect the use or occupancy of the Premises as an
+office building;
+
+         (g) any installment not yet due and payable of assessments first
+imposed after the date hereof affecting the Premises or any portion thereof;
+
+         (h) all violations of laws, rules, regulations, statutes, ordinances,
+orders or other legal requirements affecting the Premises, now or hereafter
+issued or noted provided that Seller shall, post closing, pursuant to the
+Post-Closing Agreement, cure and remove of record any violations that exist of
+record as of the Closing Date; and
+
+         (i) obligations imposed under the Emergency Repairs provisions of the
+New York City Administrative Code.
+
+6.       TITLE INSURANCE; LIENS.
+
+         (a) Purchaser shall be required to purchase not less than twenty-five
+percent (25%) of the title insurance obtained by Purchaser in connection with
+its acquisition of the Premises from Title Associates, Inc., as agent for
+Chicago Title Insurance Company. Title to be conveyed hereunder shall be as set
+forth in the pro-forma policy attached hereto as SCHEDULE B (the "COMMITMENT")
+and subject to the terms of that certain agreement between the New York City
+Trust Authority, Rock-Forty-Ninth LLC and Seller dated October 18, 1999 (the
+"SUBWAY AGREEMENT") that has or is about to be recorded and that certain
+Termination of Agreement between the New York City Transit Authority,
+Rock-Forty-Ninth, Inc. and Rock-Forty-Ninth LLC, dated as of October 18, 1999
+that has or is about to be recorded. If the Subway Agreement has not been
+recorded as of the Closing Date, Seller shall deliver a recordable copy of same
+to the Company for recording. The Subway Agreement and all matters set forth in
+the Commitment shall constitute Permitted Encumbrances. Purchaser has engaged
+First American Title Insurance Company of New York to issue a portion of the
+title insurance with respect to the Premises and will direct same to furnish
+Seller with a copy of the commitment issued by it and copies of all updates or
+revisions to such commitment. Title Associates and First American Title
+Insurance Company of New York are hereinafter collectively referred to as the
+"COMPANY." Upon receipt of any further updates or revisions to the Commitment
+from the Company, Seller shall furnish copies thereof to Purchaser. Purchaser
+shall, on or before the Objection Date, furnish to Seller a written statement
+setting forth such exceptions to title appearing on such revisions or updates
+which were not set forth in the Commitment and which Purchaser claims are not
+Permitted Encumbrances (the "UPDATE OBJECTIONS"); it being agreed that Purchaser
+shall have no
+
+
+                                      -9-
+<Page>
+
+right to object to the Permitted Encumbrances. "OBJECTION DATE" means the
+Scheduled Closing Date; PROVIDED, that if Seller gives to Purchaser any such
+update or revision accompanied by a notice in bold capital letters stating in
+substance that Purchaser's failure to deliver a statement of Update Objections
+with respect to such update or revision within five (5) business days after the
+giving of such notice, then the Objection Date shall be such 5th business day.
+If Purchaser does not deliver such written statement by the Objection Date,
+Purchaser shall be deemed to have waived its right to object to such additional
+exceptions to title appearing on such revisions or updates (and the same shall
+not constitute Update Objections but shall be deemed Permitted Encumbrances).
+Purchaser shall not be entitled to object to, and shall be deemed to have
+approved, any liens, encumbrances or other title exceptions (and the same shall
+not constitute Update Objections but shall be deemed Permitted Encumbrances) (i)
+over which the Company is willing to insure or against which the Company is
+willing to provide affirmative insurance (in either case without additional cost
+to Purchaser); PROVIDED, the aggregate amount of Update Objections under this
+CLAUSE (I) does not exceed $5,000,000, or (ii) which will be extinguished upon
+the transfer of the Property (collectively the "NON-OBJECTIONABLE
+ENCUMBRANCES"). Notwithstanding anything to the contrary contained herein, if
+Seller is unable to eliminate the Update Objections by the Scheduled Closing
+Date, unless the same are waived by Purchaser without any abatement in the
+Purchase Price, Seller may, upon at least two (2) days' prior notice ("TITLE
+CURE NOTICE") to Purchaser (except with respect to matters first disclosed
+during the two (2) day period prior to the Scheduled Closing Date, as to which
+matters notice may be given at any time through and including the Scheduled
+Closing Date) adjourn the Scheduled Closing Date (the date to which Seller
+adjourns the Scheduled Closing Date is herein referred to as the "ADJOURNED
+CLOSING DATE"), for a period not to exceed ninety (90) days ("TITLE CURE
+PERIOD") in order to attempt to eliminate such exceptions.
+
+         (b) If Seller is unable to eliminate the Update Objections within the
+Title Cure Period, unless the same are unconditionally waived by Purchaser,
+then, Purchaser may (i) accept the Property subject to such Update Objections
+without abatement of the Purchase Price, in which event (x) such Update
+Objections shall be deemed to be, for all purposes, Permitted Encumbrances, (y)
+Purchaser shall close hereunder notwithstanding the existence of same, and (z)
+Seller shall have no obligations whatsoever after the Closing Date with respect
+to Seller's failure to cause such Update Objections to be eliminated, or (ii)
+terminate this Agreement by notice given to Seller within ten (10) business days
+following receipt of notice from Seller that it was unable to eliminate the
+Update Objections within the Title Cure Period, time being of the essence, in
+which event Purchaser shall be entitled to a return of the Deposit. If Purchaser
+shall fail to deliver the termination notice described in clause (ii) within the
+10 business day period described therein, time being of the essence, Purchaser
+shall be deemed to have made the election under CLAUSE (II) as of the last day
+of such 10 business day period. Upon the timely giving of any termination notice
+under clause (ii), or if Purchaser is deemed to have made such
+
+
+                                      -10-
+<Page>
+
+election as aforesaid, this Agreement shall terminate and neither party hereto
+shall have any further rights or obligations hereunder other than those which
+are expressly provided to survive the termination hereof.
+
+         (c) It is expressly understood that, except as provided in this CLAUSE
+(C), in no event shall Seller be required to bring any action or institute any
+proceeding, or to otherwise incur any costs or expenses in order to attempt to
+eliminate the Update Objections or to otherwise cause title in the Premises to
+be in accordance with the terms of this Agreement on the Closing Date.
+Notwithstanding the preceding sentence, Seller shall be obligated, at Closing,
+(i) to discharge or remove, of record, any mortgages or consensual liens created
+by Seller; (ii) to bond, discharge or otherwise satisfy any liens or cause the
+Company to insure over any liens (subject, in the case of liens that are insured
+over but not bonded to the $5,000,000 "cap" set forth in Section 6(a)(i) which
+are the result of work performed by Seller, or on its behalf, and which can be
+so bonded, discharged or otherwise satisfied solely by the payment of a
+liquidated sum and bond to the extent same are bondable or satisfy any judgments
+against Seller; and (iv) to discharge any restrictive covenants, declarations,
+easements or other similar instruments which are executed and acknowledged by
+Seller prior to the Closing Date and recorded against the Premises, which are
+not Permitted Encumbrances.
+
+         (d) If Seller shall have adjourned the Scheduled Closing Date in order
+to cure Update Objections in accordance with the provisions of this SECTION 6,
+Seller shall, upon the satisfactory cure thereof, promptly reschedule the
+Scheduled Closing Date, upon at least five (5) business days' prior notice to
+Purchaser (the "NEW CLOSING NOTICE"). If any matters which are Update Objections
+arise between the date the New Closing Notice is given and the rescheduled
+Scheduled Closing Date, Seller may again adjourn the Closing for a reasonable
+period or periods, in order to attempt to cause such exceptions to be eliminated
+by sending Purchaser a Title Cure Notice. Seller shall not be entitled to
+adjourn the Scheduled Closing Date pursuant to this SECTION 6 for a period or
+periods in excess of ninety (90) days in the aggregate.
+
+         (e) If the Commitment or any update or revision thereto discloses
+judgments, bankruptcies or other returns against other persons having names the
+same as, or similar to, that of Seller, Seller, upon request, shall deliver to
+the Company affidavits showing that such judgments, bankruptcies or other
+returns are not against Seller in order to induce the Company to omit exceptions
+with respect to such judgments, bankruptcies or other returns or to insure over
+same.
+
+
+                                      -11-
+<Page>
+
+7.       APPORTIONMENTS.
+
+         (a) The following shall be apportioned between Seller and Purchaser as
+of the close of business on the day immediately preceding the Closing Date (the
+"APPORTIONMENT DATE"):
+
+                           (i) all Fixed Annual Rent and Additional Rent payable
+                  under the Ground Lease provided that Seller shall be
+                  responsible for the payment of the "Start-Up Fee" described in
+                  Section 3.6.2 of the Ground Lease;
+
+                           (ii) real estate taxes, business improvement district
+                  charges, sewer rents and taxes, water rates and charges (to
+                  the extent not accounted for pursuant to CLAUSE (I) above and
+                  (III) below), vault charges and taxes, and any other
+                  governmental taxes or charges levied or assessed against the
+                  Premises (collectively, "PROPERTY TAXES"), on the basis of the
+                  respective periods for which each is assessed or imposed, to
+                  be apportioned in accordance with SECTION 7(C) hereof;
+
+                           (iii) water rates and charges and sewer rents and
+                  taxes (to the extent not accounted for pursuant to CLAUSE (I)
+                  above), if any, based on meter readings to be apportioned in
+                  accordance with SECTION 7(C) hereof;
+
+                           (iv) fuel, if any, as estimated by Seller's supplier
+                  not more than five (5) days prior to the Closing Date, at
+                  current cost, together with any sales taxes payable in
+                  connection therewith, if any (a letter from Seller's fuel
+                  supplier shall be conclusive evidence as to the quantity of
+                  fuel on hand and the current cost therefor);
+
+                           (v) prepaid fees for assignable licenses and other
+                  permits (other than construction permits for portions of the
+                  Project for which Seller is responsible under the Post-Closing
+                  Agreement) assigned to Purchaser at the Closing;
+
+                           (vi) any amounts prepaid or payable by Seller under
+                  the Assumed Contracts (as defined in SECTION 10(A)(II));
+
+                           (vii) amounts payable under the Management Agreement,
+                  including, without limitation, wages and fringe benefits
+                  (including, without limitation, vacation pay, sick days,
+                  health, welfare, pension and disability benefits) and other
+                  compensation payable to all personnel, if any, employed at the
+                  Building at Closing; and
+
+                           (viii) amounts required to be paid by the owner of
+                  the Premises under any instruments recorded against the
+                  Premises as shown on
+
+
+                                      -12-
+<Page>
+
+                  Schedule B except to the extent that such amounts are part of
+                  the work to be performed by Seller pursuant to the Post
+                  Closing Agreement.
+
+          (b) If there are water meters at the Premises, the unfixed water rates
+and charges and sewer rents and taxes covered by meters, if any, shall be
+apportioned (i) on the basis of an actual reading done within thirty (30) days
+prior to the Apportionment Date, or (ii) if such reading has not been made, on
+the basis of the last available reading. If the apportionment is not based on an
+actual current reading, then upon the taking of a subsequent actual reading,
+such apportionment shall be readjusted and Seller shall promptly deliver to
+Purchaser or Purchaser shall promptly deliver to Seller, as the case may be, the
+amount determined to be due upon such readjustment.
+
+         (c) Charges for all electricity, steam, gas and other utility services
+(collectively, "UTILITIES") shall be billed to Seller's account up to the
+Apportionment Date and, from and after the Apportionment Date, all utilities
+shall be billed to Purchaser's account. If for any reason such changeover in
+billing is not practicable as of the Closing Date, as to any Utility, such
+Utility shall be apportioned on the basis of actual current readings or, if such
+readings have not been made, on the basis of the most recent bills that are
+available. If any apportionment is not based on an actual current reading, then
+upon the taking of a subsequent actual reading, such apportionment shall be
+readjusted and Seller shall promptly deliver to Purchaser, or Purchaser shall
+promptly deliver to Seller, as the case may be, the amount determined to be due
+upon such adjustment.
+
+         (d) If the computation of the aforementioned apportionments shows that
+a net amount is owed by Seller to Purchaser, such amount shall be credited
+against the Purchase Price payable by Purchaser on the Closing Date. If such
+computation shows that a net amount is owed by Purchaser to Seller, such amount
+shall be added to the Purchase Price payable by Purchaser on the Closing Date.
+
+         (e) At or prior to the Closing, Seller and Purchaser and/or their
+respective agents or designees will jointly prepare a preliminary closing
+statement reasonably satisfactory to Seller and Purchaser in form and substance
+(the "PRELIMINARY CLOSING STATEMENT") which will show the net amount due either
+to Seller or to Purchaser as the result of the adjustments and prorations
+provided for herein, and such net due amount will be added to or subtracted from
+the Purchase Price to be paid to Seller at the Closing pursuant to SECTION 4
+hereof. Within sixty (60) days following the Closing Date, Seller and Purchaser
+and/or their respective agents or designees will jointly prepare a final closing
+statement reasonably satisfactory to Seller and Purchaser in form and substance
+(the "FINAL CLOSING STATEMENT") setting forth the final determination of the
+adjustments and prorations provided for herein and setting forth any items which
+are not capable of being determined at such time (and the manner in which such
+items shall be determined and paid). The net amount due Seller or Purchaser, if
+any, by reason of adjustments to the Preliminary Closing Statement as shown in
+the Final Closing Statement, shall be paid in
+
+
+                                      -13-
+<Page>
+
+cash by the party obligated therefor within ten (10) days following that party's
+receipt of the approved Final Closing Statement. The adjustments, prorations and
+determinations agreed to by Seller and Purchaser in the Final Closing Statement
+shall be conclusive and binding on the parties hereto except for any items which
+are not capable of being determined at the time the Final Closing Statement is
+agreed to by Seller and Purchaser, which items shall be determined and paid in
+the manner set forth in the Final Closing Statement and except for other amounts
+payable hereunder pursuant to provisions which survive the Closing (including,
+without limitation, tax refunds pursuant to SECTION 15). Prior to and following
+the Closing Date, each party shall provide the other with such information as
+the other shall reasonably request (including, without limitation, access to the
+books, records, files, ledgers, information and data with respect to the
+Property during normal business hours upon reasonable advance notice) in order
+to make the preliminary and final adjustments and prorations provided for
+herein.
+
+         (f) The provisions of this SECTION 7 shall survive the Closing.
+
+8.       PROPERTY NOT INCLUDED IN SALE.
+
+         Notwithstanding anything to the contrary contained herein, it is
+expressly agreed by the parties hereto that none of Seller's (a) proprietary
+technology and any intellectual property rights therein, proprietary signs and
+the proprietary content thereof or proprietary fixtures, (b) trademarks, service
+marks, logos, trade names and corporate names, (c) telephone numbers and
+Internet Protocol ("IP") addresses, (d) Extended Carrier Agreements and systems,
+(e) market data provider hardware and/or service contracts, (f) certain used
+furniture shown on the Plans as being relocated from other facilities of Seller
+(g) certain contracts that provide IT Equipment and services for the Building
+and other facilities of Seller as identified on Schedule O hereto (the "Global
+Contracts") (the items in clauses (a) through (g) are collectively, "EXCLUDED
+PERSONALTY"), shall be included in the Property to be sold to Purchaser
+hereunder. This SECTION 8 shall survive the Closing.
+
+9.       CERTAIN COVENANTS OF SELLER.
+
+         (a) During the period from the date hereof until the Closing Date:
+
+                  (i) Seller shall maintain in full force and effect the
+insurance policies, a schedule of which is attached hereto as SCHEDULE J,
+currently in effect with respect to the Premises;
+
+                  (ii) Seller shall not convey, or enter into any agreement to
+convey, any development rights, "air" rights or comparable rights appurtenant to
+the Premises;
+
+                  (iii) Seller shall not enter into any lease or other agreement
+for the occupancy of the Premises;
+
+
+                                      -14-
+<Page>
+
+                  (iv) Seller shall not amend or modify (other than non-material
+amendments or modifications) or renew any of the Assumed Contracts without
+Purchaser's consent; and
+
+                  (v) Seller shall not enter into any new contracts other than
+market rate contracts with entities not affiliated with Seller relating to the
+operation or maintenance of the Building, unless such contract may be terminated
+by the owner of the Premises without penalty on not more than thirty (30) days
+prior notice each of which shall be an Assumed Contract. Seller will provide
+Purchaser with copies of all such new contracts upon execution thereof. The
+foregoing shall not be deemed to preclude Seller from entering into new
+contracts for the completion of the Project as contemplated by ARTICLE 37 hereof
+provided that Purchaser shall have no obligation under such contract unless
+Purchaser has specifically consented thereto.
+
+         (b) Whenever in SECTION 9(A) hereof Seller is required to obtain
+Purchaser's approval or consent with respect to any transaction described
+therein, Purchaser shall, within three (3) business days after receipt of
+Seller's request therefore, together with a complete copy of all relevant
+documents, notify Seller of its approval or disapproval of same and, if
+Purchaser fails to notify Seller of its disapproval within said three (3)
+business day period, Purchaser shall in all events be deemed to have disapproved
+same.
+
+10.      ASSIGNMENTS BY SELLER AND ASSUMPTIONS
+         BY PURCHASER; EMPLOYEES.
+
+         (a) Effective as of the Closing Date, Seller agrees to assign to
+Purchaser, without recourse, representation or warranty (except as set forth
+herein), all of Seller's right, title and interest in, and Purchaser agrees to
+assume Seller's obligations accruing on and after the Closing Date, the
+documents described in clauses (i), (ii), (iii) and (iv) below:
+
+                  (i) the Ground Lease;
+
+                  (ii) the service, maintenance, supply and other agreements
+relating to the operation of the Premises, together with all modifications and
+amendments thereof and supplements relating thereto which are set forth on
+SCHEDULE C attached hereto and any other service, maintenance, supply and other
+agreements (or amendments or modifications) approved by Purchaser or otherwise
+permitted hereunder other than the Construction Contracts and the contracts to
+purchase the FF&E (the "FF&E CONTRACTS") and the Contracts to purchase the IT
+Equipment (the "IT CONTRACTS") (collectively, "ASSUMED CONTRACTS"), in each case
+to the extent then in effect;
+
+
+                                      -15-
+<Page>
+
+                  (iii) the transferable permits and licenses, if any, relating
+to the Premises and the other intangible personalty; and
+
+                  (iv) the Operative Documents.
+
+           (b) Purchaser agrees that, effective as of the date hereof, the
+employees as set forth on Schedule H hereto (it being understood that the list
+is of job descriptions and compensation, not individuals), are engaged in the
+operation, maintenance cleaning or security of the Building as employees of
+Rockefeller Center Management Corporation ("MANAGER"). Such employees and any
+additional personnel that may be hired by Manager in accordance with the
+Management Agreement shall be union employees who shall, as of the Closing Date,
+be offered the same employment by Manager under their then current employment
+contracts or agreements, including any collective bargaining agreements or other
+union contracts (the "EMPLOYMENT CONTRACTS"). Seller shall not consent to the
+hiring of additional employees prior to Closing without the consent of
+Purchaser, not to be unreasonably withheld, except to the extent Seller is
+required to do so under the Management Agreement. Purchaser acknowledges that in
+the event it (or Manager) either (i) terminates any of such union employees,
+(ii) terminates any cleaning contractor, security contractor or other service
+provider to the Premises employing union personnel or requires any such service
+provider to reduce their employees at the Premises and, as a result, any of the
+union employees engaged by such service provider are terminated (each of the
+events described in (i) and (ii), a "TERMINATION EVENT"), certain severance
+payments and other termination benefits (collectively, "TERMINATION PAYMENTS")
+may be payable with respect to such terminated employees. Purchaser agrees that
+it shall be liable for the payment of all such Termination Payments and hereby
+agrees to indemnify and hold harmless Seller and the other Seller Related
+Parties from and against any loss, cost, damage, liability or expense
+(including, without limitations, reasonable attorneys' fees, court costs and
+disbursements) incurred by Seller or any other Seller Related Party arising from
+or by reason of (1) the occurrence of a Termination Event, (2) Purchaser's
+failure to pay such Termination Payments as and when due and payable, (3)
+Purchaser's failure to comply with the preceding provisions of this SECTION
+10(C) or (4) Purchaser's failure to comply with the obligations under the
+Employment Contracts required to be performed by the owner of the Premises and
+which accrue from and after the Closing Date (it being agreed that the
+obligation to make Termination Payments shall be deemed an obligation which
+accrues after the Closing Date).
+
+         (c) The provisions of this SECTION 10 shall survive the Closing.
+
+11.      REPRESENTATIONS.
+
+         (a) Purchaser expressly acknowledges that, except as expressly set
+forth in this Agreement, neither Seller, nor any person acting on behalf of
+Seller, nor any person or entity which prepared or provided any of the materials
+reviewed by Purchaser in
+
+
+                                      -16-
+<Page>
+
+conducting its due diligence, nor any direct or indirect officer, director,
+partner, shareholder, employee, agent, representative, accountant, advisor,
+attorney, principal, affiliate, consultant, contractor, successor or assign of
+any of the foregoing parties (Seller, and all of the other parties described in
+the preceding portions of this sentence (other than Purchaser and any unrelated
+(to Seller) third parties to Agreements being assigned to Purchaser hereunder)
+shall be referred to herein collectively as the "EXCULPATED PARTIES") has made
+any oral or written representations or warranties, whether express or implied,
+by operation of law or otherwise, with respect to the design and construction of
+the Property, the zoning and other laws, regulations and rules applicable
+thereto or the compliance by the Property therewith, the revenues and expenses
+generated by or associated with the Property, or otherwise relating to the
+Property or the transactions contemplated herein. Purchaser further acknowledges
+that, except as specifically set forth in this Agreement, all materials which
+have been provided by any of the Exculpated Parties have been provided without
+any warranty or representation, expressed or implied as to their content,
+suitability for any purpose, accuracy, truthfulness or completeness and, except
+as specifically set forth in this Agreement, Purchaser shall not have any
+recourse against Seller or any of the other Exculpated Parties in the event of
+any errors therein or omissions therefrom. Without any disclaimer as to any
+representations made hereunder, Purchaser acknowledges that Purchaser has
+conducted its own independent investigations with respect to the Premises,
+including but not limited to environmental, structural, mechanical and
+architectural inspections, and is thoroughly acquainted with all matters related
+to the Premises. Without any disclaimer as to any representations made
+hereunder, Purchaser is acquiring the Property based solely on its own
+independent investigation and inspection of the Property and not in reliance on
+any information provided by Seller, or any of the other Exculpated Parties.
+
+         (b) Subject to Seller's obligations with respect to the Project as set
+forth in ARTICLE 37 hereof, Purchaser acknowledges and agrees that it is
+purchasing the Property based solely upon its inspection and investigations of
+the Property and that Purchaser is purchasing the Property "AS IS" and "WITH ALL
+FAULTS", based upon the condition of the Property as of the date of this
+Agreement, reasonable wear and tear and, subject to the provisions of SECTIONS
+12 and 13 of this Agreement, loss by condemnation or fire or other casualty
+excepted. The foregoing shall not be deemed to waive any rights to warranties or
+guaranties under the Construction Contracts assigned to Purchaser pursuant to
+the Post Closing Agreement. Purchaser acknowledges and agrees that its
+obligations under this Agreement shall not be subject to any financing
+contingency or other contingencies or satisfaction of conditions of any kind
+whatsoever and Purchaser shall have no right to terminate this Agreement or
+receive a return of the Deposit except as expressly provided for in SECTIONS
+6(B), 12(A)(II), 13(A)(II) and 20(B) of this Agreement.
+
+         (c) Seller hereby represents and warrants to Purchaser as of the date
+hereof as follows (each a "REPRESENTATION"):
+
+
+                                      -17-
+<Page>
+
+                  (i) Attached hereto as SCHEDULE C is a list of the Assumed
+Contracts in effect as of the date hereof which is true and complete in all
+material respects (taking into account the Project as a whole).
+
+                  (ii) Seller has made available to Purchaser for Purchaser's
+review all of the plans and specifications pursuant to which the Building is
+being constructed, a list of which plans and specifications which is true and
+complete in all material respects (taking into account the Project as a whole)
+dated as of October 3, 2001 is attached hereto as Schedule D (the "BUILDING
+PLANS"), it being acknowledged by Purchaser that the Building Plans may not
+reflect so-called "field changes" made in the ordinary course of construction of
+the Building.
+
+                  (iii) Seller has made available to Purchaser for Purchaser's
+review all of the plans and specifications pursuant to which the Interior
+Improvements are being constructed, a list of which plans and specifications
+which is true and complete in all material respects (taking into account the
+Project as a whole) as of October 12, 2001 is attached hereto as Schedule E (the
+"INTERIOR IMPROVEMENT PLANS"), it being acknowledged by Purchaser that the
+Interior Improvement Plans may not reflect so-called "field changes" made in the
+ordinary course of construction of the Building.
+
+                  (iv) Seller has made available to Purchaser for Purchaser's
+review all of the specifications for the FF&E installed or to be installed in
+the Building, a list of which specifications which is true and complete in all
+material respects (taking into account the Project as a whole) as of October 12,
+2001 is attached hereto as Schedule F (the "FF&E SPECIFICATIONS"), it being
+acknowledged by Purchaser that Seller may substitute items of comparable quality
+for items in the FF&E Specifications.
+
+                  (v) Seller has made available for Purchaser's review all of
+the specifications of the IT Equipment, a list of which specifications which is
+true and complete in all material respects (taking into account the Project as a
+whole) as of October 8, 2001 is attached hereto as Schedule K, it being
+acknowledged by Purchaser that Seller may substitute items of comparable quality
+for items constituting IT Equipment.
+
+                  (vi) Seller has made available for Purchaser's review all of
+the Specifications for Exteriors Signs to be installed on the exterior of the
+Building, a list of specifications which is true and complete in all material
+respects (taking into account the Project as a whole) as of September 15, 1999
+is attached hereto as Schedule L, it being acknowledged by Purchaser that Seller
+shall be entitled to modify the Exterior Signs and content thereof to remove any
+proprietary content, software or images of Seller and Seller Related Parties.
+
+
+                                      -18-
+<Page>
+
+                  (vii) There are no condemnation or eminent domain proceedings
+pending or, to Seller's knowledge, threatened, against the Premises.
+
+                  (viii) Seller has not granted to any other party any purchase
+option or right of first refusal with respect to the purchase of the Premises or
+any part thereof, any interest direct or indirect therein which remains in
+effect except for the Right of First Offer in Favor of Rock-Forty-Ninth LLC
+("LANDLORD") pursuant to Article 38 of the Ground Lease.
+
+                  (ix) There is no action, suit or proceeding pending or, to
+Seller's knowledge, threatened against or affecting the Premises, except as set
+forth on SCHEDULE I. In the event any such proceeding is initiated prior to
+Closing, Seller shall promptly advise Purchaser of same and shall defend or
+cause to be defended, without cost to Purchaser, and shall indemnify Purchaser
+from and against all loss, liability and expense including reasonable attorneys'
+fees and disbursements, incurred by Purchaser by reason of such action, suit or
+proceeding.
+
+                  (x) Seller has not entered into any lease, license or other
+agreement for the use or occupancy of the Premises or any portion thereof except
+as set forth in the Commitment, the Subway Agreement, the Operative Documents or
+as otherwise set forth in this Agreement.
+
+                  (xi) Seller has delivered to Purchaser a true and complete
+copy of the Ground Lease. The Ground Lease is in full force and effect, all
+Fixed Annual Rent and Additional Rent due and payable under the Ground Lease
+have been paid, and no notice of default has been given by the Landlord
+thereunder which remains uncured.
+
+                  (xii) Seller has delivered to Purchaser true and complete
+copies of the Management Agreement, Plaza Agreement, Publicity Agreement, Rental
+Agency Agreement, the Letter Agreement and the Subway Agreement. To the best of
+Seller's knowledge, such documents are in full force and effect, Seller has not
+given any notices to the parties thereto of a default thereunder and no notice
+of material default by Seller has been given to Seller by the parties under such
+agreements which remains uncured.
+
+                  (xiii) The JV Option Agreement and the Option to Lease Space
+Agreement are in full force and effect, Seller has not given any notice of
+default to the "Land Owner" and no notice of default has been given by the "Land
+Owner" under either such agreement which remains uncured and no notice has been
+given under either such agreement of the exercise of any option granted
+thereunder.
+
+Any and all uses of the phrase, "to the best of the Seller's knowledge" or other
+references to Seller's knowledge in this Agreement shall mean the actual,
+present, conscious knowledge of David Arena, Nan Molofsky and John Pierce,
+representatives of Seller (the
+
+
+                                      -19-
+<Page>
+
+"SELLER KNOWLEDGE INDIVIDUALS"), as to a fact at the time given without
+investigation or inquiry. Neither the actual, present, conscious knowledge of
+any other individual or entity, nor the constructive knowledge of the Seller
+Knowledge Individuals or of any other individual or entity, shall be imputed to
+the Seller Knowledge Individuals.
+
+         The representations and warranties of Seller contained in this Section
+11(c) shall survive the Closing for two hundred seventy (270) days following the
+Closing Date. Each such representation and warranty shall automatically be null
+and void and of no further force and effect on the 270th day following the
+Closing Date unless, prior to such 270th day, Purchaser shall have delivered a
+written notice to Seller alleging that Seller shall be in breach of such
+representation or warranty, that Purchaser did not have actual knowledge of such
+breach on or prior to the Closing Date and that Purchaser shall have suffered
+actual damages as a result thereof (a "REP CLAIM"). Notwithstanding anything to
+the contrary contained herein, in no event shall Purchaser be entitled to make a
+Rep Claim (or prosecute a proceeding) unless the aggregate amount of all Rep
+Claims exceeds $500,000 in the aggregate. If a Rep Claim shall timely be made by
+Purchaser as aforesaid and shall not be resolved by the parties by the 180th day
+following the date Purchaser gave Seller notice of the Rep Claim (each, an
+"OUTSIDE DATE"), then each such representation and warranty as to which such Rep
+Claim shall have been made shall automatically be null and void and of no
+further force or effect on the applicable Outside Date unless, prior to such
+Outside Date, Purchaser shall have commenced a legal proceeding against Seller
+making the same allegations as are set forth in such Rep Claim (a "PROCEEDING").
+If Purchaser shall have timely commenced a Proceeding and a court of competent
+jurisdiction shall, pursuant to a final, non-appealable order in connection with
+such Proceeding, determine that (1) Seller was in breach of any of the
+applicable representation or warranty as of the date of this Agreement and (2)
+Purchaser suffered actual damages (the "DAMAGES") by reason of such breach and
+(3) Purchaser did not have actual knowledge or constructive knowledge of such
+breach on or prior to the Closing Date then, Purchaser shall be entitled to
+receive an amount equal to the Damages; provided, that, in no event shall
+Purchaser be entitled to consequential or punitive damages. Any such Damages
+shall be refunded within thirty (30) days following the entry of such final,
+non-appealable order and delivery of a copy thereof to Seller. Purchaser
+acknowledges and agrees that, in the event that Seller shall be in breach of any
+of the Representations, Purchaser shall have no recourse to the property or
+other assets of Seller or any of the other Exculpated Parties (excluding the
+proceeds), and Purchaser's sole remedy, in such event, shall be to receive a
+refund from the net sales proceeds received by Seller from Purchaser at the
+Closing in the amount of the Damages.
+
+         (d) The foregoing right of Purchaser to pursue a Rep Claim shall be
+null and void to the extent that Seller or Seller Related Parties have delivered
+or made available to Purchaser any leases, contracts or other information with
+respect to the Property at any time prior to the Closing Date, such leases,
+contracts or other information contain
+
+
+                                      -20-
+<Page>
+
+provisions that disclose that any of the Representations are untrue and
+Purchaser had actual knowledge of such provisions; it being agreed that any such
+Representations shall be deemed modified to conform to such provisions, and to
+the extent that any information provided to Purchaser or acquired by it is
+information which is available to or provided by Seller or Seller Related
+Parties, such information discloses that any of the Representations herein are
+untrue and Purchaser has actual knowledge of such information, such
+representations shall be modified to conform to such information.
+
+         (e) The provisions of SECTIONS 11(A), (B), (C), AND (D) shall survive
+the Closing but such survival shall be limited, in the case of the
+representations and warranties set forth in SECTION 11(C), to the extent set
+forth therein.
+
+12.      DAMAGE AND DESTRUCTION.
+
+         (a) If all or any part of the Building is damaged by fire or other
+casualty occurring following the date hereof and prior to the Closing Date,
+whether or not such damage affects a material part of the Building, then:
+
+                  (i) if the estimated cost of repair or restoration is less
+than or equal to $75,000,000 and if the estimated time to complete such repair
+or restoration is six (6) months or less, then (1) neither party shall have the
+right to terminate this Agreement and the parties shall nonetheless consummate
+this transaction in accordance with this Agreement, without any abatement of the
+Purchase Price or any liability or obligation on the part of Seller by reason of
+said destruction or damage, and (2) all of the casualty (and other) insurance
+proceeds received under the casualty (and other) insurance policies in effect
+covering physical damage or destruction of the Building shall be used for the
+restoration and repair of the Building; it being agreed that Seller shall be
+responsible to restore the work covered by the Building Plans and Purchaser
+shall be responsible to restore the work covered by the Interior Improvement
+Plans, the FF&E Specifications and the IT Specifications.
+
+                  (ii) if the estimated cost of repair or restoration exceeds
+$75,000,000 or if the estimated time to complete such repair or restoration
+exceeds six (6) months, Purchaser shall have the option, exercisable within ten
+(10) days after receipt of the estimates referred to in Section 12(b) (or, if
+later, the determination of the arbitrator under Section 12(c)), time being of
+the essence, to terminate this Agreement by delivering notice thereof to Seller,
+whereupon the Deposit shall be returned to Purchaser and this Agreement shall be
+deemed canceled and of no further force or effect, and neither party shall have
+any further rights or liabilities against or to the other except for such
+provisions which are expressly provided in this Agreement to survive the
+termination hereof. If a fire or other casualty described in this CLAUSE (II)
+shall occur and Purchaser shall not timely elect to terminate this Agreement,
+then (1) Purchaser and Seller shall consummate this transaction in accordance
+with this Agreement, without any abatement of the
+
+
+                                      -21-
+<Page>
+
+Purchase Price or any liability or obligation on the part of Seller by reason of
+said destruction or damage, and (2) all of the casualty (and other) insurance
+proceeds received under the casualty (and other) insurance policies in effect
+covering physical damage or destruction of the Building shall be used for the
+restoration and repair of the Building; it being agreed that Seller shall be
+responsible to restore the work covered by the Building Plans and Purchaser
+shall be responsible to restore the work covered by the Interior Improvement
+Plans, the FF&E Specifications and the IT Specifications.
+
+         (b) The estimated cost to repair and/or restore and the estimated time
+to complete contemplated in SUBSECTION (A) above, the amount of insurance
+proceeds allocable for the restoration of the work covered by the Building
+Plans, Interior Improvement Plans, FF&E Specifications and IT Specifications and
+an equitable allocation of any shortfall between the insurance proceeds and the
+cost to restore the work covered by the Base Building Plans and Interior
+Improvement Plans, shall be established by estimates obtained by Seller from
+independent contractors, subject to Purchaser's review and reasonable approval
+of the same and the provisions of SECTION 12(C) below.
+
+         (c) The provisions of this SECTION 12 supersede the provisions of
+Section 5-1311 of the General Obligations Law of the State of New York. Any
+disputes under this SECTION 12 as to the cost of repair or restoration or the
+time for completion of such repair or restoration shall be resolved by expedited
+arbitration before a single arbitrator acceptable to both Seller and Purchaser
+in their reasonable judgment in accordance with the rules of the American
+Arbitration Association ("AAA"); provided that if Seller and Purchaser fail to
+agree on an arbitrator within five days after a dispute arises, then either
+party may request the Real Estate Board of New York, Inc. ("REBNY"), to
+designate an arbitrator. Such arbitrator shall be an independent architect or
+engineer having at least ten (10) years of experience in the construction of
+first-class office buildings in Manhattan. The determination of the arbitrator
+shall be conclusive and binding upon the parties. The costs and expenses of such
+Arbitrator shall be borne equally by Seller and Purchaser.
+
+13.      CONDEMNATION.
+
+         (a) If, prior to the Closing Date, any part of the Premises is taken
+(other than a temporary taking), or if Seller shall receive an official notice
+from any governmental authority having eminent domain power over the Premises of
+its intention to take, by eminent domain proceeding, any part of the Premises (a
+"TAKING"), then:
+
+                  (i) if such Taking involves less than or equal to twenty
+percent (20%) of the rentable area of the Building as determined by an
+independent architect chosen by Seller (subject to Purchaser's review and
+reasonable approval of such determination and the provisions of SECTION 13(B)
+below), then (1) neither party shall have any right to terminate this Agreement,
+and the parties shall nonetheless consummate this transaction
+
+
+                                      -22-
+<Page>
+
+in accordance with this Agreement, without any abatement of the Purchase Price
+or any liability or obligation on the part of Seller by reason of such Taking,
+provided, however, that Seller shall, on the Closing Date, assign and remit to
+Purchaser and Purchaser shall be entitled to receive and keep the net proceeds
+of any condemnation award or other proceeds of such Taking and applicable to the
+Premises (less all reasonable expenses incurred by Seller in connection with
+such Taking) or (2) if no award or other proceeds shall have been collected,
+deliver to Purchaser an assignment of Seller's right to such award or other
+proceeds which may be payable to Seller as a result of such Taking and Purchaser
+shall reimburse Seller for the reasonable expenses incurred by Seller in
+connection with such Taking.
+
+                  (ii) if such Taking involves more than twenty percent (20%) of
+the rentable area of the Building as determined by an independent architect
+chosen by Seller (subject to Purchaser's review and reasonable approval of such
+determination and the provisions of SECTION 13(B) below), Purchaser shall have
+the option, exercisable within twenty (20) business days after receipt of notice
+of such Taking, time being of the essence, to terminate this Agreement by
+delivering notice thereof to Seller, whereupon the Deposit (together with any
+interest earned thereon) shall be returned to Purchaser and this Agreement shall
+be deemed canceled and of no further force or effect, and neither party shall
+have any further rights or liabilities against or to the other except pursuant
+to the provisions of this Agreement which are expressly provided to survive the
+termination hereof. If a Taking described in this CLAUSE (II) shall occur and
+Purchaser shall not timely elect to terminate this Agreement, then (1) Purchaser
+and Seller shall consummate this transaction in accordance with this Agreement,
+without any abatement of the Purchase Price or any liability or obligation on
+the part of Seller by reason of such Taking, assign and remit to Purchaser and
+Purchaser shall be entitled to receive and keep the proceeds of any condemnation
+award or other proceeds of such Taking and applicable to the Premises (less all
+reasonable expenses incurred by Seller in connection with such Taking) or (2) if
+no award or other proceeds shall have been collected, deliver to Purchaser an
+assignment of Seller's right to such award or other proceeds which may be
+payable to Seller as a result of such Taking and Purchaser shall, within 30 days
+after the receipt of such award or proceeds, reimburse Seller for the reasonable
+expenses incurred by Seller in connection with such Taking.
+
+         (b) The provisions of this SECTION 13 supersede the provisions of
+Section 5-1311 of the General Obligations Law of the State of New York. Any
+disputes under this SECTION 13 as to whether the Taking involves more than
+twenty percent (20%) of the rentable area of the Building shall be resolved by
+expedited arbitration before a single arbitrator acceptable to both Seller and
+Purchaser in their reasonable judgment in accordance with the rules of the AAA;
+provided that if Seller and Purchaser fail to agree on an arbitrator within five
+days after a dispute arises, then either party may request the REBNY designate
+an arbitrator. Such arbitrator shall be an independent architect having
+
+
+                                      -23-
+<Page>
+
+at least ten (10) years of experience in the construction of first-class office
+buildings in Manhattan. The costs and expenses of such Arbitrator shall be borne
+equally by Seller and Purchaser.
+
+14.      BROKERS AND ADVISORS.
+
+         (a) Purchaser represents and warrants to Seller that it has not dealt
+or negotiated with, or engaged on its own behalf or for its benefit, any broker,
+finder, consultant, advisor, or professional in the capacity of a broker or
+finder (each a "BROKER") in connection with this Agreement or the transactions
+contemplated hereby. Purchaser hereby agrees to indemnify, defend and hold
+Seller and the other Seller Related Parties harmless from and against any and
+all claims, demands, causes of action, losses, costs and expenses (including
+reasonable attorneys' fees, court costs and disbursements) arising from any
+claim for commission, fees or other compensation or reimbursement for expenses
+made by any Broker engaged by or claiming to have dealt with Purchaser in
+connection with this Agreement or the transactions contemplated hereby.
+
+         (b) Seller represents and warrants to Purchaser that it has not dealt
+or negotiated with, or engaged on its own behalf or for its benefit, any Broker
+in connection with this Agreement or the transactions contemplated hereby.
+Seller hereby agrees to indemnify, defend and hold Purchaser and its direct and
+indirect shareholders, officers, directors, partners, principals, members,
+employees, agents, contractors and any successors or assigns of the foregoing,
+harmless from and against any and all claims, demands, causes of action, losses,
+costs and expenses (including reasonable attorneys' fees, court costs and
+disbursements) arising from any claim for commission, fees or other compensation
+or reimbursement for expenses made by or any Broker engaged by or claiming to
+have dealt with Seller in connection with this Agreement or the transactions
+contemplated hereby.
+
+         (c) The provisions of this SECTION 14 shall survive the termination of
+this Agreement or the Closing.
+
+15.      TAX REDUCTION PROCEEDINGS.
+
+         Seller has settled its appeal for the reduction of the assessed
+valuation of the Premises for real estate taxes for the New York City fiscal
+year July 1, 2001 to June 30, 2002 (the "2001/2002 TAX YEAR"). The amount of any
+tax refunds (net of attorneys' fees and other costs of obtaining such tax
+refunds) with respect to any portion of the Premises shall be apportioned
+between Seller and Purchaser as of the Apportionment Date and the party
+receiving such refund from the taxing authority shall pay to the other party any
+amount thereof which the other party is entitled to receive within ten (10)
+business days following receipt of the funds resulting from such refund. If, in
+lieu of a tax refund, a tax credit is received with respect to any portion of
+the Premises for the tax year in which the
+
+
+                                      -24-
+<Page>
+
+Apportionment Date occurs, then (x) within thirty (30) days after receipt by
+Seller or Purchaser, as the case may be, of evidence of the actual amount of
+such tax credit (net of attorneys' fees and other costs of obtaining such tax
+credit), the tax credit apportionment shall be recalculated between Seller and
+Purchaser, and (y) within ten (10) business days following realization by
+Purchaser of a tax savings on account of such credit, Purchaser shall pay to
+Seller an amount equal to the savings realized (as apportioned). All refunds,
+credits or other benefits applicable to any fiscal period prior to the Tax Year
+during which the Closing Date shall occur shall belong solely to Seller (and
+Purchaser shall have no interest therein) and, if the same shall be paid to
+Purchaser or anyone acting on behalf of Purchaser, same shall be paid to Seller
+within five (5) business days following receipt thereof and, if not timely paid,
+with interest thereon from the fifth business day following such receipt until
+paid to Seller at a rate equal to the prime rate of interest announced by
+Citibank, N.A. from time to time plus three percent (3%). At Closing, Seller
+shall deliver a letter from the law firm representing Seller in the tax appeal
+which letter shall set forth the fee arrangement between Seller and such counsel
+or the tax appeal for the 2001/2002 Tax Year and the status of the tax appeal
+proceedings affecting the Premises (the "TAX COUNSEL LETTER"). The provisions of
+this SECTION 15 shall survive the Closing.
+
+16.      TRANSFER TAXES, RECORDING CHARGES AND SALES TAXES.
+
+         (a) At the Closing, Seller and Purchaser shall execute, acknowledge,
+deliver and file all such returns as may be necessary to comply with Article 31
+of the Tax Law of the State of New York and the regulations applicable thereto,
+as the same may be amended from time to time (the "RET") and the New York City
+Real Property Transfer Tax (Admin. Code Article 21) and the regulations
+applicable thereto, as the same may be amended from time to time (the "RPT"). On
+the Closing Date, Seller shall pay 48.67% and Purchaser shall pay 51.33% (the
+"Percentage Share") of the amounts payable under the RET and RPT, if any.
+Purchaser and Seller agree that to the extent there are any refunds or a
+shortfall of RET and RPT taxes paid, Purchaser and Seller shall each be entitled
+to receive or obligated to pay, as appropriate, their Percentage Share of such
+amounts. Notwithstanding the foregoing, Purchaser shall be obligated to pay the
+RET and RPT taxes attributable to the RET and RPT taxes paid by Purchaser on
+Seller's behalf.
+
+         (b) Notwithstanding anything to the contrary contained herein, upon
+written request of Seller at least one (1) business days prior to the Closing
+Date, Purchaser shall either (i) bring to the Closing separate certified or bank
+checks in the amount of the taxes due with respect to the RET and the RPT, if
+any, or (ii) on the Closing Date, wire transfer to the Company such amount (with
+the Company agreeing in writing to make payment thereof directly to the
+appropriate governmental authorities).
+
+         (c) Purchaser shall be liable for the payment of all fees, expenses,
+recording charges and taxes in connection with the conveyance of the Property to
+Purchaser
+
+
+                                      -25-
+<Page>
+
+(including, without limitation, the cost of all title related expenses and title
+insurance purchased by Purchaser in connection with the Closing).
+
+         (d) Seller and Purchaser agree to cooperate reasonably with one another
+to minimize the amount of RET and RPT payable in connection with this
+transaction.
+
+         (e) Purchaser shall pay all sales and use taxes, if any, in connection
+with the transfer of the Property to Purchaser. Purchaser and Seller shall
+reasonably cooperate with one another to minimize the amount of such sales and
+use tax payable in connection with this transaction.
+
+         (f) By reason of arrangements with the New York City Industrial
+Development Agency, dated as of November 1, 2000, certain purchases of materials
+and equipment incorporated into or located with the Building were exempt from
+New York State and New York City sales and use taxes. The estimated amount of
+such exempted taxes is $18,000,000. Purchaser believes that, as a result of the
+sale of the Property, repayment may be made of such taxes, together with
+interest thereon, and any penalties that may be assessed by the taxing
+authorities. In the event Seller repays all or any portion of such taxes,
+interest and penalties, Purchaser shall reimburse Seller for fifty percent (50%)
+of such amount so paid within fifteen (15) days of receipt of evidence of such
+payments, provided that Purchaser's obligation shall not exceed $9,000,000. The
+parties agree to cooperate with each other to minimize the amount of the
+recapture obligations.
+
+         (g) The provisions of this SECTION 16 shall survive the Closing.
+
+17.      CONDITIONS OF CLOSING; DELIVERIES TO BE MADE ON THE CLOSING DATE.
+
+         (a) It shall be a condition precedent to Seller's obligation to close
+hereunder that Seller shall have received a release from the Landlord of all
+obligations of Seller under the Ground Lease and of Seller and MS under the
+Existing Guaranty and the other Operative Documents accruing from and after the
+Closing Date in form acceptable to Seller. It shall be a condition precedent of
+Seller's and Purchaser's obligation to close hereunder that Seller shall have
+received a written waiver of Landlord's ROFO or, in lieu thereof, the
+Negotiation Period shall have expired without, (x) Landlord and Seller having
+entered into a Purchase and Sale Agreement and (y) Seller having received the
+certification (the "CERTIFICATION") from Landlord contemplated by Section 38.1.6
+of the Ground Lease confirming that except as otherwise provided in Section
+3.8.2 and the terms of Section 38.17 of the Ground Lease the Landlord has no
+further rights to purchase the Property.
+
+         (b) SELLER'S DOCUMENTS AND DELIVERIES: On the Closing Date, Seller
+shall deliver or cause to be delivered to Purchaser the following:
+
+
+                                      -26-
+<Page>
+
+                  (i) A duly executed and acknowledged Bargain and Sale Deed
+Without Covenant Against Grantor's Acts with respect to the Building and
+Interior Improvements in the form attached hereto as EXHIBIT 1;
+
+                  (ii) A duly executed Bill of Sale in the form attached hereto
+as EXHIBIT 3;
+
+                  (iii) Originals, if available, or true and complete copies of
+the Assumed Contracts;
+
+                  (iv) A duly executed certification as to Seller's nonforeign
+status as prescribed in SECTION 21 hereof, if appropriate, in the form attached
+hereto as EXHIBIT 4;
+
+                  (v) an assignment of all of Seller's rights under (A) the
+Pledge of RFN's and RP's respective interests in Landlord and (B) the Agreement
+and Acknowledgement of Pledge, dated November 19, 1998, acknowledging the
+pledges of RFN and RP of their membership interests in Landlord together with
+appropriate UCC transfer instruments to be filed in the appropriate governmental
+offices.
+
+                  (vi) Originals if available, or true and complete copies of
+all licenses, certificates and permits then in effect with respect to the
+operation of the Premises;
+
+                  (vii) The Plans;
+
+                  (viii) Good standing Certificate for Seller issued by the
+State of Delaware, evidence of Seller's authority to do business in the State of
+New York, an incumbency certificate and a resolution of Seller authorizing the
+transactions contemplated hereby;
+
+                  (ix) A certification stating that the representations and
+warranties made by Seller in SECTION 11(C) hereof remain true and correct in all
+material respects as if made on the Closing Date (or, if not the case,
+describing in reasonable detail, any changes thereto, provided that such changes
+do not have a material adverse affect on Purchaser's ability to use the Project
+for its intended purpose or a material adverse affect on the value of the
+Project, in each case taking into account any ongoing obligations of Seller
+which, upon performance of such obligations, will eliminate such material
+adverse effect);
+
+                  (x) An assignment of the Letter Agreement;
+
+                  (xi) The jointly executed documents referenced in SECTION
+17(D);
+
+                  (xii) An Estoppel Certificate from the Landlord in the form
+provided in Section 26.1 of the Ground Lease (subject to (a) non-material
+modifications thereof, (b) Landlord noting as defaults by Seller any matters
+which Seller is obligated to discharge hereunder or otherwise agrees to
+discharge, and (c) modifications thereof to conform the same to other
+information previously delivered to Purchaser or made available for its
+
+
+                                      -27-
+<Page>
+
+review) or, if an Estoppel Certificate from Landlord is not delivered by Seller,
+a indemnity from Seller in favor of Purchaser and LHI from any loss, liability
+cost, damage or expense under the Ground Lease or Guaranty arising prior to the
+date of Closing. Seller's obligation to indemnify under this section shall be
+guaranteed by MSDW at Closing. Notwithstanding the foregoing, if following
+Closing Seller is able to obtain an Estoppel Certificate from Landlord, Seller
+shall be entitled to substitute the Estoppel Certificate and receive a release
+of its indemnity and the guaranty thereof by MSDW;
+
+                  (xiii) An estoppel certificate from the New York City Transit
+Authority, to the extent contemplated by the Subway Agreement, provided however
+that Seller's failure to deliver such certificate shall not be a breach of this
+Agreement, or a failure of a condition to close and Purchaser shall be obligated
+to close hereunder notwithstanding the non-delivery of such an estoppel
+certificate.
+
+                  (xiv) The Tax Counsel Letter;
+
+                  (xv) All keys or combinations for the Property, to the extent
+in Seller's possession and control;
+
+                  (xvi) A title affidavit in customary and reasonable form,
+provided that such title affidavit shall not increase or modify any
+representations made by Seller hereunder;
+
+                  (xvii) At Closing, Purchaser shall receive a credit against
+the Purchaser Price in the amount, as reasonably estimated by Seller, of the
+aggregate costs that Seller estimates will be required to complete Seller's
+original scope of work contemplated by the work to be performed by consultants
+and service providers listed on Schedule O annexed hereto with respect to the
+post-Closing installation (through user acceptance testing) of all IT Equipment,
+including without limitation such installation of the IT Equipment described in
+Schedule K annexed hereto. If Purchaser disputes the amount of this credit at
+Closing, Purchaser shall receive at Closing the proposed amount and the
+appropriate amount of the credit shall be determined by arbitration pursuant to
+the arbitration provisions in the Post-Closing Agreement.
+
+                  (xviii) To the extent that Landlord is unwilling to eliminate
+from the Substitute Guaranty (x) the obligation to pay the Start Up Fee, (y) the
+obligations of Seller under the Development Agreement and (y) the obligations of
+tenant under the Ground Lease for matters arising prior to the Closing Date,
+Seller shall deliver an indemnity of MSDW from any loss, liability, cost, damage
+or expense incurred by Purchaser arising out of Seller's failure to pay the
+Start Up Fee, perform its obligations under the Ground Lease or other agreements
+covered by such guaranty prior to the Closing Date or perform its obligations
+under the Development Agreement; and
+
+
+
+                                      -28-
+<Page>
+
+                  (xix) title to the IT Equipment.
+
+         (c) PURCHASER'S DOCUMENTS AND DELIVERIES: On the Closing Date,
+Purchaser, shall deliver or cause to be delivered to Seller or Landlord, as
+indicated below, the following:
+
+                  (i) payment of the balance of the Purchase Price payable at
+the Closing, in the manner required under this Agreement;
+
+                  (ii) the jointly executed documents referenced in Section
+17(d);
+
+                  (iii) delivery to Landlord of a guaranty of payment and
+performance in the form required by Section 22.4.2.2 of the Ground Lease from
+Lehman Brothers Holding Inc. ("LHI"), or if LHI does not meet the credit rating
+requirements set forth below, another entity rated A by Standard & Poors or A2
+by Moody's sufficient to obtain the release of Seller and Morgan Stanley Dean
+Witter & Co. ("MSDW") from any further obligations under the Ground Lease or the
+Guaranty of even date therewith (the "EXISTING GUARANTY") executed by MS in
+favor of Landlord;
+
+                  (iv) an indemnity from LHI in favor of MSDW, Seller and
+all Seller Related Parties from any loss, liability, cost, damage, or expense,
+under the Ground Lease or the Guaranty arising from after the date of Closing;
+
+                  (v) a certification executed by Purchaser stating that
+representations and warranties made by Purchaser in SECTION 36 hereof remain
+true and correct in all material respect as of the Closing Date as are being
+made by Purchaser in SECTION 36 hereof;
+
+                  (vi) Resolution of Purchaser authorizing the transactions
+contemplated hereby, a copy of a good standing certificate for Purchaser issued
+by the State of Delaware, evidence of Purchaser's authority to do business in
+the State of New York and an incumbency certificate by Purchaser.
+
+         (d) JOINTLY EXECUTED DOCUMENTS: Seller and Purchaser shall, on the
+Closing Date, each execute, acknowledge (as appropriate) and exchange the
+following documents:
+
+                  (i) The returns required under the RET, the RPT and any other
+tax laws applicable to the transactions contemplated herein;
+
+                  (ii) An Assignment and Assumption of Ground Lease in the form
+attached hereto as EXHIBIT 2;
+
+                  (iii) An Assignment and Assumption of JV Option Agreement in
+the form attached hereto as EXHIBIT 5;
+
+
+                                      -29-
+<Page>
+
+                  (iv) An Assignment and Assumption of Option to Lease Space
+Agreement in the form attached hereto as EXHIBIT 6 (it being understood that
+Seller shall cause MS to execute, acknowledge and deliver such Assignment and
+Assumption as an additional assignor thereunder);
+
+                  (v) An Assignment and Assumption of the Assumed Contracts in
+the form attached hereto as EXHIBIT 7;
+
+
+                  (vi) A General Assignment and Assumption Agreement in the form
+attached hereto as EXHIBIT 8;
+
+                  (vii) An Assignment and Assumption of the Management Agreement
+in the form attached hereto as EXHIBIT 11;
+
+                  (viii) An Assignment and Assumption of the Plaza Agreement in
+the form attached hereto as EXHIBIT 12;
+
+                  (ix) An Assignment and Assumption of the Publicity Agreement
+in the form attached hereto as EXHIBIT 13;
+
+                  (x) An Assignment and Assumption of the Rental Agency
+Agreement in the form attached hereto as EXHIBIT 14;
+
+                  (xi) The Agreement - Post Closing Obligations in the form
+attached hereto as EXHIBIT 15 and the escrow agreement and all other documents
+contemplated thereunder; and
+
+                  (xii) Any other affidavit, document or instrument required to
+be delivered by Seller or Purchaser on the Closing Date pursuant to the terms of
+this Agreement.
+
+18.      CLOSING DATE
+
+         The closing (the "CLOSING") of the transactions contemplated hereunder
+shall occur at 10:00 a.m. on November 13, 2001 (such date, or the date Seller
+sets for the Closing if Seller shall elect to extend this date pursuant to
+SECTION 6 hereof, is herein referred to as the "SCHEDULED CLOSING DATE"; the
+actual date of the Closing is herein referred to as the "CLOSING DATE"), at the
+offices of Sellers' attorneys, Fried, Frank, Harris, Shriver & Jacobson, One New
+York Plaza, New York, New York 10004. Time is of the essence as to Purchaser's
+obligation to close the transactions contemplated hereunder on the Scheduled
+Closing Date. Notwithstanding the foregoing, Purchaser shall have a one time
+right on written notice, to adjourn the Scheduled Closing Date for up to three
+(3) business days (the "LATER CLOSING DATE"), time being of the essence for
+Purchaser to close the transaction on the Later Closing Date.
+
+
+                                      -30-
+<Page>
+
+19.      NOTICES.
+
+         All notices, demands, requests or other communications (collectively,
+"NOTICES") required to be given or which may be given hereunder shall be in
+writing and shall be sent by (a) national overnight delivery service, or (b)
+personal delivery, addressed as follows:
+
+         (i)      If to Seller:
+
+                                    Morgan Stanley & Co. Incorporated
+                                    1633 Broadway
+                                    New York, New York  10019
+                                    Attention:  David Arena, Managing Director
+
+                                    with a copy to:
+                                    Morgan Stanley & Co. Incorporated
+                                    1633 Broadway
+                                    New York, New York  10019
+                                    Attention:  Nan Molofsky
+                                                Executive Director
+
+                                    and a copy to:
+
+                                    Fried, Frank, Harris, Shriver & Jacobson
+                                    One New York Plaza
+                                    New York, New York  10004
+                                    Attention:  Jonathan L. Mechanic, Esq.
+
+         (ii)     If to Purchaser:
+
+                                    Lehman Brothers, Inc.
+                                    101 Hudson Street
+                                    Jersey City, New Jersey 07302
+                                    Attention:  Mark J. Marcucci
+
+                                    and a copy to:
+
+                                    Office of the General Counsel
+                                    Lehman Brothers, Inc.
+                                    101 Hudson Street
+                                    Jersey City, New Jersey  07302
+                                    Attention:  Joseph Polizzotto, Esq.
+
+                                    with a copy to:
+
+
+                                      -31-
+<Page>
+
+                                    Weil, Gotshal & Manges LLP
+                                    767 5th Avenue
+                                    New York, New York  10153
+                                    Attention:  Alan A. Lascher, Esq.
+
+         Any Notice so sent by national overnight delivery service or personal
+delivery shall be deemed given on the date of receipt or refusal as indicated on
+the return receipt, or the receipt of the national overnight delivery service or
+personal delivery service. A Notice may be given either by a party or by such
+party's attorney. Seller or Purchaser may designate, by not less than five (5)
+business days' notice given to the others in accordance with the terms of this
+SECTION 19, additional or substituted parties to whom Notices should be sent
+hereunder. The provisions of this Section 19 shall survive the termination
+hereof or the Closing.
+
+20.      DEFAULT BY PURCHASER OR SELLER.
+
+         (a) If Purchaser shall default in the payment of the Purchase Price or
+if Purchaser shall default in the performance of any of its other obligations to
+be performed on the Closing Date, Seller's sole remedy by reason thereof shall
+be to terminate this Agreement and, upon such termination, Seller shall be
+entitled to retain the Deposit as liquidated damages for Purchaser's default
+hereunder, it being agreed that the damages by reason of Purchaser's default are
+difficult, if not impossible, to ascertain, and thereafter Purchaser and Seller
+shall have no further rights or obligations under this Agreement except for
+those that are expressly provided in this Agreement to survive the termination
+hereof. If Seller terminates this Agreement pursuant to a right given to it
+hereunder and Purchaser takes any action which interferes with Seller's ability
+to sell, exchange, transfer, lease, dispose of or finance the Property or take
+any other actions with respect thereto (including, without limitation, the
+filing of any lis pendens or other form of attachment against the Property),
+then the named Purchaser (and any assignee of Purchaser's interest hereunder)
+shall be liable for all loss, cost, damage, liability or expense (including,
+without limitation, reasonable attorneys' fees, court costs and disbursements
+and consequential damages) incurred by Seller by reason of such action to
+contest by Purchaser (collectively, "INTERFERENCE DAMAGES"); provided that the
+named Purchaser (and any such assignee) shall have no such liability for such
+Interference Damages if it shall be determined by a final order of a court of
+competent jurisdiction that Seller shall not have been entitled to terminate
+this Agreement.
+
+         (b) If Seller shall default in any of its obligations to be performed
+on the Closing Date Purchaser as its sole remedy by reason thereof (in lieu of
+prosecuting an action for damages (whether direct or consequential) or
+proceeding with any other legal course of conduct, the right to bring such
+actions or proceedings being expressly and voluntarily waived by Purchaser, to
+the extent legally permissible, following and upon
+
+
+                                      -32-
+<Page>
+
+advice of its counsel) shall have the right subject to the other provisions of
+this SECTION 20(B) (i) to seek to obtain specific performance of Seller's
+obligations hereunder, provided that any action for specific performance shall
+be commenced within sixty (60) days after such default (failing which Purchaser
+shall be deemed to have waived such remedy) or (ii) to terminate this Agreement
+(by delivering notice thereof to Seller) and to receive a return of the Deposit.
+If Purchaser fails to commence an action for specific performance within sixty
+(60) days after such default, Purchaser's sole remedy shall be to receive a
+return of the Deposit. Upon such return and delivery, this Agreement shall
+terminate and neither party hereto shall have any further obligations hereunder
+except for those that are expressly provided in this Agreement to survive the
+termination hereof. Notwithstanding the foregoing, Purchaser shall have no right
+to seek specific performance if Seller shall be prohibited from performing its
+obligations hereunder by reason of any law, regulation, or other legal
+requirement applicable to Seller.
+
+         (c) The provisions of this SECTION 20 shall survive the termination
+hereof.
+
+21.      FIRPTA COMPLIANCE.
+
+         Seller shall comply with the provisions of the Foreign Investment in
+Real Property Tax Act, Section 1445 of the Internal Revenue Code of 1986 (as
+amended), as the same may be amended from time to time, or any successor or
+similar law (collectively, "FIRPTA"). Seller acknowledges that Section 1445 of
+the Internal Revenue Code provides that a transferee of a United States real
+property interest must withhold tax if the transferor is a foreign person. To
+inform Purchaser that withholding of tax is not required upon the disposition of
+a United States real property interest by Seller, Seller hereby represents and
+warrants that Seller is not a foreign person as that term is defined in the
+Internal Revenue Code and Income Tax Regulations. On the Closing Date, Seller
+shall deliver to Purchaser a certification as to Seller's non-foreign status in
+the form attached hereto as EXHIBIT 4, and shall comply with any temporary or
+final regulations promulgated with respect thereto and any relevant revenue
+procedures or other officially published announcements of the Internal Revenue
+Service of the U.S. Department of the Treasury in connection therewith.
+
+22.      ENTIRE AGREEMENT.
+
+         Except as set forth in SECTION 29 hereof, this Agreement, including all
+schedules and exhibits hereto, contains all of the terms agreed upon between
+Seller and Purchaser with respect to the subject matter hereof, and all prior
+agreements, understandings, representations and statements, oral or written,
+between Seller and Purchaser are merged into this Agreement. The provisions of
+this SECTION 22 shall survive the Closing or the termination hereof.
+
+
+
+                                      -33-
+<Page>
+
+23.      AMENDMENTS.
+
+         This Agreement may not be changed, modified or terminated, except by an
+instrument executed by Seller and Purchaser. The provisions of this SECTION 23
+shall survive the Closing or the termination hereof.
+
+24.      WAIVER.
+
+         No waiver by either party of any failure or refusal by the other party
+to comply with its obligations shall be deemed a waiver of any other or
+subsequent failure or refusal to so comply. The provisions of this SECTION 24
+shall survive the Closing or the termination hereof.
+
+25.      PARTIAL INVALIDITY.
+
+         If any term or provision of this Agreement or the application thereof
+to any person or circumstance shall, to any extent, be invalid or unenforceable,
+the remainder of this Agreement, or the application of such term or provision to
+persons or circumstances other than those as to which it is held invalid or
+unenforceable, shall not be affected thereby, and each term and provision of
+this Agreement shall be valid and shall be enforced to the fullest extent
+permitted by law. The provisions of this SECTION 25 shall survive the Closing or
+the termination hereof.
+
+26.      SECTION HEADINGS.
+
+         The headings of the various sections of this Agreement have been
+inserted only for the purposes of convenience, and are not part of this
+Agreement and shall not be deemed in any manner to modify, explain, expand or
+restrict any of the provisions of this Agreement. The provisions of this SECTION
+26 shall survive the Closing or the termination hereof.
+
+27.      GOVERNING LAW.
+
+         This Agreement shall be governed by the laws of the State of New York
+without giving effect to conflict of laws principles thereof. The provisions of
+this SECTION 27 shall survive the Closing or the termination hereof.
+
+28.      PARTIES; ASSIGNMENT AND RECORDING.
+
+         (a) This Agreement and the various rights and obligations arising
+hereunder shall inure to the benefit of and be binding upon Seller and Purchaser
+and their respective successors and permitted assigns.
+
+
+                                      -34-
+<Page>
+
+         (b) Purchaser may not assign or otherwise transfer this Agreement or
+any of its rights or obligations hereunder or any of the direct or indirect
+ownership interests in Purchaser, without first obtaining Seller's consent
+thereto, which consent Seller may grant or withhold in its sole and absolute
+discretion. Notwithstanding the foregoing, Purchaser shall have the right to
+assign this Agreement to (1) one or more affiliates of Purchaser, (2) an entity
+or entities established by Purchaser for the purpose of providing synthetic
+lease or other financing, or (3) an entity or entities established in order to
+obtain governmental economic benefits for the Premises provided that (i) any
+such assignment shall be subject to the provisions of the Ground Lease; (ii) LHI
+shall execute and deliver the Substitute Guaranty and (iii) Purchaser shall have
+provided Seller with reasonable notice of such proposed assignment no later than
+five (5) days prior to Closing.
+
+         (c) Neither this Agreement nor any memorandum hereof shall be recorded.
+
+         (d) The provisions of SECTION 28(A) and 28(C) shall survive the Closing
+or the termination hereof. The provisions of SECTION 28(B) shall survive the
+termination hereof.
+
+29.      CONFIDENTIALITY AND PRESS RELEASES.
+
+         (a) Purchaser shall continue to comply with the provisions of the
+confidentiality agreement, dated October 5, 2001 (the "CONFIDENTIALITY
+AGREEMENT") heretofore executed by or on behalf of Purchaser and shall maintain
+as confidential all "Information" (including, without limitation, all
+information obtained in connection with Purchaser's access and inspection of the
+Premises under SECTION 3 hereof) in accordance with the provisions thereof.
+Notwithstanding the foregoing, the provisions of paragraph 6 of the
+Confidentiality Agreement are deemed of no further force and effect and are
+superceded by the provisions of this Agreement.
+
+         (b) Between the date hereof through and including the Closing Date and
+except as otherwise expressly provided in clause (c) below, Purchaser and Seller
+shall not (and shall cause their respective agents, employees, attorneys and
+advisors including, without limitation, financial institutions to not) disclose,
+make known, divulge, disseminate or communicate the Purchase Price or any of the
+terms of this Agreement or this transaction or any agreement, document or
+understanding pertinent to the instant transaction without the consent of the
+other party, except (i) as required by law (including, without limitation, in
+connection with any securities filings), (ii) to Purchaser's and Seller's
+directors, employees and advisors (including those of its affiliates) involved
+in the transaction, (iii) to Purchaser's prospective lenders or investors.
+
+         (c) Prior to the Closing, Seller and Purchaser shall confer and agree
+upon a press release disclosing the transaction and shall jointly issue such
+release at an appropriate time, agreed to by Seller and Purchaser, following the
+Closing. After the Closing, subject to the terms of the Publicity Agreement,
+Seller and Purchaser may issue
+
+
+                                      -35-
+<Page>
+
+additional press releases which do not contain confidential information and
+which do not make reference to the other party (unless the other party consents
+thereto).
+
+         (d) Except as may be required by any law, rule or regulation of a
+governmental authority, by court order or by applicable accounting standards,
+Seller shall not publicly describe the transaction other than as a reflection of
+the approximate cost that Seller has or intends to spend on the Property.
+
+         (e) The provisions of SECTION 29(A) shall survive the termination of
+this Agreement and the provisions of SECTION 29(B) and SECTION 29(C) shall
+survive the termination hereof or the Closing.
+
+30.      FURTHER ASSURANCES.
+
+         Seller and Purchaser will do, execute, acknowledge and deliver all and
+every such further acts, deeds, conveyances, assignments, notices, transfers and
+assurances as may be reasonably required by the other party, for the better
+assuring, conveying, assigning, transferring and confirming unto Purchaser the
+Property and for carrying out the intentions or facilitating the consummation of
+this Agreement. The provisions of this SECTION 30 shall survive the Closing.
+
+31.      THIRD PARTY BENEFICIARY.
+
+         This Agreement is an agreement solely for the benefit of Seller and
+Purchaser (and their permitted successors and/or assigns). No other person,
+party or entity shall have any rights hereunder nor shall any other person,
+party or entity be entitled to rely upon the terms, covenants and provisions
+contained herein. The provisions of this SECTION 31 shall survive the Closing or
+the termination hereof.
+
+32.      JURISDICTION AND SERVICE OF PROCESS.
+
+         The parties hereto agree to submit to personal jurisdiction in the
+State of New York in any action or proceeding arising out of this Agreement and,
+in furtherance of such agreement, the parties hereby agree and consent that
+without limiting other methods of obtaining jurisdiction, personal jurisdiction
+over the parties in any such action or proceeding may be obtained within or
+without the jurisdiction of any court located in New York and that any process
+or notice of motion or other application to any such court in connection with
+any such action or proceeding may be served upon the parties by registered or
+certified mail to or by personal service at the last known address of the
+parties, whether such address be within or without the jurisdiction of any such
+court. The provisions of this SECTION 32 shall survive the Closing or the
+termination hereof.
+
+
+                                      -36-
+<Page>
+
+33.      WAIVER OF TRIAL BY JURY.
+
+         SELLER AND PURCHASER HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVE ANY
+AND ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, SUIT OR COUNTERCLAIM ARISING IN
+CONNECTION WITH, OUT OF OR OTHERWISE RELATING TO THIS AGREEMENT. THE PROVISIONS
+OF THIS SECTION 33 SHALL SURVIVE THE CLOSING OR THE TERMINATION HEREOF.
+
+34.      MISCELLANEOUS.
+
+         (a) Whenever in this Agreement it is provided that Purchaser's
+successors and/or transferees and/or assignees shall have any rights or
+obligations, such phrase shall be deemed to include all designees of Purchaser
+as well as all of the transferees, successors and assigns of Purchaser and such
+designees.
+
+         (b) This Agreement may be executed in multiple counterparts, each of
+which shall be deemed an original and together constitute one and the same
+instrument.
+
+         (c) Any consent or approval to be given hereunder (whether by Seller or
+Purchaser) shall not be effective unless in writing. Except as otherwise
+expressly provided herein, any consent or approval requested of Seller or
+Purchaser shall not be unreasonably withheld by Seller or Purchaser.
+
+         (d) The provisions of this SECTION 34 shall survive the Closing or the
+termination hereof.
+
+         (e) This Agreement shall not be assignable by Seller.
+
+         (f) The submission of this document and all subsequent drafts by Seller
+or its attorneys shall not be deemed an offer by Seller to sell or Purchaser to
+purchase the Property on the terms set forth in such drafts and such document or
+draft may be withdrawn or modified by Seller or its agent at any time or for any
+reason. Neither this document nor any draft shall be effective nor shall either
+party have any rights or obligations with respect to the Property or under this
+Agreement unless and until Seller and Purchaser shall have executed this
+document and delivered same to the other and all the conditions to the
+effectiveness hereof contained herein shall have been met.
+
+         (g) The provisions of this Section 34 shall survive the Closing or the
+termination hereof.
+
+
+                                      -37-
+<Page>
+
+35.      ORGANIZATIONAL REPRESENTATIONS.
+
+         (a) Seller hereby represents and warrants to Purchaser that (i) Seller
+is a duly organized limited liability company which is in valid existence under
+the laws of the State of Delaware, (ii) Seller is in good standing and
+authorized to do business in the State of New York and (iii) Seller's execution
+of this Agreement and the performance of its obligations hereunder have been
+duly authorized by all necessary limited liability company action.
+
+         (b) Purchaser hereby represents and warrants to Seller that (i)
+Purchaser is a duly organized corporation which is in valid existence and in
+good standing under the laws of the State of Delaware, (ii) Purchaser is in good
+standing and authorized to do business in the state of New York and (ii)
+Purchaser's execution of this Agreement and the performance of its obligations
+hereunder have been duly authorized by all necessary corporate action.
+
+         (c) The provisions of this SECTION 35 shall survive the Closing.
+
+36.      CERTAIN GROUND LEASE PROVISIONS.
+
+         (a) Purchaser acknowledges that pursuant to Article 38 of the Ground
+Lease Landlord has a right of first offer ("ROFO") with respect to any sale of
+the Property. Seller has requested that Landlord waive such ROFO in writing;
+provided, however, that Seller shall incur no liability if Landlord fails to do
+so. Notwithstanding the foregoing, Seller has sent Landlord a notice (a copy of
+which is attached hereto as Schedule M) as required under the Ground Lease. If
+Landlord fails timely to give a Negotiation Notice (as defined in the Ground
+Lease) to Seller, the parties shall proceed to close the transaction as
+contemplated hereby. If Landlord gives a Negotiation Notice, then the Scheduled
+Closing Date shall be postponed until the end of the 60-day Negotiation Period.
+If such Negotiation Period shall expire without Landlord and Seller entering
+into a Purchase and Sale Agreement and Seller receives the Certification or
+waives the requirements for such Certification, then Seller shall notify
+Purchaser and the parties shall promptly proceed to Closing. If Landlord and
+Seller shall enter into a purchase and Sale Agreement pursuant to the ROFO, then
+Seller shall have the right to terminate this Agreement and close on the sale to
+Landlord pursuant to the terms of such purchase and sale agreement. In such
+event, the Deposit shall be returned to Purchaser and neither Purchaser nor
+Seller shall have any further obligations to other except those, if any, as are
+expressly stated herein to survive such termination.
+
+         (b) Seller and Purchaser agree to cooperate with one another in all
+respects in order to comply with the requirements of Article 22 of the Ground
+Lease to effect, as of the Closing Date, a permitted "Restricted Transfer" of
+the Seller's interest in the Ground Lease (as such term is defined in the Ground
+Lease) and to obtain (i) confirmation from
+
+
+                                      -38-
+<Page>
+
+Landlord that Seller has complied with the provisions of Article 22 and (ii) a
+release of Tenant and Guarantor (as defined in the Ground Lease) from any
+further obligations under the Ground Lease, the Existing Guaranty and other
+Operative Documents accruing from and after the date of such assignment.
+Notwithstanding the foregoing, Seller and MS shall remain responsible for all of
+the monetary obligations of Seller under the Development Agreement between
+Seller and Rockefeller Group Development Corporation dated November 19, 1998
+(the "DEVELOPMENT AGREEMENT"). The execution and delivery by Landlord of the
+confirmation and release referred to in clauses (i) and (ii) above shall be a
+condition to Seller's obligation to close hereunder.
+
+         (ii) Immediately after the execution of this Agreement, pursuant to
+Section 22.4.5 of the Ground Lease, Seller and Purchaser shall submit to
+Landlord (A) the notice of the proposed transaction contemplated by ss. 22.4.5,
+(B) certified financial statements for the substitute guarantor LHI prepared in
+accordance with GAAP for the three (3) full years prior to the proposed
+transfer, (C) a form of substitute guaranty to be executed by LHI as required by
+Section 22.4.2.2.1 of the Ground Lease substantially in the form attached hereto
+as Exhibit 9, (D) a copy of the proposed instrument(s) of assignment of the
+Ground Lease containing, INTER ALIA, the name, address and telephone number of
+the assignee substantially in the form attached hereto as Exhibit 2, (E) a copy
+of the proposed instrument(s) of assumption by Purchaser containing, INTER ALIA,
+the name, address and telephone number of the assignee substantially in the form
+attached hereto as Exhibit 2, (F) if the assignee is not a Public Company, the
+affidavit required pursuant to ss. 22.4.5.5 of the Ground Lease, and (G)
+Purchaser shall also deliver an opinion of counsel of LHI as to the power and
+authority of LHI to execute and deliver such substitute guaranty which opinion
+shall be substantially in the form attached hereto as Exhibit 10.
+
+         (iii) The parties will cooperate with one another to seek to obtain the
+confirmation and release contemplated under paragraph (b) above including,
+without limitation, if appropriate in Seller's reasonable judgment, the
+commencement of any arbitration proceeding contemplated by Article 22 of the
+Ground Lease.
+
+         (iv) At Seller's election, Seller may, in its sole and absolute
+discretion, accept in lieu of all or a portion of the release provided for in
+paragraph (b)(ii) above, an indemnity from LHI against any loss, liability,
+cost, damages or expense including, without limitation, all reasonable legal
+fees and disbursements, arising out of any obligation under the Existing
+Guaranty or the Operative Documents which is not released by Landlord and which
+accrues at any time from and after the date of Closing except to the extent the
+same relates to the Development Agreement which shall in all events remain the
+liability of Seller and MS.
+
+
+                                      -39-
+<Page>
+
+37.      CONDITION OF PREMISES AT CLOSING.
+
+         (a) Pursuant to this Agreement, Seller is conveying to Purchaser, the
+Building, the Interior Improvements, the FF&E, the IT Equipment and the Exterior
+Signs being installed in the Building presently under construction on the Land
+pursuant to the Base Building Plans, the Interior Improvement Plans, the FF&E
+Specifications, the IT Equipment Specifications, the Exterior Signs
+Specifications and all specifications, drawings and sketches underlying
+so-called change orders to the foregoing (collectively, the "PLANS"). Seller
+also has certain obligations to complete in accordance with the Plans and the
+approvals granted Seller by local governmental authorities ("APPROVALS"),
+certain site improvements as set forth on SCHEDULE G hereto (the "HOIST RELATED
+WORK"), certain work required by the Subway Agreement, (the "SUBWAY WORK") and
+to dedicate, in accordance with the Approvals, certain space in the Building for
+entertainment use to comply with the entertainment requirement of the district
+within which the Premises are located (the "DEDICATION REQUIREMENT"). Subject to
+Section (b) below, Seller agrees, following the Closing Date, to substantially
+complete the work contemplated by the Plans (the "PROJECT"), including the Hoist
+Related Work and the Subway Work and to satisfy the Dedication Requirement,
+subject to and in accordance with the provisions of the terms of the Post
+Closing Agreement.
+
+         (b) Notwithstanding the provisions of SECTION 37(a) above Purchaser
+shall have the one-time right, exercisable on or before November 1, 2001, TIME
+BEING OF THE ESSENCE, to notify Seller that Purchaser elects to have Seller
+cease, as of the Closing Date, to perform any Interior Improvements and to
+deliver and install any FF&E and IT Equipment (i) on one or more, but less than
+all, of the floors of the Building (a "STOP WORK NOTICE") or (ii) in the entire
+Building (a "FULL STOP ELECTION"). Upon receipt of a Stop Work Notice or Full
+Stop Election, Seller shall notify the respective Contractors responsible for
+the substantial completion of the work on the floor or floors for which a Stop
+Work Notice or a Full Stop Election has been given and obtain from such
+Contractors a determination of the amount of credit, if any, that will be given
+by such Contractor(s) as a result thereof. Purchaser and Seller agree that as to
+any floor or floor for which a Stop Work Notice has been received, Seller shall
+deliver such floor to Purchaser on the Closing Date in its then "as is"
+condition and credit Purchaser, at Closing, with an amount equal to the credits
+actually given to Seller by those Contractors whose work has been stopped or
+cancelled on such floor or floors. In the event Purchaser delivers a Full Stop
+Election, any credit shall be determined as provided in paragraph 10(b) of the
+Post Closing Agreement. Upon receipt of a Full Stop Election, Seller shall
+notify Turner Construction ("TURNER") and obtain from Turner a determination of
+the amount then due and payable under Turner's agreement with Seller to perform
+the Interior Improvements. In the event of a Full Stop Election, (A) Seller
+shall deliver to Purchaser on the Closing Date the entire Building in its then
+"as is" condition (except for Seller's remaining obligations with respect to
+Base Building Work and obtaining the Zero
+
+
+                                      -40-
+<Page>
+
+Occupancy TCO), (B) [INTENTIONALLY DELETED] and (C) Seller shall assign to
+Purchaser at Closing all of the FF&E Contracts and the IT Contracts, as such
+terms are defined in the Post Closing Agreement, other than any thereof
+providing for Excluded Personalty or which Seller would otherwise not be
+obligated to perform for Purchaser under the Post Closing Agreement in the
+absence of any Stop Work Notice or Full Stop Election. In no event shall the
+agreement between seller and Turner by assigned to Purchaser without Turner's
+consent.
+
+         (c) The provisions of this Article 37 shall survive Closing.
+
+38.      LIMITATION ON EMPLOYMENT.
+
+         So as not to interfere with the timely completion of the Improvements,
+Purchaser agrees on behalf of itself and its affiliates that it shall not
+solicit for employment, hire or otherwise utilize the services of any individual
+or entity directly or indirectly, who has performed or hereafter performs
+services relating to the design, development, construction or operation of the
+Premises for or on behalf of MSDW, MS or any Seller Related Parties, directly or
+indirectly (the "PROJECT PERSONNEL") without Seller's prior consent (which may
+be written or oral, but if oral, thereafter confirmed in writing), which consent
+may be withheld if in MSDW's reasonable discretion MSDW believes that such
+employment shall have an adverse affect on the final completion of the Premises.
+This restriction shall terminate on the date Purchaser acknowledges in writing
+that final completion of the Premises has occurred. Notwithstanding the
+foregoing, Purchaser shall not be precluded from continuing its relationships
+with such entities or persons employed thereby with whom Purchaser has an
+existing relationship and may engage Hines as an Advisor provided that the
+employees of Hines acting on behalf of Purchaser shall be subject to the
+limitations of this Section. Prior to final completion of the Project, subject
+to a written agreement between the parties Seller may assign and Purchaser
+assume one or more of the contracts relating to the final completion of the
+Project, at which time this restriction shall no longer be applicable to such
+contractor and its employees. The provisions of this Article 38 shall survive
+Closing.
+
+
+                                      -41-
+<Page>
+
+
+         IN WITNESS WHEREOF, Seller and Purchaser have caused this Agreement to
+be executed the day and year first above written.
+
+                                            SELLER:
+                                            -------
+
+                                            MSDW 745, LLC
+
+                                            By:  MS Financing, Inc.
+
+
+                                                 By: /s/ Roger Hochschild
+                                                    ----------------------------
+                                                    Name:  Roger Hochschild
+                                                    Title: Vice President
+
+
+                                            PURCHASER:
+                                            ----------
+
+                                            LB 745 LLC
+
+
+                                            By: /s/ Joseph M. Gregory
+                                               ---------------------------------
+                                               Name:  Joseph M. Gregory
+                                               Title: Chief Administrative
+                                                      Officer
+
+
+                                      -42-
+<Page>
+
+
+                         [Schedules and Exhibits Omitted]
+
+</TEXT>
+</DOCUMENT>
