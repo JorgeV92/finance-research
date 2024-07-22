@@ -2,6 +2,6 @@
 
 # Finance Research
 
-Predicting Bank Failures and Bankruptcy with Machine Learning and Reinforcement Learning
+Predicting Bank Failures and Bankruptcy with Machine Learning with Pytorch and researching methods with functional programming. 
 
 
